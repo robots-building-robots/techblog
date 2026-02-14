@@ -1,0 +1,12 @@
+{
+  "name": "techblog",
+  "version": "1.0.0",
+  "description": "Tech blog built with TinyJam",
+  "scripts": {
+    "build": "tinyjam . public",
+    "watch": "tinyjam . public --watch"
+  },
+  "dependencies": {
+    "tinyjam": "latest"
+  }
+}
