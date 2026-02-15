@@ -6,9 +6,10 @@
 :root {
   --bg: #0d0d0d;
   --text-primary: #eeeeee;
-  --text-secondary: #666666;
+  --text-secondary: #999999;
   --border: #333333;  
   --accent: #ffffff;
+  --font-secondary-size: 0.85rem;
   --v-spacing: 3em;
   --h-spacing: 1.5em;
 }
@@ -77,18 +78,16 @@ pre {
   border-radius: 4px;
 }
 
-small {
-  font-size: 12px;
-}
-
-time, .meta {
-  font-size: 1rem;
+time, .meta, .dim, footer, small {
+  color: var(--text-secondary);
+  font-family: ui-monospace, "Cascadia Code", monospace;
+  font-weight: 300;
+  font-size: var(--font-secondary-size);
 }
 
 footer {
-  color: var(--text-secondary);
   text-transform: uppercase;
-  padding: 1em 0px;
+  padding: 2em 0px;
 }
 hr {
   border: 0;
@@ -104,10 +103,6 @@ hr {
   margin-bottom: var(--v-spacing); 
 }
 img.logo {
-  width: 70px;
+  width: 60px;
   height: auto;
-}
-
-.dim {
-  color: var(--text-secondary);
 }
