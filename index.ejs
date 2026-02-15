@@ -1,15 +1,18 @@
 <%- include('_header.ejs') -%>
 
-<div class="header">
+<div class="align-horizontal">
     <img class="logo" src="img/logo.png" alt="model collapse logo" />
     <h1><%= data.title %></h1>
 </div>
 
+<ul>
 <% for (const name of Object.keys(posts).reverse()) { const {date, title, body} = posts[name]; -%>
-    <!-- time to  -->
-    <h2><a href="posts/<%= name %>.html"><%= title %></a><time class="dim"> &#8226; <%= date.toISOString().slice(0, 10)%></time></h2>
-    <p><%- body.trim().match(/\<p>(.+)<\/p>/)[1] %> [&hellip;]</p>
-    <hr>
+    <li>
+        <h2><a href="posts/<%= name %>.html"><%= title %></a><time class="dim"> &#8226; <%= date.toISOString().slice(0, 10)%></time></h2>
+        <p><%- body.trim().match(/\<p>(.+)<\/p>/)[1] %> [&hellip;]</p>
+        <hr>
+    </li>
 <% } -%>
+</ul>
 
 <%- include('_footer.ejs') -%>

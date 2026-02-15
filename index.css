@@ -29,7 +29,7 @@ h1, h2, h3 {
   font-weight: 600;
   letter-spacing: 0.123em;
   text-transform: uppercase;
-  line-height: 1;
+  line-height: 0.5em;
 }
 h1 {
   font-size: 1.5em;
@@ -51,6 +51,11 @@ a:hover {
   color: var(--accent);
 }
 
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
 main {
   max-width: 65ch;
   width: 100%;
@@ -69,7 +74,7 @@ article {
 }
 
 article header {
-  margin-bottom: var(--v-spacing);
+  margin-bottom: 2em;
 }
 
 code {
@@ -107,7 +112,7 @@ hr {
   margin: var(--v-spacing) auto;
 }
 
-.header {
+.align-horizontal {
   display: flex;
   align-items: center;
   gap: 1em;
