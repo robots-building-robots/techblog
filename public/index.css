@@ -5,7 +5,7 @@
 /* Core Variables */
 :root {
   --bg: #0d0d0d;
-  --text-primary: #e3e3e3;
+  --text-primary: #eeeeee;
   --text-secondary: #666666;
   --border: #333333;  
   --accent: #ffffff;
@@ -54,6 +54,10 @@ main {
     margin: 30px auto;
     padding: 0 1rem;
   }
+}
+
+article {
+  padding-right: 1em;
 }
 
 code {
