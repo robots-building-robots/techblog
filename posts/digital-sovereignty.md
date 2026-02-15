@@ -1,6 +1,6 @@
 ---
-title: Another post
-date: 2020-05-09
+title: Digital Sovereignty
+date: 2026-02-01
 ---
 Cras a dolor sit amet ipsum fermentum tincidunt ut vel est. Duis mattis tortor eget diam tempus, nec facilisis urna sollicitudin. Etiam neque quam, pulvinar in dapibus in, malesuada at ante. Suspendisse sed risus blandit, dapibus felis a, porttitor ligula. Suspendisse tempus nec tortor quis molestie.
 

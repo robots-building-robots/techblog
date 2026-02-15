@@ -7,9 +7,11 @@
 </nav>
 
 <article>
-<h1><%= title %></h1>
+    <header>
+        <h1><%= title %></h1>
+        <time><%= date.toDateString() %></time>
+    </header>
 <%- body %>
-<p class="dim">Posted on <time><%= date.toDateString() %></time>.</p>
 
 <%- include('../_footer.ejs') -%>
 </article>

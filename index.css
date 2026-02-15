@@ -29,6 +29,7 @@ h1, h2, h3 {
   font-weight: 600;
   letter-spacing: 0.123em;
   text-transform: uppercase;
+  line-height: 1;
 }
 h1 {
   font-size: 1.5em;
@@ -67,6 +68,10 @@ article {
   padding-right: 1em;
 }
 
+article header {
+  margin-bottom: var(--v-spacing);
+}
+
 code {
   font-family: ui-monospace, "Cascadia Code", monospace;
   background: var(--text-secondary);
@@ -93,7 +98,7 @@ time, .meta, .dim, footer, small {
 
 footer {
   text-transform: uppercase;
-  padding: 2em 0px;
+  padding: var(--v-spacing) 0px;
 }
 hr {
   border: 0;
