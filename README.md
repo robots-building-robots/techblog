@@ -1,4 +1,4 @@
-# TechBlog
+# model collapse
 
 A static blog built with [TinyJam](https://github.com/mourner/tinyjam).
 

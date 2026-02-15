@@ -11,7 +11,8 @@ img.logo {
     float: right;
 }
 a {
-    color: #0076DD;
+    // off white
+    color: #eee;
 }
 hr {
     border: 0;
