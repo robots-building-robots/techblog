@@ -1,9 +1,13 @@
 <%- include('../_header.ejs') -%>
 
-<p><a href="../index.html">&larr; <%= root.data.title %></a></p>
+<p class="header">
+    &#x25C0; 
+    <!-- <img class="logo" src="../img/logo.png" alt="model collapse logo" />     -->
+    <a href="../index.html"> <%= root.data.title %></a>
+</p>
 
 <h1><%= title %></h1>
 <%- body %>
-<p><em>Posted on <%= date.toDateString() %>.</em></p>
+<p class="dim">Posted on <time><%= date.toDateString() %></time>.</p>
 
 <%- include('../_footer.ejs') -%>
