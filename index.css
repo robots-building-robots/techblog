@@ -6,7 +6,7 @@
 :root {
   --bg: #0d0d0d;
   --text-primary: #e3e3e3;
-  --text-secondary: #555555;
+  --text-secondary: #666666;
   --border: #333333;  
   --accent: #ffffff;
   --v-spacing: 3em;
@@ -43,14 +43,14 @@ a:hover {
   color: var(--accent);
 }
 
-article {
+main {
   max-width: 65ch;
   width: 100%;
   margin: 4em auto;
 }
 
 @media (max-width: 600px) {
-  article {
+  main {
     margin: 30px auto;
     padding: 0 1rem;
   }
@@ -84,6 +84,7 @@ time, .meta {
 footer {
   color: var(--text-secondary);
   text-transform: uppercase;
+  padding: 1em 0px;
 }
 hr {
   border: 0;
