@@ -36,6 +36,10 @@ h2 {
   font-size: 1.3em;
 }
 
+p {
+  margin: 1.5em 0;
+}
+
 a {
   color: var(--text-primary);
   text-decoration: underline;
