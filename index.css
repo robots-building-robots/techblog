@@ -2,7 +2,6 @@
   box-sizing: border-box;
 }
 
-/* Core Variables */
 :root {
   --bg: #0d0d0d;
   --text-primary: #eeeeee;
@@ -27,9 +26,8 @@ body {
 h1, h2, h3 {
   color: #ffffff;
   font-weight: 600;
-  letter-spacing: 0.123em;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
-  line-height: 0.5em;
 }
 h1 {
   font-size: 1.5em;
@@ -69,10 +67,6 @@ main {
   }
 }
 
-article {
-  padding-right: 1em;
-}
-
 article header {
   margin-bottom: 2em;
 }
@@ -105,6 +99,7 @@ footer {
   text-transform: uppercase;
   padding: var(--v-spacing) 0px;
 }
+
 hr {
   border: 0;
   height: 1px;
@@ -112,13 +107,14 @@ hr {
   margin: var(--v-spacing) auto;
 }
 
+img.logo {
+  width: 70px;
+  height: auto;
+}
+
 .align-horizontal {
   display: flex;
   align-items: center;
   gap: 1em;
   margin-bottom: var(--v-spacing); 
-}
-img.logo {
-  width: 70px;
-  height: auto;
 }
