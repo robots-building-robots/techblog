@@ -14,9 +14,10 @@ Model collapse is what happens when AI systems train on AI-generated data: outpu
 Some Inspiration: 
 - <a href="https://criticalengineering.org/" target="_blank" rel="noopener noreferrer">Critical Engineering</a>
 - <a href="https://luckysoap.com/statements/handmadeweb.html" target="_blank" rel="noopener noreferrer">A Handmade Web</a>
+- <a href="https://motherfuckingwebsite.com/" target="_blank" rel="noopener noreferrer">Motherfucking Website</a>
 
 <hr>
 
-> "I evoke the term 'handmade web' to suggest slowness and smallness as a forms of resistance." — J. R. Carpenter, March 2015.
+> "That which withers in the age of mechanical reproduction is the aura of the work of art." — Walter Benjamin, 1935.
 
 <hr>
