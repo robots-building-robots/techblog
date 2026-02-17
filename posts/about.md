@@ -24,6 +24,6 @@ Get in touch: <a href="mailto:hello&#64;modelcollapse&#46;site"><span>hello&#64;
 
 <hr>
 
-> "[A]s first principle … the time saved by automatization must be invested in new capacities for dis-automatization, that is, for the production of negentropy [the creation of new value and differentiation]." — Bernard Stiegler, 2016.
+> "[A]s first principle … the time saved by automatization must be invested in new capacities for dis-automatization, that is, for the production of negentropy … [T]he time liberated by the end of work must be put at the service of an automated culture, but one capable of producing new value and of reinventing work." — Bernard Stiegler, 2016.
 
 <hr>
