@@ -7,7 +7,7 @@ I'm a ***Software Developer*** with over a decade experience in mobile and enter
 
 I approach engineering as ***craft***, valuing human authorship, collaboration and responsible AI-assisted workflows over black-box automation, platform dependency, and proprietary lock-in. ***Open source***, ***inclusive design***, ***data privacy***, ***digital sovereignty***, and ***sustainable architecture*** are the principles that guide that practice.
 
-Informed by ***Critical Theory*** and ***Philosophy of Technology***, my goal is to build digital experiences and tools grounded in constructive critical thinking: healthy skepticism, resisting convenience as justification for ethical compromise, and insisting on solutions that respect the communities and ecologies that sustain us.
+Informed by ***Critical Theory*** and ***Philosophy of Technology***, my goal is to build digital experiences and tools grounded in critical —and constructive— thinking. Healthy skepticism, resisting convenience as justification for ethical compromise, and insisting on solutions that respect the communities and ecologies that sustain us.
 
 ***Model collapse*** is what happens when AI systems train on AI-generated data: outputs converge, variance narrows, and the model consumes its own tail. As a social paradigm, algorithmic monocultures collapse the particularity of lived experience: the dreams, contradictions, and ambiguities that make life meaningful. Blind automation forecloses human authorship and, with it, the possibility of technology that genuinely serves the many, not the few. Keeping that authorship legible, accountable, and celebrated is not merely a romantic gesture; it is a technical and ethical necessity.
 
