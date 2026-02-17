@@ -3,13 +3,15 @@ title: About
 date: 2026-01-01
 ---
 
-I am a ***Software Developer*** with over a decade experience in mobile and enterprise systems, from early discovery through production.
+I'm a ***Software Developer*** with over a decade experience in mobile and enterprise systems, from early discovery through production.
 
-I approach engineering as ***craft***, valuing human authorship, collaboration and responsible AI-assisted workflows over black-box automation and proprietary lock-in. ***Open source***, ***inclusive design***, ***data privacy***, ***digital sovereignty***, and ***ecologically sustainable architecture*** are some of the principles that guide that practice.
+I approach engineering as ***craft***, valuing human authorship, collaboration and responsible AI-assisted workflows over black-box automation, platform dependency, and proprietary lock-in. ***Open source***, ***inclusive design***, ***data privacy***, ***digital sovereignty***, and ***sustainable architecture*** are the principles that guide that practice.
 
-Informed by ***Critical Theory*** and ***Philosophy of Technology***, my goal is to build digital experiences and tools grounded in sound critical thinking: questioning assumptions, resisting convenience as justification for ethically compromised solutions, and insisting on systems that respect the communities and ecologies that sustain us.
+Informed by ***Critical Theory*** and ***Philosophy of Technology***, my goal is to build digital experiences and tools grounded in constructive critical thinking: healthy skepticism, resisting convenience as justification for ethical compromise, and insisting on solutions that respect the communities and ecologies that sustain us.
 
-***Model collapse*** is what happens when AI systems train on AI-generated data: outputs converge, variance narrows, and the model consumes its own tail. As a social paradigm, what collapses in algorithmic monocultures is the irreducible particularity and contingency of lived existence: the dreams, contradictions, and opacities that make our lives meaningful. Blind automation accelerates collapse by foreclosing human authorship. Keeping that authorship legible, accountable, and celebrated is not merely a romantic gesture. It is a technical and ethical necessity.
+***Model collapse*** is what happens when AI systems train on AI-generated data: outputs converge, variance narrows, and the model consumes its own tail. As a social paradigm, algorithmic monocultures collapse the particularity of lived experience: the dreams, contradictions, and ambiguities that make life meaningful. Blind automation forecloses human authorship and, with it, the possibility of technology that genuinely serves the many, not the few. Keeping that authorship legible, accountable, and celebrated is not merely a romantic gesture; it is a technical and ethical necessity.
+
+Technology that augments rather than displaces human agency and creativity is worth building.
 
 Get in touch: <a href="mailto:hello&#64;modelcollapse&#46;site"><span>hello&#64;modelcollapse&#46;site</span></a>
 
@@ -22,6 +24,6 @@ Get in touch: <a href="mailto:hello&#64;modelcollapse&#46;site"><span>hello&#64;
 
 <hr>
 
-> "That which withers in the age of mechanical reproduction is the aura of the work of art." — Walter Benjamin, 1935.
+> "[A]s first principle … the time saved by automatization must be invested in new capacities for dis-automatization, that is, for the production of negentropy [negative entropy; the creation of new value and differentiation]." — Bernard Stiegler, 2016.
 
 <hr>

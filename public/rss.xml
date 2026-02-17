@@ -18,10 +18,11 @@
      <title>About</title>
      <link>/posts/about.html</link>
      <guid>/posts/about.html</guid>
-     <description><![CDATA[<p>I am a <em><strong>Software Developer</strong></em> with over a decade experience in mobile and enterprise systems, from early discovery through production.</p>
-<p>I approach engineering as <em><strong>craft</strong></em>, valuing human authorship, collaboration and responsible AI-assisted workflows over black-box automation and proprietary lock-in. <em><strong>Open source</strong></em>, <em><strong>inclusive design</strong></em>, <em><strong>data privacy</strong></em>, <em><strong>digital sovereignty</strong></em>, and <em><strong>ecologically sustainable architecture</strong></em> are some of the principles that guide that practice.</p>
-<p>Informed by <em><strong>Critical Theory</strong></em> and <em><strong>Philosophy of Technology</strong></em>, my goal is to build digital experiences and tools grounded in sound critical thinking: questioning assumptions, resisting convenience as justification for ethically compromised solutions, and insisting on systems that respect the communities and ecologies that sustain us.</p>
-<p><em><strong>Model collapse</strong></em> is what happens when AI systems train on AI-generated data: outputs converge, variance narrows, and the model consumes its own tail. As a social paradigm, what collapses in algorithmic monocultures is the irreducible particularity and contingency of lived existence: the dreams, contradictions, and opacities that make our lives vibrant and meaningful. Blind automation accelerates collapse by foreclosing human authorship. Keeping that authorship legible, accountable, and celebrated is not merely a romantic gesture. It is a technical and ethical necessity.</p>
+     <description><![CDATA[<p>I&#39;m a <em><strong>Software Developer</strong></em> with over a decade experience in mobile and enterprise systems, from early discovery through production.</p>
+<p>I approach engineering as <em><strong>craft</strong></em>, valuing human authorship, collaboration and responsible AI-assisted workflows over black-box automation, platform dependency, and proprietary lock-in. <em><strong>Open source</strong></em>, <em><strong>inclusive design</strong></em>, <em><strong>data privacy</strong></em>, <em><strong>digital sovereignty</strong></em>, and <em><strong>sustainable architecture</strong></em> are the principles that guide that practice.</p>
+<p>Informed by <em><strong>Critical Theory</strong></em> and <em><strong>Philosophy of Technology</strong></em>, my goal is to build digital experiences and tools grounded in constructive critical thinking: healthy skepticism, resisting convenience as justification for ethical compromise, and insisting on solutions that respect the communities and ecologies that sustain us.</p>
+<p><em><strong>Model collapse</strong></em> is what happens when AI systems train on AI-generated data: outputs converge, variance narrows, and the model consumes its own tail. As a social paradigm, algorithmic monocultures collapse the particularity of lived experience: the dreams, contradictions, and ambiguities that make life meaningful. Blind automation forecloses human authorship and, with it, the possibility of technology that genuinely serves the many, not the few. Keeping that authorship legible, accountable, and celebrated is not merely a romantic gesture; it is a technical and ethical necessity.</p>
+<p>Technology that augments rather than displaces human agency and creativity is worth building.</p>
 <p>Get in touch: <a href="mailto:hello&#64;modelcollapse&#46;site"><span>hello&#64;modelcollapse&#46;site</span></a></p>
 <p>&nbsp;</p>
 <h4 id="some-inspiration">Some Inspiration:</h4>
@@ -33,7 +34,7 @@
 <hr>
 
 <blockquote>
-<p>&quot;That which withers in the age of mechanical reproduction is the aura of the work of art.&quot; — Walter Benjamin, 1935.</p>
+<p>&quot;[A]s first principle … the time saved by automatization must be invested in new capacities for dis-automatization, that is, for the production of negentropy [negative entropy; the creation of new value and differentiation].&quot; — Bernard Stiegler, 2016.</p>
 </blockquote>
 <hr>]]></description>
 </item>
