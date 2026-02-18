@@ -3,11 +3,11 @@ title: "Ditching Big Tech"
 date: 2026-02-01
 ---
 
-In January 2026, I made the resolution to ditch US-based **Big Tech** as much as possible. We are living through a time of intensifying geopolitical tension and accelerating consolidation of digital infrastructure into the hands of a small number of empire-scale corporations who surveil our activity, mine our content, and sell it back to us like bottled water — or more like high fructose slop. 
+In January 2026, I made the resolution to ditch US-based **Big Tech** as much as possible. We are living through a time of intensifying geopolitical tension and accelerating consolidation of digital infrastructure into a small number of empire-scale corporations who surveil our activity, mine our content, and sell it back to us like bottled water — or, should I say, high fructose slop. 
 
-Most people don't care where their data lives. We choose what's cheap, familiar, and what works. The real costs of that convenience are never disclosed at the moment we signup. We have quietly normalized storing our digital lives under legal systems we never agreed to, in jurisdictions where we have no standing. That normalization is worth resisting.
+Most people don't care where their data lives. We just want what's cheap, familiar, and what works. The real costs of that convenience are never disclosed the moment we sign up. We have quietly normalized storing our digital footprints under legal systems we never agreed to, in jurisdictions where we have no standing. That normalization is worth resisting.
 
-This infrastructure isn't neutral. The same data pipelines and AI systems powering our productivity tools are procured for unlawful surveillance, policing, and warfare. The small print doesn't mention that. And none of it is more ethical for being algorithmic.
+**The infrastructure isn't neutral**. The same data pipelines and AI systems powering our productivity tools are procured for unlawful surveillance, policing, and warfare. The small print doesn't mention that. And none of it is more ethical for being algorithmic.
 
 **Small Tech**, not anti-technology, is the framing here. Smaller, local alternatives that can actually be held accountable — not platforms that answer to no one.
 
@@ -35,7 +35,7 @@ For inspiration, I looked to Paris Marx's <a href="https://disconnect.blog/getti
 
 ## Migration Log
 
-I've started where the cost and effort-to-impact ratio makes the most sense. Changing an email provider is manageable; replacing your OS without grinding your daily workload to a halt is a long-term goal for me. What follows is an ongoing log of where I started, where I'm moving, and why. 
+I've started where the cost-and-effort-to-impact ratio makes the most sense. Changing an email provider is manageable; replacing your OS without grinding your daily workload to a halt is a long-term goal for me. What follows is an ongoing log of where I started, where I'm moving, and why. 
 
 ---
 
@@ -43,9 +43,9 @@ Work-in-progress
 
 ---
 
-The "But I have nothing to hide" argument hasn't aged well. It assumes the rules won't change, the platforms won't be sold, and the data won't be misused. Data Privacy isn't about secrecy — it's about who holds power over your information and what they can do with it. Digital Sovereignty extends that question to jurisdiction: not just who holds the power, but under what law, with what accountability, and at what cost to community and the environment. For Canadians, there is a persistent gap between the privacy protections we assume we have and what is actually enforceable when a service runs on US infrastructure, regardless of where the physical servers actually sit. This isn't about national borders. It's about legibility.
+"But I have nothing to hide!" This argument hasn't aged well. It assumes the rules won't change, the platforms won't be sold, and the data won't be misused. **Data Privacy** isn't about secrecy; it's about who holds power over your information and what they can do with it. **Digital Sovereignty** extends that question to jurisdiction: not just who holds the power, but under what law, with what accountability, and at what cost to community and the environment. For Canadians, there is a persistent gap between the privacy protections we assume we have and what is actually enforceable when a service runs on US infrastructure, regardless of where the physical servers actually sit. This isn't about national borders. It's about **legibility**.
 
-Every time we sign up or sign in we should be asking ourselves: who unjustly profits from our convenience, and at whose expense?
+Every time we sign up or sign in we should be asking ourselves: **who unjustly profits from our convenience, and at whose expense?**
 
 ---
 
