@@ -5,9 +5,11 @@ date: 2026-02-01
 
 In January 2026, I made the resolution to ditch US-based **Big Tech** as much as possible. We are living through a time of intensifying geopolitical tension and accelerating consolidation of digital infrastructure into the hands of a small number of empire-scale corporations who surveil our activity, mine our content, and sell it back to us like bottled water — or more like high fructose slop. 
 
-Most people don't care where their data lives, they choose what's cheap, familiar, and what works. The real costs of that convenience are never disclosed at the moment of choice. We have quietly normalized storing our digital lives under legal systems we never agreed to, in jurisdictions where we have no standing. That normalization is worth resisting.
+Most people don't care where their data lives. We choose what's cheap, familiar, and what works. The real costs of that convenience are never disclosed at the moment we signup. We have quietly normalized storing our digital lives under legal systems we never agreed to, in jurisdictions where we have no standing. That normalization is worth resisting.
 
-**Small Tech**, not anti-technology, is the framing here — smaller, local alternatives that can be held accountable over platforms that answer to no one.
+This infrastructure isn't neutral. The same data pipelines and AI systems powering our productivity tools are procured for unlawful surveillance, policing, and warfare. The small print doesn't mention that. And none of it is more ethical for being algorithmic.
+
+**Small Tech**, not anti-technology, is the framing here. Smaller, local alternatives that can actually be held accountable — not platforms that answer to no one.
 
 For inspiration, I looked to Paris Marx's <a href="https://disconnect.blog/getting-off-us-tech-a-guide/" target="_blank" rel="noopener noreferrer">Getting Off US Tech</a>, Scott Galloway's <a href="https://www.resistandunsubscribe.com/" target="_blank" rel="noopener noreferrer">Resist and Unsubscribe</a>, and <a href="https://quitgpt.org/" target="_blank" rel="noopener noreferrer">QuitGPT</a>, but with a few different needs as a software developer focused open source tooling and the responsible use of AI, which, for better or worse, is now considered a professional baseline.
 
