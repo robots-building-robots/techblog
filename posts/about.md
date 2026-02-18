@@ -3,9 +3,7 @@ title: About
 date: 2026-01-01
 ---
 
-I'm a ***Software Developer*** with over a decade experience in mobile and enterprise systems, from early discovery through production.
-
-I approach engineering as a ***craft***, valuing human authorship, collaboration and responsible AI-assisted workflows over black-box automation, platform dependency, and proprietary lock-in. ***Open source***, ***inclusive design***, ***data privacy***, ***digital sovereignty***, and ***sustainable architecture*** are the principles that guide that practice.
+I'm a ***Software Developer*** with over a decade experience in mobile and enterprise systems, from early discovery through production. I approach engineering as a ***craft***, valuing human authorship, collaboration and responsible AI-assisted workflows over black-box automation, platform dependency, and proprietary lock-in. ***Open source***, ***inclusive design***, ***data privacy***, ***digital sovereignty***, and ***sustainable architecture*** are the principles that guide that practice.
 
 Informed by ***Critical Theory*** and ***Philosophy of Technology***, my goal is to build digital experiences and tools grounded in constructive critical thinking. Healthy skepticism, resisting convenience as justification for ethical compromise, and insisting on solutions that respect the diverse communities and ecologies that sustain us.
 

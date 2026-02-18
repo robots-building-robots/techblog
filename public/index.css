@@ -11,7 +11,7 @@
   --highlight: #ffffff;
   --dark: #767676;
   --font-secondary-size: 0.85rem;
-  --v-spacing: 3em;
+  --v-spacing: 6em;
   --h-spacing: 1.5em;
 }
 body {
@@ -29,20 +29,20 @@ body {
 h1, h2, h3 {
   color: #ffffff;
   font-weight: 600;
-  line-height: 1.4em;
   letter-spacing: 0.1em;
 }
 
 h1 {
   font-size: 1.5em;
+  line-height: 1.4em;
   text-transform: uppercase;
 }
 h2 {
   font-size: 1.3em;
-  line-height: 0;
   text-transform: uppercase;
 }
 h3, h4 {
+  line-height: 1em;
   font-weight: 400;
 }
 

@@ -1,11 +1,9 @@
 ---
-title: "Digital Sovereignty: Ditching Big Tech"
+title: "Ditching Big Tech"
 date: 2026-02-01
 ---
 
-In January 2026 I made a resolution: ditch US-based ***Big Tech*** as much as practically possible.
-
-We are living through intensifying geopolitical tension and accelerating consolidation of digital infrastructure into the hands of a small number of empire-sized corporations who surveil our activity, mine our content, and sell it back to us like bottled water — or more like high fructose slop. 
+In January 2026, I made the resolution to ditch US-based ***Big Tech*** as much as practically possible. We are living through intensifying geopolitical tension and accelerating consolidation of digital infrastructure into the hands of a small number of empire-sized corporations who surveil our activity, mine our content, and sell it back to us like bottled water — or more like high fructose slop. 
 
 Most people don't care where their data lives, they choose what's cheap, familiar, and what works. The real costs of that convenience are never disclosed at the moment of choice. We have quietly normalized storing our digital lives under legal systems we never agreed to, in jurisdictions where we have no standing. That normalization is worth resisting.
 
@@ -17,14 +15,12 @@ This isn't about national borders. It's about legibility — being able to answe
 
 ---
 
-## Priority Stack
-
-Here's how I've grouped online tools and services by priority:
+## Sovereignty Stack
 
 ### Infrastructure & Identity
 ***OS, Browser, Email, DNS:*** The base layer everything else flows through. Get this wrong and nothing above it matters. Hardest to change, highest stakes.
 
-### Professional Data & Work Product
+### Professional Data
 ***Code repositories, CI/CD, Cloud Documents, Web hosting, LLMs:*** Where the work lives: source code, client data, intellectual property, and the AI tools now inside the creative process. Stakes are professional and legal. Moderately difficult to migrate.
 
 ### Communications & Collaboration
