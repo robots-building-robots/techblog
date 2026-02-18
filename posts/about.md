@@ -9,7 +9,7 @@ I approach engineering as ***craft***, valuing human authorship, collaboration a
 
 Informed by ***Critical Theory*** and ***Philosophy of Technology***, my goal is to build digital experiences and tools grounded in critical and constructive thinking. Healthy skepticism, resisting convenience as justification for ethical compromise, and insisting on solutions that respect the diverse communities and ecologies that sustain us.
 
-***Model collapse*** is what happens when AI systems train on AI-generated data: outputs converge, variance narrows, and the model consumes its own tail. As a social paradigm, algorithmic monocultures collapse the particularities, contradictions, and ambiguities that make live existence meaningful. Blind automation forecloses human authorship and, with it, the possibility of technology that genuinely serves the many, not the few. Keeping that authorship legible, accountable, and celebrated is not an empty romantic gesture; it is of technical and ethical necessity.
+***Model collapse*** is what happens when AI systems train on AI-generated data: outputs converge, variance narrows, and the model consumes its own tail. As a social paradigm, algorithmic monocultures collapse the particularities, contradictions, and ambiguities that make lived existence meaningful. Blind, black-box automation forecloses human authorship and, with it, the possibility of technology that genuinely serves the many, not just the few. Keeping that authorship legible, accountable, and celebrated is not an empty romantic gesture; it is of technical and ethical necessity.
 
 Technology that augments rather than displaces human agency and creativity is worth building.
 
