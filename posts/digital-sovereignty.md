@@ -3,15 +3,15 @@ title: "Ditching Big Tech"
 date: 2026-02-01
 ---
 
-In January 2026, I made the resolution to ditch US-based ***Big Tech*** as much as practically possible. We are living through intensifying geopolitical tension and accelerating consolidation of digital infrastructure into the hands of a small number of empire-sized corporations who surveil our activity, mine our content, and sell it back to us like bottled water — or more like high fructose slop. 
+In January 2026, I made the resolution to ditch US-based ***Big Tech*** as much as possible. We are living through a time of intensifying geopolitical tension and accelerating consolidation of digital infrastructure into the hands of a small number of empire-sized corporations who surveil our activity, mine our content, and sell it back to us like bottled water — or more like high fructose slop. 
 
 Most people don't care where their data lives, they choose what's cheap, familiar, and what works. The real costs of that convenience are never disclosed at the moment of choice. We have quietly normalized storing our digital lives under legal systems we never agreed to, in jurisdictions where we have no standing. That normalization is worth resisting.
 
-For inspiration, I looked to some of the many movements like <a href="https://quitgpt.org/" target="_blank" rel="noopener noreferrer">QuitGPT</a>, Scott Galloway's <a href="https://www.resistandunsubscribe.com/" target="_blank" rel="noopener noreferrer">Resist and Unsubscribe</a>, and Paris Marx's <a href="https://disconnect.blog/getting-off-us-tech-a-guide/" target="_blank" rel="noopener noreferrer">Getting Off US Tech</a>, but with a few different needs as a software developer focused on infrastructure, open source tooling,and the responsible use of AI — which, for better or worse, is now considered a professional baseline.
+For inspiration, I looked to Paris Marx's <a href="https://disconnect.blog/getting-off-us-tech-a-guide/" target="_blank" rel="noopener noreferrer">Getting Off US Tech</a>, Scott Galloway's <a href="https://www.resistandunsubscribe.com/" target="_blank" rel="noopener noreferrer">Resist and Unsubscribe</a>, and <a href="https://quitgpt.org/" target="_blank" rel="noopener noreferrer">QuitGPT</a>, but with a few different needs as a software developer focused open source tooling and the responsible use of AI, which, for better or worse, is now considered a professional baseline.
 
-This isn't about national borders. It's about legibility — being able to answer who controls your data, under what law, with what accountability, and at what cost to community and the environment. For Canadians, there is a persistent gap between the privacy protections we assume we have and what is actually enforceable when a service runs on US infrastructure, regardless of where the physical servers actually sit.
+**Small Tech**, not anti-technology, is the framing here. **Digital Sovereignty** isn't about national borders. It's about **legibility** — knowing who controls your data, under what law, with what accountability, and at what cost to community and the environment. For Canadians, there is a persistent gap between the privacy protections we assume we have and what is actually enforceable when a service runs on US infrastructure, regardless of where the physical servers actually sit.
 
-**Small Tech**, not anti-technology, is the framing here. Technology taken seriously enough to ask: who unjustly profits from our convenience, and at whose expense?
+Every time we signup or sign-in we should be asking ourselves: ***who unjustly profits from our convenience, and at whose expense?***
 
 ---
 
@@ -35,7 +35,7 @@ This isn't about national borders. It's about legibility — being able to answe
 
 ## Migration Log
 
-I've started where the cost and effort-to-impact ratio makes the most sense. Changing an email provider is manageable; replacing your OS without your daily workload grinding to a halt is a long-term goal for me. What follows is an ongoing log of where I started, where I'm moving, and why. 
+I've started where the cost and effort-to-impact ratio makes the most sense. Changing an email provider is manageable; replacing your OS without grinding your daily workload to a halt is a long-term goal for me. What follows is an ongoing log of where I started, where I'm moving, and why. 
 
 ---
 
