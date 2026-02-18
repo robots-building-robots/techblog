@@ -9,6 +9,7 @@
   --border: #333333;  
   --accent: #eeeeee;
   --highlight: #ffffff;
+  --dark: #767676;
   --font-secondary-size: 0.85rem;
   --v-spacing: 3em;
   --h-spacing: 1.5em;
@@ -86,6 +87,12 @@ article header {
   margin-bottom: 2em;
 }
 
+@media (max-width: 600px) {
+  blockquote {
+    margin: 0;
+  }
+}
+
 code {
   font-family: ui-monospace, "Cascadia Code", monospace;
   background: var(--text-secondary);
@@ -113,6 +120,7 @@ time, .meta, .dim, footer, small {
 footer {
   text-transform: uppercase;
   padding: var(--v-spacing) 0px;
+  color: var(--dark);
 }
 
 hr {
