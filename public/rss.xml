@@ -33,12 +33,78 @@
 
 <h3 id="identity">Identity</h3>
 <div class="card">
+  <h3>OS — Desktop</h3>
+  <p><strong>macOS 🇺🇸</strong>&nbsp; → &nbsp;<strong>Linux (Long-term Goal)</strong></p>
+  <small>
+    - macOS is required for iOS/macOS development and client tooling<br>
+    - Moving to Linux is the principled choice but not without grinding daily work to a halt<br>
+    - Treating this as a long-term goal, not an immediate migration<br>
+  </small>
+  <small><strong>Cost $:</strong> Free</small>
+</div>
+
+<div class="card">
+  <h3>OS — Mobile</h3>
+  <p><strong>Android / Pixel 🇺🇸</strong>&nbsp; → &nbsp;<strong>GrapheneOS 🇨🇦</strong></p>
+  <small>
+    - Privacy-hardened Android fork, actively maintained<br>
+    - Officially supported on Google Pixel hardware — no new device needed<br>
+    - Canadian-led open source project<br>
+  </small>
+  <small><strong>Cost $:</strong> Free</small>
+</div>
+
+<div class="card">
   <h3>Email</h3>
   <p><strong>Gmail 🇺🇸</strong>&nbsp; → &nbsp;<strong>Proton Mail 🇨🇭</strong></p>
   <small>
     - End-to-end encrypted by default<br>
-    - Swiss jurisdiction, strong privacy law<br>
     - Proton suite consolidates a few useful services<br>
+  </small>
+  <small><strong>Cost $:</strong> Freemium</small>
+</div>
+
+<div class="card">
+  <h3>DNS</h3>
+  <p><strong>TekSavvy Default 🇨🇦</strong>&nbsp; → &nbsp;<strong>NextDNS 🇫🇷</strong></p>
+  <small>
+    - Default ISP resolvers log every domain you visit<br>
+    - Encrypted DNS (DoH/DoT) prevents ISP-level surveillance<br>
+    - Configurable, privacy-first<br>
+  </small>
+  <small><strong>Cost $:</strong> Freemium</small>
+</div>
+
+<div class="card">
+  <h3>ISP</h3>
+  <p><strong>Rogers 🇨🇦</strong>&nbsp; → &nbsp;<strong>TekSavvy 🇨🇦</strong></p>
+  <small>
+    - Canadian-owned and independent<br>
+    - Has historically advocated for net neutrality and user rights<br>
+    - Not a US jurisdiction concern — but default DNS resolvers still log your traffic<br>
+  </small>
+  <small><strong>Cost $:</strong> Mid</small>
+</div>
+
+<div class="card">
+  <h3>Browser</h3>
+  <p><strong>Chrome 🇺🇸</strong>&nbsp; → &nbsp;<strong>Mullvad Browser 🇸🇪 + Brave 🇺🇸</strong></p>
+  <small>
+    - Mullvad for personal browsing — anti-fingerprinting, no telemetry<br>
+    - Brave for development and testing — Chromium-based, Google-free<br>
+    - Chrome kept for QA only<br>
+    - A browser with &lt;3% market share isn't viable as a primary for web development<br>
+  </small>
+  <small><strong>Cost $:</strong> Free</small>
+</div>
+
+<div class="card">
+  <h3>VPN</h3>
+  <p><strong>TunnelBear 🇨🇦</strong>&nbsp; → &nbsp;<strong>Proton VPN 🇨🇭</strong></p>
+  <small>
+    - No-logs policy, open source, independently audited<br>
+    - TunnelBear was acquired by McAfee (US) in 2018<br>
+    - Bundled with Proton suite<br>
   </small>
   <small><strong>Cost $:</strong> Freemium</small>
 </div>
@@ -54,45 +120,11 @@
   <small><strong>Cost $:</strong> Freemium</small>
 </div>
 
-<div class="card">
-  <h3>VPN</h3>
-  <p><strong>TunnelBear 🇨🇦</strong>&nbsp; → &nbsp;<strong>Proton VPN 🇨🇭</strong></p>
-  <small>
-    - No-logs policy, open source, independently audited<br>
-    - TunnelBear was acquired by McAfee (US) in 2018<br>
-    - Bundled with Proton suite<br>
-  </small>
-  <small><strong>Cost $:</strong> Freemium</small>
-</div>
-
-<div class="card">
-  <h3>Browser</h3>
-  <p><strong>Chrome 🇺🇸</strong>&nbsp; → &nbsp;<strong>Mullvad Browser 🇸🇪 + Brave 🇺🇸</strong></p>
-  <small>
-    - Mullvad for personal browsing, anti-fingerprinting, no telemetry.<br>
-    - Brave for development and testing — Chromium-based, Google-free<br>
-    - Chrome kept for development and QA<br>
-    - A browser with a tiny market share, e.g. firefox, isn't really viable as a web developer because you won't see your work the way most users do.<br>
-  </small>
-  <small><strong>Cost $:</strong> Free</small>
-</div>
-
-<div class="card">
-  <h3>DNS</h3>
-  <p><strong>Default ISP</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
-</div>
-
 <hr>
 <h3 id="data">Data</h3>
 <div class="card">
-  <h3>Cloud Storage</h3>
-  <p><strong>Google Drive 🇺🇸</strong>&nbsp; → &nbsp;<strong>Proton Drive 🇨🇭</strong></p>
-  <small>
-    - End-to-end encrypted<br>
-    - Still maturing as a product but functional for personal storage<br>
-    - Bundled with Proton suite<br>
-  </small>
-  <small><strong>Cost $:</strong> Freemium</small>
+  <h3>Code Repository</h3>
+  <p><strong>GitHub 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
 </div>
 
 <div class="card">
@@ -106,11 +138,6 @@
 </div>
 
 <div class="card">
-  <h3>Code Repository</h3>
-  <p><strong>GitHub 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
-</div>
-
-<div class="card">
   <h3>AI Code Assist</h3>
   <p><strong>Claude 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
 </div>
@@ -121,12 +148,14 @@
 </div>
 
 <div class="card">
-  <h3>Notes</h3>
-  <p><strong>SimpleNote 🇺🇸</strong>&nbsp; → &nbsp;<strong>cdox.ca 🇨🇦</strong></p>
+  <h3>Cloud Storage</h3>
+  <p><strong>Google Drive 🇺🇸</strong>&nbsp; → &nbsp;<strong>Proton Drive 🇨🇭</strong></p>
   <small>
-    - Canadian-hosted, privacy-first<br>
+    - End-to-end encrypted<br>
+    - Still maturing as a product but functional for personal storage<br>
+    - Bundled with Proton suite<br>
   </small>
-  <small><strong>Cost $:</strong> Min</small>
+  <small><strong>Cost $:</strong> Freemium</small>
 </div>
 
 <div class="card">
@@ -140,17 +169,21 @@
 </div>
 
 <div class="card">
+  <h3>Notes</h3>
+  <p><strong>SimpleNote 🇺🇸</strong>&nbsp; → &nbsp;<strong>cdox.ca 🇨🇦</strong></p>
+  <small>
+    - Canadian-hosted, privacy-first<br>
+  </small>
+  <small><strong>Cost $:</strong> Min</small>
+</div>
+
+<div class="card">
   <h3>Calendar</h3>
   <p><strong>Google Calendar 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
 </div>
 
 <hr>
 <h3 id="communications">Communications</h3>
-<div class="card">
-  <h3>Team Chat</h3>
-  <p><strong>Discord / Slack 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
-</div>
-
 <div class="card">
   <h3>Messaging</h3>
   <p><strong>Various</strong>&nbsp; → &nbsp;<strong>Signal 🇺🇸</strong></p>
@@ -162,11 +195,21 @@
   <small><strong>Cost $:</strong> Free</small>
 </div>
 
+<div class="card">
+  <h3>Team Chat</h3>
+  <p><strong>Discord / Slack 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+</div>
+
 <hr>
 <h3 id="consumption">Consumption</h3>
 <div class="card">
   <h3>Search</h3>
   <p><strong>Google 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+</div>
+
+<div class="card">
+  <h3>Maps</h3>
+  <p><strong>Google Maps 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
 </div>
 
 <div class="card">
@@ -177,11 +220,6 @@
 <div class="card">
   <h3>Video Streaming</h3>
   <p><strong>Netflix / Apple TV 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
-</div>
-
-<div class="card">
-  <h3>Maps</h3>
-  <p><strong>Google Maps 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
 </div>
 
 <hr>
