@@ -11,14 +11,13 @@
      <title>Disconnecting From Big Tech</title>
      <link>/posts/digital-sovereignty.html</link>
      <guid>/posts/digital-sovereignty.html</guid>
-     <description><![CDATA[<p>In January 2026, I made the resolution to ditch US-based <strong>Big Tech</strong> as much as possible. We are living through a time of intensifying geopolitical tension and accelerating consolidation of digital infrastructure into a small number of empire-scale corporations who surveil our activity, mine our content, and sell it back to us like bottled water — or, should I say, high fructose slop. </p>
+     <description><![CDATA[<p>In January 2026, I made the resolution to ditch US-based <strong>Big Tech</strong> as much as possible. I&#39;m not naively black-pilled. We are living through a very real time of intensifying geopolitical tension and accelerating consolidation of digital infrastructure into a small number of empire-scale corporations who surveil our activity, mine our content, and sell it back to us like bottled water — or, should I say, high fructose slop. </p>
 <p>Most people don&#39;t care where their data lives. We just want what&#39;s cheap, familiar, and what works. The real costs of that convenience are never disclosed the moment we sign up. We have quietly normalized storing our digital fingerprints under legal systems we never agreed to, in jurisdictions where we have no standing. That normalization is worth resisting.</p>
 <p>Infrastructure isn&#39;t neutral. The same data pipelines and AI systems powering our productivity tools are procured for unlawful surveillance, policing, and warfare. The small print doesn&#39;t mention that. And none of it is more ethical for being algorithmic.</p>
 <p><strong>Small Tech</strong>, not anti-technology, is the framing here. Smaller, local alternatives that can actually be held accountable — not platforms that answer to no one.</p>
 <p>For inspiration, I looked to Paris Marx&#39;s <a href="https://disconnect.blog/getting-off-us-tech-a-guide/" target="_blank" rel="noopener noreferrer">Getting Off US Tech</a>, Scott Galloway&#39;s <a href="https://www.resistandunsubscribe.com/" target="_blank" rel="noopener noreferrer">Resist and Unsubscribe</a>, and <a href="https://quitgpt.org/" target="_blank" rel="noopener noreferrer">QuitGPT</a>, but with a few different needs as a software developer focused open source tooling and the responsible use of AI, which, for better or worse, is now considered a professional baseline.</p>
 <p>I&#39;ve started where impact is highest and disruption lowest, while weighing cost, effort, and the convenience of consolidating under one provider where it makes sense. It&#39;s grouped into four layers — <strong>Identity, Data, Communications, and Consumption</strong> — ordered by impact on privacy, security, and sovereignty.</p>
 <hr>
-<h2 id="migration-log">Migration Log</h2>
 <!-- card template
 <div class="card">
   <h3>SERVICE</h3>
@@ -31,25 +30,23 @@
 </div>
 -->
 
-<h3 id="identity">Identity</h3>
+<h2 id="identity">Identity</h2>
 <div class="card">
-  <h3>OS — Desktop</h3>
-  <p><strong>macOS 🇺🇸</strong>&nbsp; → &nbsp;<strong>Linux (Long-term Goal)</strong></p>
+  <h3>OS Desktop</h3>
+  <p><strong>macOS 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
   <small>
-    - macOS is required for iOS/macOS development and client tooling<br>
-    - Moving to Linux is the principled choice but not without grinding daily work to a halt<br>
-    - Treating this as a long-term goal, not an immediate migration<br>
+    - macOS required for professional dev and some client tooling<br>
+    - <strong>Linux</strong> is the principled choice and long-term goal<br>
   </small>
   <small><strong>Cost $:</strong> Free</small>
 </div>
 
 <div class="card">
-  <h3>OS — Mobile</h3>
-  <p><strong>Android / Pixel 🇺🇸</strong>&nbsp; → &nbsp;<strong>GrapheneOS 🇨🇦</strong></p>
+  <h3>OS Mobile</h3>
+  <p><strong>Android / Pixel 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
   <small>
-    - Privacy-hardened Android fork, actively maintained<br>
-    - Officially supported on Google Pixel hardware — no new device needed<br>
-    - Canadian-led open source project<br>
+    - Android is required for professional dev and client tooling<br>
+    - <strong>GrapheneOS</strong> is privacy-hardened Android fork and a Canadian-led open source project<br>
   </small>
   <small><strong>Cost $:</strong> Free</small>
 </div>
@@ -65,6 +62,16 @@
 </div>
 
 <div class="card">
+  <h3>ISP</h3>
+  <p><strong>TekSavvy 🇨🇦</strong></p>
+  <small>
+    - Canadian-owned and independent<br>
+    - Has historically advocated for net neutrality and user rights<br>
+  </small>
+  <small><strong>Cost $:</strong> Mid</small>
+</div>
+
+<div class="card">
   <h3>DNS</h3>
   <p><strong>TekSavvy Default 🇨🇦</strong>&nbsp; → &nbsp;<strong>NextDNS 🇫🇷</strong></p>
   <small>
@@ -76,24 +83,13 @@
 </div>
 
 <div class="card">
-  <h3>ISP</h3>
-  <p><strong>Rogers 🇨🇦</strong>&nbsp; → &nbsp;<strong>TekSavvy 🇨🇦</strong></p>
-  <small>
-    - Canadian-owned and independent<br>
-    - Has historically advocated for net neutrality and user rights<br>
-    - Not a US jurisdiction concern — but default DNS resolvers still log your traffic<br>
-  </small>
-  <small><strong>Cost $:</strong> Mid</small>
-</div>
-
-<div class="card">
   <h3>Browser</h3>
   <p><strong>Chrome 🇺🇸</strong>&nbsp; → &nbsp;<strong>Mullvad Browser 🇸🇪 + Brave 🇺🇸</strong></p>
   <small>
     - Mullvad for personal browsing — anti-fingerprinting, no telemetry<br>
-    - Brave for development and testing — Chromium-based, Google-free<br>
-    - Chrome kept for QA only<br>
-    - A browser with &lt;3% market share isn't viable as a primary for web development<br>
+    - Brave for dev and testing — Chromium-based, Google-free<br>
+    - Chrome kept for dev and QA only<br>
+    - A browser with &lt;3% market share isn't viable as a primary for web dev<br>
   </small>
   <small><strong>Cost $:</strong> Free</small>
 </div>
@@ -111,7 +107,7 @@
 
 <div class="card">
   <h3>Password Manager</h3>
-  <p><strong>Keychain 🇺🇸</strong>&nbsp; → &nbsp;<strong>Proton Pass 🇨🇭</strong></p>
+  <p><strong>macOS Keychain 🇺🇸</strong>&nbsp; → &nbsp;<strong>Proton Pass 🇨🇭</strong></p>
   <small>
     - Open source, end-to-end encrypted<br>
     - Cross-platform including Linux<br>
@@ -121,12 +117,7 @@
 </div>
 
 <hr>
-<h3 id="data">Data</h3>
-<div class="card">
-  <h3>Code Repository</h3>
-  <p><strong>GitHub 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
-</div>
-
+<h2 id="data">Data</h2>
 <div class="card">
   <h3>Web Hosting</h3>
   <p><strong>Netlify 🇺🇸</strong>&nbsp; → &nbsp;<strong>Websavers.ca 🇨🇦</strong></p>
@@ -135,6 +126,11 @@
     - PIPEDA compliant<br>
   </small>
   <small><strong>Cost $:</strong> Min</small>
+</div>
+
+<div class="card">
+  <h3>Code Repository</h3>
+  <p><strong>GitHub 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
 </div>
 
 <div class="card">
@@ -169,7 +165,7 @@
 </div>
 
 <div class="card">
-  <h3>Notes</h3>
+  <h3>Note Taking</h3>
   <p><strong>SimpleNote 🇺🇸</strong>&nbsp; → &nbsp;<strong>cdox.ca 🇨🇦</strong></p>
   <small>
     - Canadian-hosted, privacy-first<br>
@@ -183,7 +179,7 @@
 </div>
 
 <hr>
-<h3 id="communications">Communications</h3>
+<h2 id="communications">Communications</h2>
 <div class="card">
   <h3>Messaging</h3>
   <p><strong>Various</strong>&nbsp; → &nbsp;<strong>Signal 🇺🇸</strong></p>
@@ -201,7 +197,7 @@
 </div>
 
 <hr>
-<h3 id="consumption">Consumption</h3>
+<h2 id="consumption">Consumption</h2>
 <div class="card">
   <h3>Search</h3>
   <p><strong>Google 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
@@ -214,12 +210,16 @@
 
 <div class="card">
   <h3>Music</h3>
-  <p><strong>—</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+  <p><strong>Spotify 🇺🇸</strong>&nbsp; → &nbsp;<i>Qobuz 🇫🇷</i></p>
+  - <a href="https://www.fightforthefuture.org/actions/spotify-whacked/" target="_blank" rel="noopener noreferrer">Spotify whacked</a><br>
+  - Qobuz provides better artist compensation and audio quality
 </div>
 
 <div class="card">
   <h3>Video Streaming</h3>
-  <p><strong>Netflix / Apple TV 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+  <p><strong>Netflix, Apple TV 🇺🇸</strong>&nbsp; → &nbsp;<strong>Mubi, Eternal Family TV</strong></p>
+  - because I can't stand most popular media content anyway<br>
+  - and I like obscure shit and pretentious art<br>
 </div>
 
 <hr>

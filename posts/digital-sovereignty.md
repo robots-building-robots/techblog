@@ -3,7 +3,7 @@ title: "Disconnecting From Big Tech"
 date: 2026-02-01
 ---
 
-In January 2026, I made the resolution to ditch US-based **Big Tech** as much as possible. We are living through a time of intensifying geopolitical tension and accelerating consolidation of digital infrastructure into a small number of empire-scale corporations who surveil our activity, mine our content, and sell it back to us like bottled water — or, should I say, high fructose slop. 
+In January 2026, I made the resolution to ditch US-based **Big Tech** as much as possible. I'm not naively black-pilled. We are living through a very real time of intensifying geopolitical tension and accelerating consolidation of digital infrastructure into a small number of empire-scale corporations who surveil our activity, mine our content, and sell it back to us like bottled water — or, should I say, high fructose slop. 
 
 Most people don't care where their data lives. We just want what's cheap, familiar, and what works. The real costs of that convenience are never disclosed the moment we sign up. We have quietly normalized storing our digital fingerprints under legal systems we never agreed to, in jurisdictions where we have no standing. That normalization is worth resisting.
 
@@ -17,8 +17,6 @@ I've started where impact is highest and disruption lowest, while weighing cost,
 
 ---
 
-## Migration Log
-
 <!-- card template
 <div class="card">
   <h3>SERVICE</h3>
@@ -31,26 +29,24 @@ I've started where impact is highest and disruption lowest, while weighing cost,
 </div>
 -->
 
-### Identity
+## Identity
 
 <div class="card">
-  <h3>OS — Desktop</h3>
-  <p><strong>macOS 🇺🇸</strong>&nbsp; → &nbsp;<strong>Linux (Long-term Goal)</strong></p>
+  <h3>OS Desktop</h3>
+  <p><strong>macOS 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
   <small>
-    - macOS is required for iOS/macOS development and client tooling<br>
-    - Moving to Linux is the principled choice but not without grinding daily work to a halt<br>
-    - Treating this as a long-term goal, not an immediate migration<br>
+    - macOS required for professional dev and some client tooling<br>
+    - <strong>Linux</strong> is the principled choice and long-term goal<br>
   </small>
   <small><strong>Cost $:</strong> Free</small>
 </div>
 
 <div class="card">
-  <h3>OS — Mobile</h3>
-  <p><strong>Android / Pixel 🇺🇸</strong>&nbsp; → &nbsp;<strong>GrapheneOS 🇨🇦</strong></p>
+  <h3>OS Mobile</h3>
+  <p><strong>Android / Pixel 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
   <small>
-    - Privacy-hardened Android fork, actively maintained<br>
-    - Officially supported on Google Pixel hardware — no new device needed<br>
-    - Canadian-led open source project<br>
+    - Android is required for professional dev and client tooling<br>
+    - <strong>GrapheneOS</strong> is privacy-hardened Android fork and a Canadian-led open source project<br>
   </small>
   <small><strong>Cost $:</strong> Free</small>
 </div>
@@ -66,6 +62,16 @@ I've started where impact is highest and disruption lowest, while weighing cost,
 </div>
 
 <div class="card">
+  <h3>ISP</h3>
+  <p><strong>TekSavvy 🇨🇦</strong></p>
+  <small>
+    - Canadian-owned and independent<br>
+    - Has historically advocated for net neutrality and user rights<br>
+  </small>
+  <small><strong>Cost $:</strong> Mid</small>
+</div>
+
+<div class="card">
   <h3>DNS</h3>
   <p><strong>TekSavvy Default 🇨🇦</strong>&nbsp; → &nbsp;<strong>NextDNS 🇫🇷</strong></p>
   <small>
@@ -77,24 +83,13 @@ I've started where impact is highest and disruption lowest, while weighing cost,
 </div>
 
 <div class="card">
-  <h3>ISP</h3>
-  <p><strong>Rogers 🇨🇦</strong>&nbsp; → &nbsp;<strong>TekSavvy 🇨🇦</strong></p>
-  <small>
-    - Canadian-owned and independent<br>
-    - Has historically advocated for net neutrality and user rights<br>
-    - Not a US jurisdiction concern — but default DNS resolvers still log your traffic<br>
-  </small>
-  <small><strong>Cost $:</strong> Mid</small>
-</div>
-
-<div class="card">
   <h3>Browser</h3>
   <p><strong>Chrome 🇺🇸</strong>&nbsp; → &nbsp;<strong>Mullvad Browser 🇸🇪 + Brave 🇺🇸</strong></p>
   <small>
     - Mullvad for personal browsing — anti-fingerprinting, no telemetry<br>
-    - Brave for development and testing — Chromium-based, Google-free<br>
-    - Chrome kept for QA only<br>
-    - A browser with &lt;3% market share isn't viable as a primary for web development<br>
+    - Brave for dev and testing — Chromium-based, Google-free<br>
+    - Chrome kept for dev and QA only<br>
+    - A browser with &lt;3% market share isn't viable as a primary for web dev<br>
   </small>
   <small><strong>Cost $:</strong> Free</small>
 </div>
@@ -112,7 +107,7 @@ I've started where impact is highest and disruption lowest, while weighing cost,
 
 <div class="card">
   <h3>Password Manager</h3>
-  <p><strong>Keychain 🇺🇸</strong>&nbsp; → &nbsp;<strong>Proton Pass 🇨🇭</strong></p>
+  <p><strong>macOS Keychain 🇺🇸</strong>&nbsp; → &nbsp;<strong>Proton Pass 🇨🇭</strong></p>
   <small>
     - Open source, end-to-end encrypted<br>
     - Cross-platform including Linux<br>
@@ -123,12 +118,7 @@ I've started where impact is highest and disruption lowest, while weighing cost,
 
 ---
 
-### Data
-
-<div class="card">
-  <h3>Code Repository</h3>
-  <p><strong>GitHub 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
-</div>
+## Data
 
 <div class="card">
   <h3>Web Hosting</h3>
@@ -138,6 +128,11 @@ I've started where impact is highest and disruption lowest, while weighing cost,
     - PIPEDA compliant<br>
   </small>
   <small><strong>Cost $:</strong> Min</small>
+</div>
+
+<div class="card">
+  <h3>Code Repository</h3>
+  <p><strong>GitHub 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
 </div>
 
 <div class="card">
@@ -172,7 +167,7 @@ I've started where impact is highest and disruption lowest, while weighing cost,
 </div>
 
 <div class="card">
-  <h3>Notes</h3>
+  <h3>Note Taking</h3>
   <p><strong>SimpleNote 🇺🇸</strong>&nbsp; → &nbsp;<strong>cdox.ca 🇨🇦</strong></p>
   <small>
     - Canadian-hosted, privacy-first<br>
@@ -187,7 +182,7 @@ I've started where impact is highest and disruption lowest, while weighing cost,
 
 ---
 
-### Communications
+## Communications
 
 <div class="card">
   <h3>Messaging</h3>
@@ -207,7 +202,7 @@ I've started where impact is highest and disruption lowest, while weighing cost,
 
 ---
 
-### Consumption
+## Consumption
 
 <div class="card">
   <h3>Search</h3>
@@ -221,12 +216,16 @@ I've started where impact is highest and disruption lowest, while weighing cost,
 
 <div class="card">
   <h3>Music</h3>
-  <p><strong>—</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+  <p><strong>Spotify 🇺🇸</strong>&nbsp; → &nbsp;<i>Qobuz 🇫🇷</i></p>
+  - <a href="https://www.fightforthefuture.org/actions/spotify-whacked/" target="_blank" rel="noopener noreferrer">Spotify whacked</a><br>
+  - Qobuz provides better artist compensation and audio quality
 </div>
 
 <div class="card">
   <h3>Video Streaming</h3>
-  <p><strong>Netflix / Apple TV 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+  <p><strong>Netflix, Apple TV 🇺🇸</strong>&nbsp; → &nbsp;<strong>Mubi, Eternal Family TV</strong></p>
+  - because I can't stand most popular media content anyway<br>
+  - and I like obscure shit and pretentious art<br>
 </div>
 
 ---
