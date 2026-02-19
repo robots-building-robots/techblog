@@ -1,17 +1,16 @@
 <%- include('../_header.ejs') -%>
 
 <nav class="align-horizontal" role="navigation">
-   <span class="dim">&#x25C0;</span>
-    <!-- <img class="logo" src="../img/logo.png" alt="model collapse logo" />     -->
+    <span class="dim">&#x25C0;</span>
     <a href="../index.html"> <%= root.data.title %></a>
 </nav>
 
 <article>
     <header>
-        <time><%= date.toDateString() %></time>
+        <time datetime="<%= date.toISOString().slice(0, 10) %>"><%= date.toDateString() %></time>
         <h1><%= title %></h1>
     </header>
-<%- body %>
+    <%- body %>
+</article>
 
 <%- include('../_footer.ejs') -%>
-</article>

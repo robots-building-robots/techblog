@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title><%= root.data.title %></title>
+<title><%= typeof title !== 'undefined' ? title + ' | ' + root.data.title : root.data.title %></title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="<%= root.data.author %>">
+<meta name="description" content="<%= typeof body !== 'undefined' ? body.replace(/<[^>]+>/g, '').trim().match(/[^.!?]+[.!?]/)?.[0]?.trim() ?? '' : 'A critical technology blog by Model Collapse.' %>">
 <link rel="stylesheet" href="<%= rootPath %>/index.css">
-<link rel="alternate" type="application/rss+xml" href="rss.xml" title="<%= rootPath %>/<%= root.data.title %> RSS">
+<link rel="alternate" type="application/rss+xml" href="rss.xml" title="<%= root.data.title %> RSS">
 <link rel="icon" type="image/png" href="<%= rootPath %>/img/favicon.png" sizes="32x32">
-<meta name="description" content="A critical technology blog by Model Collapse.">
 </head>
 <body>
 <main>

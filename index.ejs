@@ -8,7 +8,7 @@
 <ul>
 <% for (const name of Object.keys(posts).reverse()) { const {date, title, body} = posts[name]; -%>
     <li>
-        <time class="dim"><%= date.toISOString().slice(0, 10)%></time>
+        <time class="dim" datetime="<%= date.toISOString().slice(0, 10) %>"><%= date.toISOString().slice(0, 10) %></time>
         <h2><a href="posts/<%= name %>.html"><%= title %></a></h2>
         <p><%- body.trim().match(/\<p>(.+)<\/p>/)[1] %> [&hellip;]</p>
         <hr>

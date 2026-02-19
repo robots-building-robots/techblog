@@ -8,31 +8,186 @@
 <atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
 
 <item>
-     <title>Ditching Big Tech</title>
+     <title>Disconnecting From Big Tech</title>
      <link>/posts/digital-sovereignty.html</link>
      <guid>/posts/digital-sovereignty.html</guid>
      <description><![CDATA[<p>In January 2026, I made the resolution to ditch US-based <strong>Big Tech</strong> as much as possible. We are living through a time of intensifying geopolitical tension and accelerating consolidation of digital infrastructure into a small number of empire-scale corporations who surveil our activity, mine our content, and sell it back to us like bottled water — or, should I say, high fructose slop. </p>
-<p>Most people don&#39;t care where their data lives. We just want what&#39;s cheap, familiar, and what works. The real costs of that convenience are never disclosed the moment we sign up. We have quietly normalized storing our digital footprints under legal systems we never agreed to, in jurisdictions where we have no standing. That normalization is worth resisting.</p>
-<p><strong>The infrastructure isn&#39;t neutral</strong>. The same data pipelines and AI systems powering our productivity tools are procured for unlawful surveillance, policing, and warfare. The small print doesn&#39;t mention that. And none of it is more ethical for being algorithmic.</p>
+<p>Most people don&#39;t care where their data lives. We just want what&#39;s cheap, familiar, and what works. The real costs of that convenience are never disclosed the moment we sign up. We have quietly normalized storing our digital fingerprints under legal systems we never agreed to, in jurisdictions where we have no standing. That normalization is worth resisting.</p>
+<p>Infrastructure isn&#39;t neutral. The same data pipelines and AI systems powering our productivity tools are procured for unlawful surveillance, policing, and warfare. The small print doesn&#39;t mention that. And none of it is more ethical for being algorithmic.</p>
 <p><strong>Small Tech</strong>, not anti-technology, is the framing here. Smaller, local alternatives that can actually be held accountable — not platforms that answer to no one.</p>
 <p>For inspiration, I looked to Paris Marx&#39;s <a href="https://disconnect.blog/getting-off-us-tech-a-guide/" target="_blank" rel="noopener noreferrer">Getting Off US Tech</a>, Scott Galloway&#39;s <a href="https://www.resistandunsubscribe.com/" target="_blank" rel="noopener noreferrer">Resist and Unsubscribe</a>, and <a href="https://quitgpt.org/" target="_blank" rel="noopener noreferrer">QuitGPT</a>, but with a few different needs as a software developer focused open source tooling and the responsible use of AI, which, for better or worse, is now considered a professional baseline.</p>
-<hr>
-<h2 id="sovereignty-stack">Sovereignty Stack</h2>
-<h3 id="infrastructure--identity">Infrastructure &amp; Identity</h3>
-<p><strong>OS, Browser, Email, DNS:</strong> The base layer everything else flows through. Get this wrong and nothing above it matters. Hardest to change, highest stakes.</p>
-<h3 id="professional-data">Professional Data</h3>
-<p><strong>Code repositories, CI/CD, Cloud Documents, Web hosting, LLMs:</strong> Where the work lives: source code, client data, intellectual property, and the AI tools now inside the creative process. Stakes are professional and legal. Moderately difficult to migrate.</p>
-<h3 id="communications--collaboration">Communications &amp; Collaboration</h3>
-<p><strong>Messaging, Team Communications, Video calls, Calendar, Contacts:</strong> High-frequency and often sensitive, but the risk is metadata and surveillance rather than long-term data custody. Easier to change.</p>
-<h3 id="convenience--consumption">Convenience &amp; Consumption</h3>
-<p><strong>Maps, Media streaming, Social Media, Search:</strong> In some cases the highest friction to replace, but lowest sovereignty stakes.</p>
+<p>I&#39;ve started where impact is highest and disruption lowest, while weighing cost, effort, and the convenience of consolidating under one provider where it makes sense. It&#39;s grouped into four layers — <strong>Identity, Data, Communications, and Consumption</strong> — ordered by impact on privacy, security, and sovereignty.</p>
 <hr>
 <h2 id="migration-log">Migration Log</h2>
-<p>I&#39;ve started where the cost-and-effort-to-impact ratio makes the most sense. Changing an email provider is manageable; replacing your OS without grinding your daily workload to a halt is a long-term goal for me. What follows is an ongoing log of where I started, where I&#39;m moving, and why. </p>
+<!-- card template
+<div class="card">
+  <h3>SERVICE</h3>
+  <p><strong>FROM 🇺🇸</strong>&nbsp; → &nbsp;<strong>TO 🇨🇭</strong></p>
+  <small>
+    - Note<br>
+    - Note<br>
+  </small>
+  <small><strong>Cost $:</strong> Free / Freemium / Min / Mid / Max</small>
+</div>
+-->
+
+<h3 id="identity">Identity</h3>
+<div class="card">
+  <h3>Email</h3>
+  <p><strong>Gmail 🇺🇸</strong>&nbsp; → &nbsp;<strong>Proton Mail 🇨🇭</strong></p>
+  <small>
+    - End-to-end encrypted by default<br>
+    - Swiss jurisdiction, strong privacy law<br>
+    - Proton suite consolidates a few useful services<br>
+  </small>
+  <small><strong>Cost $:</strong> Freemium</small>
+</div>
+
+<div class="card">
+  <h3>Password Manager</h3>
+  <p><strong>Keychain 🇺🇸</strong>&nbsp; → &nbsp;<strong>Proton Pass 🇨🇭</strong></p>
+  <small>
+    - Open source, end-to-end encrypted<br>
+    - Cross-platform including Linux<br>
+    - Bundled with Proton suite<br>
+  </small>
+  <small><strong>Cost $:</strong> Freemium</small>
+</div>
+
+<div class="card">
+  <h3>VPN</h3>
+  <p><strong>TunnelBear 🇨🇦</strong>&nbsp; → &nbsp;<strong>Proton VPN 🇨🇭</strong></p>
+  <small>
+    - No-logs policy, open source, independently audited<br>
+    - TunnelBear was acquired by McAfee (US) in 2018<br>
+    - Bundled with Proton suite<br>
+  </small>
+  <small><strong>Cost $:</strong> Freemium</small>
+</div>
+
+<div class="card">
+  <h3>Browser</h3>
+  <p><strong>Chrome 🇺🇸</strong>&nbsp; → &nbsp;<strong>Mullvad Browser 🇸🇪 + Brave 🇺🇸</strong></p>
+  <small>
+    - Mullvad for personal browsing, anti-fingerprinting, no telemetry.<br>
+    - Brave for development and testing — Chromium-based, Google-free<br>
+    - Chrome kept for development and QA<br>
+    - A browser with a tiny market share, e.g. firefox, isn't really viable as a web developer because you won't see your work the way most users do.<br>
+  </small>
+  <small><strong>Cost $:</strong> Free</small>
+</div>
+
+<div class="card">
+  <h3>DNS</h3>
+  <p><strong>Default ISP</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+</div>
+
 <hr>
-<p>Work-in-progress</p>
+<h3 id="data">Data</h3>
+<div class="card">
+  <h3>Cloud Storage</h3>
+  <p><strong>Google Drive 🇺🇸</strong>&nbsp; → &nbsp;<strong>Proton Drive 🇨🇭</strong></p>
+  <small>
+    - End-to-end encrypted<br>
+    - Still maturing as a product but functional for personal storage<br>
+    - Bundled with Proton suite<br>
+  </small>
+  <small><strong>Cost $:</strong> Freemium</small>
+</div>
+
+<div class="card">
+  <h3>Web Hosting</h3>
+  <p><strong>Netlify 🇺🇸</strong>&nbsp; → &nbsp;<strong>Websavers.ca 🇨🇦</strong></p>
+  <small>
+    - Canadian-owned and operated, servers in Canada<br>
+    - PIPEDA compliant<br>
+  </small>
+  <small><strong>Cost $:</strong> Min</small>
+</div>
+
+<div class="card">
+  <h3>Code Repository</h3>
+  <p><strong>GitHub 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+</div>
+
+<div class="card">
+  <h3>AI Code Assist</h3>
+  <p><strong>Claude 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+</div>
+
+<div class="card">
+  <h3>LLM / Chat</h3>
+  <p><strong>Claude / Gemini 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+</div>
+
+<div class="card">
+  <h3>Notes</h3>
+  <p><strong>SimpleNote 🇺🇸</strong>&nbsp; → &nbsp;<strong>cdox.ca 🇨🇦</strong></p>
+  <small>
+    - Canadian-hosted, privacy-first<br>
+  </small>
+  <small><strong>Cost $:</strong> Min</small>
+</div>
+
+<div class="card">
+  <h3>Docs</h3>
+  <p><strong>Google Docs 🇺🇸</strong>&nbsp; → &nbsp;<strong>cdox.ca 🇨🇦</strong></p>
+  <small>
+    - Canadian-hosted collaborative documents<br>
+    - Migration ongoing — Google Docs network effects are real<br>
+  </small>
+  <small><strong>Cost $:</strong> Min</small>
+</div>
+
+<div class="card">
+  <h3>Calendar</h3>
+  <p><strong>Google Calendar 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+</div>
+
 <hr>
-<p>&quot;But I have nothing to hide!&quot; This argument hasn&#39;t aged well. It assumes the rules won&#39;t change, the platforms won&#39;t be sold, and the data won&#39;t be misused. <strong>Data Privacy</strong> isn&#39;t about secrecy; it&#39;s about who holds power over your information and what they can do with it. <strong>Digital Sovereignty</strong> extends that question to jurisdiction: not just who holds the power, but under what law, with what accountability, and at what cost to community and the environment. For Canadians, there is a persistent gap between the privacy protections we assume we have and what is actually enforceable when a service runs on US infrastructure, regardless of where the physical servers actually sit. This isn&#39;t about national borders. It&#39;s about <strong>legibility</strong>.</p>
+<h3 id="communications">Communications</h3>
+<div class="card">
+  <h3>Team Chat</h3>
+  <p><strong>Discord / Slack 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+</div>
+
+<div class="card">
+  <h3>Messaging</h3>
+  <p><strong>Various</strong>&nbsp; → &nbsp;<strong>Signal 🇺🇸</strong></p>
+  <small>
+    - Open source, end-to-end encrypted<br>
+    - Non-profit, no data monetization<br>
+    - US-based but best available option in this category<br>
+  </small>
+  <small><strong>Cost $:</strong> Free</small>
+</div>
+
+<hr>
+<h3 id="consumption">Consumption</h3>
+<div class="card">
+  <h3>Search</h3>
+  <p><strong>Google 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+</div>
+
+<div class="card">
+  <h3>Music</h3>
+  <p><strong>—</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+</div>
+
+<div class="card">
+  <h3>Video Streaming</h3>
+  <p><strong>Netflix / Apple TV 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+</div>
+
+<div class="card">
+  <h3>Maps</h3>
+  <p><strong>Google Maps 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+</div>
+
+<hr>
+<p>&quot;But I have nothing to hide!&quot; </p>
+<p>This argument hasn&#39;t aged well. It assumes the rules won&#39;t change, that platforms won&#39;t be sold, and the data won&#39;t be misused. </p>
+<p><strong>Data Privacy</strong> isn&#39;t about secrecy; it&#39;s about who holds power over your information and what they can do with it. <strong>Digital Sovereignty</strong> extends that question to jurisdiction: not just who holds the power, but under what law, with what accountability, and at what cost to community and the environment. For Canadians, there is a persistent gap between the privacy protections we assume we have and what is actually enforceable when a service runs on US infrastructure, regardless of where the physical servers actually sit. This isn&#39;t about national borders. It&#39;s about <strong>legibility</strong>.</p>
 <p>Every time we sign up or sign in we should be asking ourselves: <strong>who unjustly profits from our convenience, and at whose expense?</strong></p>
 <hr>
 <blockquote>
