@@ -18,6 +18,7 @@ I've started where impact is highest and disruption lowest, while weighing cost,
 ---
 
 ## Migration Log
+*work-in-progress*
 
 ---
 
@@ -146,7 +147,7 @@ I've started where impact is highest and disruption lowest, while weighing cost,
 
 <div class="card">
   <h3>LLM / Chat</h3>
-  <p><strong>Claude / Gemini 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+  <p><strong>Claude / Gemini / NotebookLM 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
 </div>
 
 <div class="card">
