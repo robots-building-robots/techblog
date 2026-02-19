@@ -163,7 +163,7 @@ I've started where impact is highest and disruption lowest, while weighing cost,
 
 <div class="card">
   <h3>Docs</h3>
-  <p><strong>Google Docs 🇺🇸</strong>&nbsp; → &nbsp;<strong>cdox.ca 🇨🇦</strong></p>
+  <p><strong>Google Docs 🇺🇸</strong>&nbsp; → &nbsp;<strong>Cdox.ca 🇨🇦</strong></p>
   <small>
     - Canadian-hosted collaborative documents<br>
     - Migration ongoing — Google Docs network effects are real<br>
@@ -173,7 +173,7 @@ I've started where impact is highest and disruption lowest, while weighing cost,
 
 <div class="card">
   <h3>Note Taking</h3>
-  <p><strong>SimpleNote 🇺🇸</strong>&nbsp; → &nbsp;<strong>cdox.ca 🇨🇦</strong></p>
+  <p><strong>SimpleNote 🇺🇸</strong>&nbsp; → &nbsp;<strong>Cdox.ca 🇨🇦</strong></p>
   <small>
     - Canadian-hosted, privacy-first<br>
   </small>
