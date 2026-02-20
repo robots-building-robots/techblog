@@ -9,7 +9,7 @@
   --border: #333333;
   --accent: #eeeeee;
   --highlight: #ffffff;
-  --dark: #767676;
+  --dark: #7a7a7a;
   --v-spacing: clamp(3rem, 5vw, 5rem);
 }
 
@@ -39,7 +39,7 @@ h1 {
 
 h2 {
   font-size: 1.3em;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   margin: 0;
 }
 
@@ -154,15 +154,42 @@ img.logo {
 }
 
 .card p {
-  margin: 0.5rem 0;
-}
-
-.card p + p {
-  padding-top: 0.5rem;
+  margin: 0.25rem 0;
 }
 
 .card small {
   display: block;
   margin-top: 0.75rem;
   padding-top: 0.75rem;
+}
+
+.card .to {
+  color: var(--accent);
+  font-size: 1.05rem;
+}
+
+.card .from {
+  color: var(--dark);
+  font-size: 0.9rem;
+}
+
+.card .label {
+  font-family: ui-monospace, "Cascadia Code", monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  color: var(--text-secondary);
+  display: inline-block;
+  width: 2.5rem;
+  /* text-transform: uppercase; */
+  user-select: none;
+}
+
+.card .cost-label {
+  color: var(--dark);
+  font-weight: 300;
+}
+
+.card .cost-value {
+  color: var(--text-primary);
+  font-weight: 400;
 }

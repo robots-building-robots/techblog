@@ -24,224 +24,230 @@
         <time datetime="2026-02-01">Sat Jan 31 2026</time>
         <h1>Disconnecting From Big Tech</h1>
     </header>
-    <p>In January 2026, I made the resolution to ditch US-based <strong>Big Tech</strong> as much as possible. I&#39;m not naively <strong>black-pilled</strong>. We are living through a very real time of intensifying geopolitical tension and accelerating consolidation of digital infrastructure into a small number of empire-scale corporations who surveil our activity, mine our content, and sell it back to us like bottled water — or, should I say, high fructose slop.</p>
+    <p>In January 2026, I made the resolution to ditch US-based <strong>Big Tech</strong> as much as possible. We are living through a time of intensifying geopolitical tension and accelerating consolidation of digital infrastructure into a small number of empire-scale corporations who surveil our activity, mine our content, and sell it back to us like bottled water — or, should I say, high fructose slop.</p>
 <p>Most people don&#39;t care where their data lives. We just want what&#39;s cheap, familiar, and what works. The real costs of that convenience are never disclosed the moment we sign up. We have quietly normalized storing our digital fingerprints under legal systems we never agreed to, in jurisdictions where we have no standing. That normalization is worth resisting.</p>
-<p><strong>Infrastructure isn&#39;t neutral</strong>. The same data pipelines and AI systems powering our productivity tools are procured for unlawful surveillance, policing, and warfare. The small print doesn&#39;t mention that. And none of it is more ethical for being algorithmic. <strong>Small Tech</strong>, not anti-technology, is the framing here. Smaller, local alternatives that can actually be held accountable — not platforms that answer to no one.</p>
+<p><strong>Infrastructure isn&#39;t neutral</strong>. The same data pipelines and AI systems powering our productivity tools are procured for surveillance, unlawful policing, and warfare. The small print doesn&#39;t mention that. And none of it is more ethical for being algorithmic. <strong>Small Tech</strong>, not anti-technology, is the framing here. Smaller, local alternatives that can actually be held accountable; not platforms that answer to no one.</p>
 <p>For inspiration, I looked to Paris Marx&#39;s <a href="https://disconnect.blog/getting-off-us-tech-a-guide/" target="_blank" rel="noopener noreferrer">Getting Off US Tech</a>, Scott Galloway&#39;s <a href="https://www.resistandunsubscribe.com/" target="_blank" rel="noopener noreferrer">Resist and Unsubscribe</a>, and <a href="https://quitgpt.org/" target="_blank" rel="noopener noreferrer">QuitGPT</a>, but with a few different needs as a software developer focused open source tooling and the responsible use of AI, which, for better or worse, is now considered a professional baseline.</p>
-<p>I&#39;ve started where impact is highest and personal friction is lowest, while weighing cost, effort, and the convenience of consolidating under one provider where it makes sense. Grouped into four layers — <strong>Identity, Data, Communications, and Consumption</strong> — and ordered by impact on <strong>privacy, security, and sovereignty</strong>.</p>
-<hr>
-<h2 id="migration-log">Migration Log</h2>
-<p><em>work-in-progress…</em></p>
+<p>I&#39;ve started where impact is highest and personal friction is lowest, while weighing cost, effort, and the convenience of consolidating under one provider where it makes sense. Grouped into six layers — <strong>Identity, Software Development, AI, Data, Communications, and Consumption</strong> — and ordered by impact on <strong>privacy, security, and sovereignty</strong>.</p>
 <hr>
 <!-- card template
 <div class="card">
   <h3>SERVICE</h3>
-  <p><strong>FROM 🇺🇸</strong>&nbsp; → &nbsp;<strong>TO 🇨🇭</strong></p>
+  <p><span class="label">to:</span> <span class="to">TO 🇨🇭</span></p>
+  <p><span class="label">from:</span> <span class="from">FROM 🇺🇸</span></p>
   <small>
     - Note<br>
     - Note<br>
   </small>
-  <small><strong>Cost $:</strong> Free / Freemium / Min / Mid / Max</small>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Free / Freemium / Min / Mid / Max</span></small>
 </div>
 -->
 
 <h2 id="identity">Identity</h2>
 <div class="card">
   <h3>OS Desktop</h3>
-  <p><strong>macOS 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+  <p><span class="label">to:</span> <span class="to"><i>In progress…</i></span></p>
+  <p><span class="label">from:</span> <span class="from">macOS 🇺🇸</span></p>
   <small>
     - macOS required for professional dev and some client tooling<br>
     - <strong>Linux</strong> is the principled choice and long-term goal<br>
   </small>
-  <small><strong>Cost $:</strong> Free</small>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Free</span></small>
 </div>
 
 <div class="card">
   <h3>OS Mobile</h3>
-  <p><strong>Android / Pixel 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+  <p><span class="label">to:</span> <span class="to"><i>In progress…</i></span></p>
+  <p><span class="label">from:</span> <span class="from">Android / Pixel 🇺🇸</span></p>
   <small>
     - Android is required for professional dev and client tooling<br>
     - <strong>GrapheneOS</strong> is privacy-hardened Android fork and a Canadian-led open source project<br>
   </small>
-  <small><strong>Cost $:</strong> Free</small>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Free</span></small>
 </div>
 
 <div class="card">
   <h3>Email</h3>
-  <p><strong>Gmail 🇺🇸</strong>&nbsp; → &nbsp;<strong>Proton Mail 🇨🇭</strong></p>
+  <p><span class="label">to:</span> <span class="to">Proton Mail 🇨🇭</span></p>
+  <p><span class="label">from:</span> <span class="from">Gmail 🇺🇸</span></p>
   <small>
     - End-to-end encrypted by default<br>
     - Proton suite consolidates a few useful services<br>
   </small>
-  <small><strong>Cost $:</strong> Freemium</small>
-</div>
-
-<div class="card">
-  <h3>ISP</h3>
-  <p><strong>TekSavvy 🇨🇦</strong></p>
-  <small>
-    - Canadian-owned and independent<br>
-    - Has historically advocated for net neutrality and user rights<br>
-  </small>
-  <small><strong>Cost $:</strong> Mid</small>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Freemium</span></small>
 </div>
 
 <div class="card">
   <h3>DNS</h3>
-  <p><strong>TekSavvy Default 🇨🇦</strong>&nbsp; → &nbsp;<strong>NextDNS 🇫🇷</strong></p>
+  <p><span class="label">to:</span> <span class="to">NextDNS 🇫🇷</span></p>
+  <p><span class="label">from:</span> <span class="from">TekSavvy Default 🇨🇦</span></p>
   <small>
-    - Default ISP resolvers log every domain you visit<br>
+    - <em>ISP: TekSavvy</em> 🇨🇦 — Independent, advocates for net neutrality<br>
+    - Default ISP resolvers log every domain you visit regardless<br>
     - Encrypted DNS (DoH/DoT) prevents ISP-level surveillance<br>
     - Configurable, privacy-first<br>
   </small>
-  <small><strong>Cost $:</strong> Freemium</small>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Freemium</span></small>
 </div>
 
 <div class="card">
+  <h3>VPN</h3>
+  <p><span class="label">to:</span> <span class="to">Proton VPN 🇨🇭</span></p>
+  <p><span class="label">from:</span> <span class="from">TunnelBear 🇨🇦</span></p>
+  <small>
+    - No-logs policy, open source, independently audited<br>
+    - TunnelBear was acquired by McAfee (US) in 2018<br>
+    - Cost savings bundled with Proton suite<br>
+  </small>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Freemium</span></small>
+</div>
+
+<div class="card">
+  <h3>Password Manager</h3>
+  <p><span class="label">to:</span> <span class="to">Proton Pass 🇨🇭</span></p>
+  <p><span class="label">from:</span> <span class="from">macOS Keychain 🇺🇸</span></p>
+  <small>
+    - Open source, end-to-end encrypted<br>
+    - Cross-platform including Linux<br>
+    - Bundled with Proton suite<br>
+  </small>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Freemium</span></small>
+</div>
+
+<hr>
+<h2 id="software-development">Software Development</h2>
+<div class="card">
   <h3>Browser</h3>
-  <p><strong>Chrome 🇺🇸</strong>&nbsp; → &nbsp;<strong>Mullvad Browser 🇸🇪 + Brave 🇺🇸</strong></p>
+  <p><span class="label">to:</span> <span class="to">Mullvad Browser 🇸🇪 + Brave 🇺🇸</span></p>
+  <p><span class="label">from:</span> <span class="from">Chrome 🇺🇸</span></p>
   <small>
     - Mullvad for personal browsing — anti-fingerprinting, no telemetry<br>
     - Brave for dev and testing — Chromium-based, Google-free<br>
     - Chrome kept for dev and QA only<br>
     - A browser with &lt;3% market share isn't viable as a primary for web dev<br>
   </small>
-  <small><strong>Cost $:</strong> Free</small>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Free</span></small>
 </div>
 
 <div class="card">
-  <h3>VPN</h3>
-  <p><strong>TunnelBear 🇨🇦</strong>&nbsp; → &nbsp;<strong>Proton VPN 🇨🇭</strong></p>
-  <small>
-    - No-logs policy, open source, independently audited<br>
-    - TunnelBear was acquired by McAfee (US) in 2018<br>
-    - Bundled with Proton suite<br>
-  </small>
-  <small><strong>Cost $:</strong> Freemium</small>
+  <h3>Code Repository</h3>
+  <p><span class="label">to:</span> <span class="to"><i>In progress…</i></span></p>
+  <p><span class="label">from:</span> <span class="from">GitHub 🇺🇸</span></p>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Free</span></small>
 </div>
 
 <div class="card">
-  <h3>Password Manager</h3>
-  <p><strong>macOS Keychain 🇺🇸</strong>&nbsp; → &nbsp;<strong>Proton Pass 🇨🇭</strong></p>
+  <h3>Web Hosting</h3>
+  <p><span class="label">to:</span> <span class="to">Websavers.ca 🇨🇦</span></p>
+  <p><span class="label">from:</span> <span class="from">Netlify 🇺🇸</span></p>
   <small>
-    - Open source, end-to-end encrypted<br>
-    - Cross-platform including Linux<br>
-    - Bundled with Proton suite<br>
+    - Canadian-owned and operated, servers in Canada<br>
+    - PIPEDA compliant<br>
   </small>
-  <small><strong>Cost $:</strong> Freemium</small>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Min</span></small>
+</div>
+
+<hr>
+<h2 id="ai">AI</h2>
+<div class="card">
+  <h3>AI Code Assist</h3>
+  <p><span class="label">to:</span> <span class="to"><i>In progress…</i></span></p>
+  <p><span class="label">from:</span> <span class="from">Claude 🇺🇸</span></p>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Max</span></small>
+</div>
+
+<div class="card">
+  <h3>LLM / Deep Research / Chat</h3>
+  <p><span class="label">to:</span> <span class="to"><i>In progress…</i></span></p>
+  <p><span class="label">from:</span> <span class="from">Claude / Gemini / NotebookLM 🇺🇸</span></p>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Max</span></small>
 </div>
 
 <hr>
 <h2 id="data">Data</h2>
 <div class="card">
-  <h3>Web Hosting</h3>
-  <p><strong>Netlify 🇺🇸</strong>&nbsp; → &nbsp;<strong>Websavers.ca 🇨🇦</strong></p>
-  <small>
-    - Canadian-owned and operated, servers in Canada<br>
-    - PIPEDA compliant<br>
-  </small>
-  <small><strong>Cost $:</strong> Min</small>
-</div>
-
-<div class="card">
-  <h3>Code Repository</h3>
-  <p><strong>GitHub 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
-</div>
-
-<div class="card">
-  <h3>AI Code Assist</h3>
-  <p><strong>Claude 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
-</div>
-
-<div class="card">
-  <h3>LLM / Chat</h3>
-  <p><strong>Claude / Gemini / NotebookLM 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
-</div>
-
-<div class="card">
   <h3>Cloud Storage</h3>
-  <p><strong>Google Drive 🇺🇸</strong>&nbsp; → &nbsp;<strong>Proton Drive 🇨🇭</strong></p>
+  <p><span class="label">to:</span> <span class="to">Proton Drive 🇨🇭</span></p>
+  <p><span class="label">from:</span> <span class="from">Google Drive 🇺🇸</span></p>
   <small>
     - End-to-end encrypted<br>
     - Still maturing as a product but functional for personal storage<br>
     - Bundled with Proton suite<br>
   </small>
-  <small><strong>Cost $:</strong> Freemium</small>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Freemium</span></small>
 </div>
 
 <div class="card">
-  <h3>Docs</h3>
-  <p><strong>Google Docs 🇺🇸</strong>&nbsp; → &nbsp;<strong>Cdox.ca 🇨🇦</strong></p>
-  <small>
-    - Canadian-hosted collaborative documents<br>
-    - Migration ongoing — Google Docs network effects are real<br>
-  </small>
-  <small><strong>Cost $:</strong> Min</small>
-</div>
-
-<div class="card">
-  <h3>Note Taking</h3>
-  <p><strong>SimpleNote 🇺🇸</strong>&nbsp; → &nbsp;<strong>Cdox.ca 🇨🇦</strong></p>
+  <h3>Docs & Notes</h3>
+  <p><span class="label">to:</span> <span class="to">Cdox.ca 🇨🇦</span></p>
+  <p><span class="label">from:</span> <span class="from">Google Docs / SimpleNote 🇺🇸</span></p>
   <small>
     - Canadian-hosted, privacy-first<br>
+    - Migration ongoing — Google Docs network effects are real<br>
   </small>
-  <small><strong>Cost $:</strong> Min</small>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Min</span></small>
 </div>
 
 <div class="card">
   <h3>Calendar</h3>
-  <p><strong>Google Calendar 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+  <p><span class="label">to:</span> <span class="to"><i>In progress…</i></span></p>
+  <p><span class="label">from:</span> <span class="from">Google Calendar 🇺🇸</span></p>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Freemium</span></small>
 </div>
 
 <hr>
 <h2 id="communications">Communications</h2>
 <div class="card">
   <h3>Messaging</h3>
-  <p><strong>Various</strong>&nbsp; → &nbsp;<strong>Signal 🇺🇸</strong></p>
+  <p><span class="label">to:</span> <span class="to">Signal 🇺🇸</span></p>
+  <p><span class="label">from:</span> <span class="from">Various</span></p>
   <small>
     - Open source, end-to-end encrypted<br>
     - Non-profit, no data monetization<br>
     - US-based but best available option in this category<br>
   </small>
-  <small><strong>Cost $:</strong> Free</small>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Free</span></small>
 </div>
 
 <div class="card">
   <h3>Comms & Collaboration</h3>
-  <p><strong>Discord / Slack 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+  <p><span class="label">to:</span> <span class="to"><i>In progress…</i></span></p>
+  <p><span class="label">from:</span> <span class="from">Discord / Slack 🇺🇸</span></p>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Free</span></small>
 </div>
 
 <hr>
 <h2 id="consumption">Consumption</h2>
 <div class="card">
   <h3>Search</h3>
-  <p><strong>Google 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+  <p><span class="label">to:</span> <span class="to"><i>In progress…</i></span></p>
+  <p><span class="label">from:</span> <span class="from">Google 🇺🇸</span></p>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Free</span></small>
 </div>
 
 <div class="card">
   <h3>Maps</h3>
-  <p><strong>Google Maps 🇺🇸</strong>&nbsp; → &nbsp;<i>In Progress…</i></p>
+  <p><span class="label">to:</span> <span class="to"><i>In progress…</i></span></p>
+  <p><span class="label">from:</span> <span class="from">Google Maps 🇺🇸</span></p>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Free</span></small>
 </div>
 
 <div class="card">
   <h3>Music</h3>
-  <p><strong>Spotify 🇺🇸</strong>&nbsp; → &nbsp;<i>Qobuz 🇫🇷</i></p>
-  - <a href="https://www.fightforthefuture.org/actions/spotify-whacked/" target="_blank" rel="noopener noreferrer">Spotify whacked</a><br>
-  - Qobuz provides better artist compensation and audio quality
-</div>
-
-<div class="card">
-  <h3>Video Streaming</h3>
-  <p><strong>Netflix, Apple TV 🇺🇸</strong>&nbsp; → &nbsp;<strong>Mubi, Eternal Family TV</strong></p>
-  - because I can't stand most popular media content anyway<br>
-  - and I like obscure shit and pretentious art<br>
+  <p><span class="label">to:</span> <span class="to">Qobuz 🇫🇷</span></p>
+  <p><span class="label">from:</span> <span class="from">Spotify 🇺🇸</span></p>
+  <small>
+    - <a href="https://www.fightforthefuture.org/actions/spotify-whacked/" target="_blank" rel="noopener noreferrer">Spotify whacked</a><br>
+    - Qobuz provides better artist compensation and audio quality<br>
+  </small>
+  <small><span class="cost-label">$:</span> <span class="cost-value">Mid</span></small>
 </div>
 
 <hr>
 <p>&quot;But I have nothing to hide!&quot; </p>
 <p>This argument hasn&#39;t aged well. It assumes the rules won&#39;t change, that platforms won&#39;t be sold, and the data won&#39;t be misused. </p>
 <p><strong>Data Privacy</strong> isn&#39;t about secrecy; it&#39;s about who holds power over your information and what they can do with it. <strong>Digital Sovereignty</strong> extends that question to jurisdiction: not just who holds the power, but under what law, with what accountability, and at what cost to community and the environment. For Canadians, there is a persistent gap between the privacy protections we assume we have and what is actually enforceable when a service runs on US infrastructure, regardless of where the physical servers actually sit. This isn&#39;t about national borders. It&#39;s about <strong>legibility</strong>.</p>
-<p>Every time we sign up or sign in we should be asking ourselves: <strong>who unjustly profits from our convenience, and at whose expense?</strong></p>
+<p>Every time we sign up or sign in we should be asking ourselves: <strong>who unfairly profits from our convenience, and at whose expense?</strong></p>
 <hr>
 <blockquote>
 <p>&quot;There is no situation that is morally more evil than the situation in which evil has been so fully integrated into the situation that the individual itself is spared from being evil […] The machines that populate our world have spared us from incurring guilt, just as they have relieved us from baking bread or from calculating statistics.&quot; — <strong>Güther Anders</strong>.</p>
