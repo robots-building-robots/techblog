@@ -245,7 +245,9 @@ I've started where impact is highest and personal friction is lowest, while weig
 
 This argument hasn't aged well. It assumes the rules won't change, that platforms won't be sold, and the data won't be misused. 
 
-**Data Privacy** isn't about secrecy; it's about who holds power over your information and what they can do with it. **Digital Sovereignty** extends that question to jurisdiction: not just who holds the power, but under what law, with what accountability, and at what cost to community and the environment. For Canadians, there is a persistent gap between the privacy protections we assume we have and what is actually enforceable when a service runs on US infrastructure, regardless of where the physical servers actually sit. This isn't about national borders. It's about **legibility**.
+**Data Privacy** isn't about secrecy; it's about who holds power over your information and what they can do with it. **Digital Sovereignty** extends that question to jurisdiction: not just who holds the power, but under what law, with what accountability, and at what cost to community and the environment. 
+
+For Canadians, there is a persistent gap between the privacy protections we assume we have and what is actually enforceable when a service runs on US infrastructure, regardless of where the physical servers actually sit. This isn't about national borders. It's about **legibility**.
 
 Every time we sign up or sign in we should be asking ourselves: **who unfairly profits from our convenience, and at whose expense?**
 
