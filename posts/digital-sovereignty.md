@@ -28,6 +28,8 @@ I've started where impact is highest and personal friction is lowest, while weig
 </div>
 -->
 
+<hr class="spacer">
+
 ## Identity
 
 <div class="card">
@@ -100,7 +102,7 @@ I've started where impact is highest and personal friction is lowest, while weig
   <small><span class="cost-label">$:</span> <span class="cost-value">Freemium</span></small>
 </div>
 
----
+<hr class="spacer">
 
 ## Software Development
 
@@ -135,7 +137,7 @@ I've started where impact is highest and personal friction is lowest, while weig
   <small><span class="cost-label">$:</span> <span class="cost-value">Min</span></small>
 </div>
 
----
+<hr class="spacer">
 
 ## AI
 
@@ -153,7 +155,7 @@ I've started where impact is highest and personal friction is lowest, while weig
   <small><span class="cost-label">$:</span> <span class="cost-value">Max</span></small>
 </div>
 
----
+<hr class="spacer">
 
 ## Data
 
@@ -187,7 +189,7 @@ I've started where impact is highest and personal friction is lowest, while weig
   <small><span class="cost-label">$:</span> <span class="cost-value">Freemium</span></small>
 </div>
 
----
+<hr class="spacer">
 
 ## Communications
 
@@ -210,7 +212,7 @@ I've started where impact is highest and personal friction is lowest, while weig
   <small><span class="cost-label">$:</span> <span class="cost-value">Free</span></small>
 </div>
 
----
+<hr class="spacer">
 
 ## Consumption
 

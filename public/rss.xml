@@ -30,6 +30,8 @@
 </div>
 -->
 
+<hr class="spacer">
+
 <h2 id="identity">Identity</h2>
 <div class="card">
   <h3>OS Desktop</h3>
@@ -101,7 +103,8 @@
   <small><span class="cost-label">$:</span> <span class="cost-value">Freemium</span></small>
 </div>
 
-<hr>
+<hr class="spacer">
+
 <h2 id="software-development">Software Development</h2>
 <div class="card">
   <h3>Browser</h3>
@@ -134,7 +137,8 @@
   <small><span class="cost-label">$:</span> <span class="cost-value">Min</span></small>
 </div>
 
-<hr>
+<hr class="spacer">
+
 <h2 id="ai">AI</h2>
 <div class="card">
   <h3>AI Code Assist</h3>
@@ -150,7 +154,8 @@
   <small><span class="cost-label">$:</span> <span class="cost-value">Max</span></small>
 </div>
 
-<hr>
+<hr class="spacer">
+
 <h2 id="data">Data</h2>
 <div class="card">
   <h3>Cloud Storage</h3>
@@ -182,7 +187,8 @@
   <small><span class="cost-label">$:</span> <span class="cost-value">Freemium</span></small>
 </div>
 
-<hr>
+<hr class="spacer">
+
 <h2 id="communications">Communications</h2>
 <div class="card">
   <h3>Messaging</h3>
@@ -203,7 +209,8 @@
   <small><span class="cost-label">$:</span> <span class="cost-value">Free</span></small>
 </div>
 
-<hr>
+<hr class="spacer">
+
 <h2 id="consumption">Consumption</h2>
 <div class="card">
   <h3>Search</h3>
