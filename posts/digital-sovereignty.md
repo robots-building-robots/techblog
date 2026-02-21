@@ -7,6 +7,8 @@ In January 2026, I made the resolution to ditch US-based **Big Tech** as much as
 
 Most people don't care where their data lives. We just want what's cheap, familiar, and what works. The real costs of that convenience are never disclosed the moment we sign up. We have quietly normalized storing our digital fingerprints under legal systems we never agreed to, in jurisdictions where we have no standing. That normalization is worth resisting.
 
+> "Every program in your computer that is adverse to your interest can be neutralized with a program that is beneficial to your interests. And that means, that when you create a program that is deliberately bad, you invite new market entrace to make one that's good." — Cory Doctorow
+
 **Infrastructure isn't neutral**. The same data pipelines and AI systems powering our productivity tools are procured for **surveillance, unlawful policing, and warfare**. The small print doesn't mention that. And none of it is more ethical for being algorithmic. **Small Tech**, not anti-technology, is the framing here. Smaller, local alternatives that can actually be held accountable; not platforms that answer to no one.
 
 For inspiration, I looked to Paris Marx's <a href="https://disconnect.blog/getting-off-us-tech-a-guide/" target="_blank" rel="noopener noreferrer">Getting Off US Tech</a>, Scott Galloway's <a href="https://www.resistandunsubscribe.com/" target="_blank" rel="noopener noreferrer">Resist and Unsubscribe</a>, and <a href="https://quitgpt.org/" target="_blank" rel="noopener noreferrer">QuitGPT</a>, but with a few different needs as a software developer focused open source tooling and the responsible use of AI, which, for better or worse, is now considered a professional baseline.
@@ -194,6 +196,8 @@ This argument hasn't aged well. It assumes the rules won't change, that platform
 For Canadians, there is a persistent gap between the privacy protections we assume we have and what is actually enforceable when a service runs on US infrastructure, regardless of where the physical servers actually sit. This isn't about national borders. It's about **legibility and accountability**.
 
 Every time we sign up or sign in we should be asking ourselves: **who unfairly profits from our convenience, and at whose expense?**
+
+<small>* Cory Doctorow quote from "We Didn’t Ask for This Internet" The Ezra Klein Show, Feb 2026.
 
 ---
 
