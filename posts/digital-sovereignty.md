@@ -9,7 +9,7 @@ Most people don't care where their data lives. We just want what's cheap, famili
 
 ---
 
-> "Every program in your computer that is adverse to your interest can be neutralized with a program that is beneficial to your interests. And that means, that when you create a program that is deliberately bad, you invite new market entrace to make one that's good." — Cory Doctorow
+> "Every program in your computer that is adverse to your interest can be neutralized with a program that is beneficial to your interests. And that means, that when you create a program that is deliberately bad, you invite new market entrance to make one that's good." — Cory Doctorow
 
 ---
 
