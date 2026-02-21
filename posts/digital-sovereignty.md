@@ -21,7 +21,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 
 <!-- card template
 <div class="card">
-  <h3>SERVICE</h3>
+  <p>SERVICE</p>
   <p>CURRENT SERVICE <span class="pipe">|</span> <span class="flag">🇨🇭</span><span class="pipe">|</span> <span class="label">$: </span><small>free</small> / freemium / min / mid / max</p>
   <small>
     - Note<br>
@@ -35,25 +35,19 @@ I've started where impact is highest and personal friction is lowest, while weig
 ## Identity
 
 <div class="card">
-  <h3>OS Desktop</h3>
+  <p>OS</p>
   <p><i>In progress…</i></p>
   <small>
-    - <strong>Linux</strong> is probably the principled choice and long-term goal<br>
-    - but macOS required for professional dev and some client tooling<br>
+    <em>Desktop:</em><br>
+    Long-term goal: <strong>Linux</strong> <span class="flag">🇺🇸</span> is probably the principled choice but macOS is often required for professional dev and some client tooling.<br>
+    <br>
+    <em>Mobile:</em><br>
+    <strong>GrapheneOS</strong> <span class="flag">🇨🇦</span> is privacy-hardened Android fork and a Canadian-led open source project<br>
   </small>
 </div>
 
 <div class="card">
-  <h3>OS Mobile</h3>
-  <p><i>In progress…</i></p>
-  <small>
-    - <strong>GrapheneOS</strong> is privacy-hardened Android fork and a Canadian-led open source project<br>
-    - Android is required for professional dev and client tooling<br>
-  </small>
-</div>
-
-<div class="card">
-  <h3>ISP</h3>
+  <p>ISP</p>
   <p>TekSavvy <span class="pipe">|</span> <span class="flag">🇨🇦</span> <span class="pipe">|</span> <span class="label">$: </span><small>freemium</small></p>
   <small>
     - Independent, advocates for net neutrality.<br>
@@ -62,12 +56,12 @@ I've started where impact is highest and personal friction is lowest, while weig
     <br>
     <em>DNS:</em><br>
     - NextDNS <span class="flag">🇫🇷</span><br>
-    - cloud-based firewall, blocks trackers, malware, and supports encrypted protocols (DoH/DoT).
+    - Cloud-based firewall; blocks trackers and malware; supports encrypted protocols (DoH/DoT).
   </small>
 </div>
 
 <div class="card">
-  <h3>VPN</h3>
+  <p>VPN</p>
   <p>Proton VPN <span class="pipe">|</span> <span class="flag">🇨🇭</span> <span class="pipe">|</span> <span class="label">$: </span><small>freemium</small></p>
   <small>
     - No-logs policy, open source, independently audited<br>
@@ -77,7 +71,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 </div>
 
 <div class="card">
-  <h3>Password Manager</h3>
+  <p>Password Manager</p>
   <p>Proton Pass <span class="pipe">|</span> <span class="flag">🇨🇭</span> <span class="pipe">|</span> <span class="label">$: </span><small>freemium</small></p>
   <small>
     - Open source, end-to-end encrypted<br>
@@ -87,7 +81,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 </div>
 
 <div class="card">
-  <h3>Email</h3>
+  <p>Email</p>
   <p>Proton Mail <span class="pipe">|</span> <span class="flag">🇨🇭</span> <span class="pipe">|</span> <span class="label">$: </span><small>freemium</small></p>
   <small>
     - End-to-end encrypted by default<br>
@@ -100,7 +94,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 ## Software Development
 
 <div class="card">
-  <h3>Web Hosting</h3>
+  <p>Web Hosting</p>
   <p>Websavers.ca <span class="pipe">|</span> <span class="flag">🇨🇦</span> <span class="pipe">|</span> <span class="label">$: </span><small>min</small></p>
   <small>
     - Canadian-owned and operated, servers in Canada<br>
@@ -109,12 +103,12 @@ I've started where impact is highest and personal friction is lowest, while weig
 </div>
 
 <div class="card">
-  <h3>Code Repository</h3>
+  <p>Code Repository</p>
   <p><i>In progress…</i></p>
 </div>
 
 <div class="card">
-  <h3>Browser & Search</h3>
+  <p>Browser & Search</p>
   <p>Brave <span class="pipe">|</span> <span class="flag">🇺🇸</span> <span class="pipe">|</span> <span class="label">$: </span><small>free</small></p>
   <small>
     <em>Browsers:</em><br>
@@ -134,12 +128,12 @@ I've started where impact is highest and personal friction is lowest, while weig
 ## AI
 
 <div class="card">
-  <h3>AI Code Assist</h3>
+  <p>AI Code Assist</p>
   <p><i>In progress…</i></p>
 </div>
 
 <div class="card">
-  <h3>LLM Chat / Deep Research </h3>
+  <p>LLM Chat / Deep Research </p>
   <p><i>In progress…</i></p>
 </div>
 
@@ -148,7 +142,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 ## Data
 
 <div class="card">
-  <h3>Cloud Storage</h3>
+  <p>Cloud Storage</p>
   <p>Proton Drive <span class="pipe">|</span> <span class="flag">🇨🇭</span> <span class="pipe">|</span> <span class="label">$: </span><small>freemium</small></p>
   <small>
     - End-to-end encrypted<br>
@@ -158,7 +152,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 </div>
 
 <div class="card">
-  <h3>Documents & Note Taking</h3>
+  <p>Documents & Note Taking</p>
   <p>Cdox.ca <span class="pipe">|</span> <span class="flag">🇨🇦</span> <span class="pipe">|</span> <span class="label">$: </span><small>min</small></p>
   <small>
     - Canadian-hosted, privacy-first<br>
@@ -170,7 +164,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 ## Communications
 
 <div class="card">
-  <h3>Messaging</h3>
+  <p>Messaging</p>
   <p>Signal <span class="pipe">|</span> <span class="flag">🇺🇸</span> <span class="pipe">|</span> <span class="label">$: </span><small>free</small></p>
   <small>
     - Open source, end-to-end encrypted<br>
@@ -180,7 +174,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 </div>
 
 <div class="card">
-  <h3>Collaboration</h3>
+  <p>Collaboration</p>
   <p><i>In progress…</i></p>
   <small>
   - <em>TeamSpeak?</em> <a href=https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/" target="_blank" rel="noopener noreferrer">Exodus from Discord...</a><br>
@@ -189,13 +183,13 @@ I've started where impact is highest and personal friction is lowest, while weig
 
 ---
 
-> "Today's real world of technology is characterized by ***the dominance of prescriptive technologies**. Prescriptive technologies are not restricted to materials production. They are used in administrative and economic activities and in many aspects of governance, and on them rests the real world of technology in which we live. While we should not forget that these prescriptive technologies are often exceedingly effective and efficient, they come with an enormous social mortgage. The mortgage means that we live in a **culture of compliance**, that we are ever more conditioned to **accept orthodoxy as normal**, and to accept that there is only one way of doing 'it'." — **Ursula Franklin**
+> "Today's real world of technology is characterized by **the dominance of prescriptive technologies**. Prescriptive technologies are not restricted to materials production. They are used in administrative and economic activities and in many aspects of governance, and on them rests the real world of technology in which we live. While we should not forget that these prescriptive technologies are often exceedingly effective and efficient, they come with an enormous social mortgage. The mortgage means that we live in a **culture of compliance**, that we are ever more conditioned to **accept orthodoxy as normal**, and to accept that there is only one way of doing 'it'." — **Ursula Franklin**
 
 ---
 
 *"But I have nothing to hide!"*
 
-This argument hasn't aged well. It assumes the rules won't change, that platforms won't be sold, and the data won't be misused, especially against those less fortunate than you.
+This argument hasn't aged well. It assumes the rules won't change, that platforms won't be sold, and the data won't be misused, especially against those less fortunate than us.
 
 **Data Privacy** isn't about secrecy; it's about who holds power over your information and what they can do with it. **Digital Sovereignty** extends that question to jurisdiction: not just who holds the power, but under what law, with what accountability, and at what cost to community and the environment. 
 
