@@ -14,4 +14,4 @@ date: 2026-02-21
 <hr class="spacer">
 
 <img src="./../img/ursula-franklin-toronto-school-initiative.png" alt="Portrait of Ursula Franklin" /><br>
-<small>* photo of Ursula Franklin</small>
+<small style="float: right;">* photo of Ursula Franklin</small>
