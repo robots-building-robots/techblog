@@ -37,6 +37,10 @@ h1 {
   text-transform: uppercase;
 }
 
+article header h1 {
+  text-transform: capitalize;
+}
+
 h2 {
   font-size: 1.3em;
   /* text-transform: uppercase; */
@@ -150,49 +154,36 @@ img.logo {
 }
 
 .card {
+  background: #000;
   border: 1px solid var(--border);
   border-radius: 4px;
-  padding: 1rem 1.25rem;
+  padding: 1rem 1.25rem 2rem 1.25rem;
   margin: 1rem 0;
 }
 
 .card p {
   margin: 0.25rem 0;
-}
-
-.card small {
-  display: block;
-  margin-top: 0.75rem;
-  padding-top: 0.75rem;
-}
-
-.card .to {
   color: var(--accent);
   font-size: 1.05rem;
 }
 
-.card .from {
-  color: var(--dark);
-  font-size: 0.9rem;
+.card .pipe {
+  color: var(--border);
+  padding: 0 0.4em;
+}
+
+.card .flag {
+  font-size: 1.2em;
+  vertical-align: middle;
 }
 
 .card .label {
   font-family: ui-monospace, "Cascadia Code", monospace;
-  font-size: 0.7rem;
-  letter-spacing: 0.08em;
+  font-size: 0.8rem;
   color: var(--text-secondary);
+}
+
+.card small {
   display: inline-block;
-  width: 2.5rem;
-  /* text-transform: uppercase; */
-  user-select: none;
-}
-
-.card .cost-label {
-  color: var(--dark);
-  font-weight: 300;
-}
-
-.card .cost-value {
-  color: var(--text-primary);
-  font-weight: 400;
+  padding-top: 0.75rem;
 }
