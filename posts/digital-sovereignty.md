@@ -57,7 +57,7 @@ I've started where impact is highest and personal friction is lowest, while weig
     - Encrypted DNS (DoH/DoT) prevents ISP-level surveillance.<br>
     <br>
     <em>DNS:</em><br>
-    - NextDNS <span class="flag">🇫🇷</span>
+    - NextDNS <span class="flag">🇫🇷</span><br>
     - cloud-based firewall, blocks trackers, malware, and supports encrypted protocols (DoH/DoT).
   </small>
 </div>
@@ -178,6 +178,9 @@ I've started where impact is highest and personal friction is lowest, while weig
 <div class="card">
   <h3>Collaboration</h3>
   <p><i>In progress…</i></p>
+  <small>
+  - <em>TeamSpeak?</em> <a href=https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/" target="_blank" rel="noopener noreferrer">Exodus from Discord...</a><br>
+  </small>
 </div>
 
 ---
