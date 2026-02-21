@@ -168,7 +168,6 @@ img.logo {
 .card p {
   margin: 0.25rem 0;
   color: var(--accent);
-  font-size: 1.05rem;
 }
 
 .card .pipe {

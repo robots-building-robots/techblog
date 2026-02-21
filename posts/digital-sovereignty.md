@@ -21,7 +21,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 
 <!-- card template
 <div class="card">
-  <p>SERVICE</p>
+  <h3>SERVICE</h3>
   <p>CURRENT SERVICE <span class="pipe">|</span> <span class="flag">🇨🇭</span><span class="pipe">|</span> <span class="label">$: </span><small>free</small> / freemium / min / mid / max</p>
   <small>
     - Note<br>
@@ -35,7 +35,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 ## Identity
 
 <div class="card">
-  <p>OS</p>
+  <h3>OS</h3>
   <p><i>In progress…</i></p>
   <small>
     <em>Desktop:</em><br>
@@ -47,7 +47,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 </div>
 
 <div class="card">
-  <p>ISP</p>
+  <h3>ISP</h3>
   <p>TekSavvy <span class="pipe">|</span> <span class="flag">🇨🇦</span> <span class="pipe">|</span> <span class="label">$: </span><small>freemium</small></p>
   <small>
     - Independent, advocates for net neutrality.<br>
@@ -61,7 +61,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 </div>
 
 <div class="card">
-  <p>VPN</p>
+  <h3>VPN</h3>
   <p>Proton VPN <span class="pipe">|</span> <span class="flag">🇨🇭</span> <span class="pipe">|</span> <span class="label">$: </span><small>freemium</small></p>
   <small>
     - No-logs policy, open source, independently audited<br>
@@ -71,7 +71,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 </div>
 
 <div class="card">
-  <p>Password Manager</p>
+  <h3>Password Manager</h3>
   <p>Proton Pass <span class="pipe">|</span> <span class="flag">🇨🇭</span> <span class="pipe">|</span> <span class="label">$: </span><small>freemium</small></p>
   <small>
     - Open source, end-to-end encrypted<br>
@@ -81,7 +81,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 </div>
 
 <div class="card">
-  <p>Email</p>
+  <h3>Email</h3>
   <p>Proton Mail <span class="pipe">|</span> <span class="flag">🇨🇭</span> <span class="pipe">|</span> <span class="label">$: </span><small>freemium</small></p>
   <small>
     - End-to-end encrypted by default<br>
@@ -94,7 +94,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 ## Software Development
 
 <div class="card">
-  <p>Web Hosting</p>
+  <h3>Web Hosting</h3>
   <p>Websavers.ca <span class="pipe">|</span> <span class="flag">🇨🇦</span> <span class="pipe">|</span> <span class="label">$: </span><small>min</small></p>
   <small>
     - Canadian-owned and operated, servers in Canada<br>
@@ -103,12 +103,12 @@ I've started where impact is highest and personal friction is lowest, while weig
 </div>
 
 <div class="card">
-  <p>Code Repository</p>
+  <h3>Code Repository</h3>
   <p><i>In progress…</i></p>
 </div>
 
 <div class="card">
-  <p>Browser & Search</p>
+  <h3>Browser & Search</h3>
   <p>Brave <span class="pipe">|</span> <span class="flag">🇺🇸</span> <span class="pipe">|</span> <span class="label">$: </span><small>free</small></p>
   <small>
     <em>Browsers:</em><br>
@@ -128,12 +128,12 @@ I've started where impact is highest and personal friction is lowest, while weig
 ## AI
 
 <div class="card">
-  <p>AI Code Assist</p>
+  <h3>AI Code Assist</h3>
   <p><i>In progress…</i></p>
 </div>
 
 <div class="card">
-  <p>LLM Chat / Deep Research </p>
+  <h3>LLM Chat / Deep Research </h3>
   <p><i>In progress…</i></p>
 </div>
 
@@ -142,7 +142,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 ## Data
 
 <div class="card">
-  <p>Cloud Storage</p>
+  <h3>Cloud Storage</h3>
   <p>Proton Drive <span class="pipe">|</span> <span class="flag">🇨🇭</span> <span class="pipe">|</span> <span class="label">$: </span><small>freemium</small></p>
   <small>
     - End-to-end encrypted<br>
@@ -152,7 +152,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 </div>
 
 <div class="card">
-  <p>Documents & Note Taking</p>
+  <h3>Documents & Note Taking</h3>
   <p>Cdox.ca <span class="pipe">|</span> <span class="flag">🇨🇦</span> <span class="pipe">|</span> <span class="label">$: </span><small>min</small></p>
   <small>
     - Canadian-hosted, privacy-first<br>
@@ -164,7 +164,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 ## Communications
 
 <div class="card">
-  <p>Messaging</p>
+  <h3>Messaging</h3>
   <p>Signal <span class="pipe">|</span> <span class="flag">🇺🇸</span> <span class="pipe">|</span> <span class="label">$: </span><small>free</small></p>
   <small>
     - Open source, end-to-end encrypted<br>
@@ -174,7 +174,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 </div>
 
 <div class="card">
-  <p>Collaboration</p>
+  <h3>Collaboration</h3>
   <p><i>In progress…</i></p>
   <small>
   - <em>TeamSpeak?</em> <a href=https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/" target="_blank" rel="noopener noreferrer">Exodus from Discord...</a><br>

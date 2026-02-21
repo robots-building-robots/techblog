@@ -16,10 +16,10 @@ Get in touch: <a href="mailto:hello&#64;modelcollapse&#46;site"><span>hello&#64;
 &nbsp;
 
 #### Some Inspiration:
+- <a href="https://pluralistic.net/" target="_blank" rel="noopener noreferrer">Pluralistic</a>
 - <a href="https://criticalengineering.org/" target="_blank" rel="noopener noreferrer">Critical Engineering</a>
 - <a href="https://luckysoap.com/statements/handmadeweb.html" target="_blank" rel="noopener noreferrer">A Handmade Web</a>
 - <a href="https://motherfuckingwebsite.com/" target="_blank" rel="noopener noreferrer">Motherfucking Website</a>
-- <a hre="https://pluralistic.net/" target="_blank" rel="noopener noreferrer">Pluralistic</a>
 
 ---
 
