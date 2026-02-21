@@ -7,7 +7,11 @@ In January 2026, I made the resolution to ditch US-based **Big Tech** as much as
 
 Most people don't care where their data lives. We just want what's cheap, familiar, and what works. The real costs of that convenience are never disclosed the moment we sign up. We have quietly normalized storing our digital fingerprints under legal systems we never agreed to, in jurisdictions where we have no standing. That normalization is worth resisting.
 
+---
+
 > "Every program in your computer that is adverse to your interest can be neutralized with a program that is beneficial to your interests. And that means, that when you create a program that is deliberately bad, you invite new market entrace to make one that's good." — Cory Doctorow
+
+---
 
 **Infrastructure isn't neutral**. The same data pipelines and AI systems powering our productivity tools are procured for **surveillance, unlawful policing, and warfare**. The small print doesn't mention that. And none of it is more ethical for being algorithmic. **Small Tech**, not anti-technology, is the framing here. Smaller, local alternatives that can actually be held accountable; not platforms that answer to no one.
 

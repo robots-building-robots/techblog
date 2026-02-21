@@ -92,7 +92,7 @@ article header {
 @media (max-width: 600px) {
 
   blockquote {
-    margin: 0;
+    margin: 1em;
   }
 }
 
