@@ -120,6 +120,10 @@ time, .meta, .dim, small {
   font-size: 0.85rem;
 }
 
+small {
+  font-size: 0.8rem;
+}
+
 footer {
   color: var(--dark);
   font-family: ui-monospace, "Cascadia Code", monospace;

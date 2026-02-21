@@ -9,7 +9,7 @@ Most people don't care where their data lives. We just want what's cheap, famili
 
 ---
 
-> "Every program in your computer that is adverse to your interest can be neutralized with a program that is beneficial to your interests. And that means, that when you create a program that is deliberately bad, you invite new market entrance to make one that's good." — Cory Doctorow
+> "Every program in your computer that is adverse to your interest can be neutralized with a program that is beneficial to your interests. And that means, that when you create a program that is deliberately bad, you invite new market entrance to make one that's good." — **Cory Doctorow**
 
 ---
 
@@ -18,8 +18,6 @@ Most people don't care where their data lives. We just want what's cheap, famili
 For inspiration, I looked to Paris Marx's <a href="https://disconnect.blog/getting-off-us-tech-a-guide/" target="_blank" rel="noopener noreferrer">Getting Off US Tech</a>, Scott Galloway's <a href="https://www.resistandunsubscribe.com/" target="_blank" rel="noopener noreferrer">Resist and Unsubscribe</a>, and <a href="https://quitgpt.org/" target="_blank" rel="noopener noreferrer">QuitGPT</a>, but with a few different needs as a software developer focused open source tooling and the responsible use of AI, which, for better or worse, is now considered a professional baseline.
 
 I've started where impact is highest and personal friction is lowest, while weighing cost, effort, and the convenience of consolidating under one provider where it makes sense.
-
----
 
 <!-- card template
 <div class="card">
@@ -191,19 +189,19 @@ I've started where impact is highest and personal friction is lowest, while weig
 
 ---
 
-> "Today's real world of technology is characterized by the dominance of prescriptive technologies. Prescriptive technologies are not restricted to materials production. They are used in administrative and economic activities and in many aspects of governance, and on them rests the real world of technology in which we live. While we should not forget that these prescriptive technologies are often exceedingly effective and efficient, they come with an enormous social mortgage. The mortgage means that we live in a culture of compliance, that we are ever more conditioned to accept orthodoxy as normal, and to accept that there is only one way of doing 'it'." — Ursula Franklin. 'The Real World of Technology'. CBC Massey Lectures, 1989.
+> "Today's real world of technology is characterized by ***the dominance of prescriptive technologies**. Prescriptive technologies are not restricted to materials production. They are used in administrative and economic activities and in many aspects of governance, and on them rests the real world of technology in which we live. While we should not forget that these prescriptive technologies are often exceedingly effective and efficient, they come with an enormous social mortgage. The mortgage means that we live in a **culture of compliance**, that we are ever more conditioned to **accept orthodoxy as normal**, and to accept that there is only one way of doing 'it'." — **Ursula Franklin**
 
-"But I have nothing to hide!" 
+---
 
-This argument hasn't aged well. It assumes the rules won't change, that platforms won't be sold, and the data won't be misused. 
+*"But I have nothing to hide!"*
+
+This argument hasn't aged well. It assumes the rules won't change, that platforms won't be sold, and the data won't be misused, especially against those less fortunate than you.
 
 **Data Privacy** isn't about secrecy; it's about who holds power over your information and what they can do with it. **Digital Sovereignty** extends that question to jurisdiction: not just who holds the power, but under what law, with what accountability, and at what cost to community and the environment. 
 
 For Canadians, there is a persistent gap between the privacy protections we assume we have and what is actually enforceable when a service runs on US infrastructure, regardless of where the physical servers actually sit. This isn't about national borders. It's about **legibility and accountability**.
 
 Every time we sign up or sign in we should be asking ourselves: **who unfairly profits from our convenience, and at whose expense?**
-
-<small>* Cory Doctorow quote from "We Didn’t Ask for This Internet" The Ezra Klein Show, Feb 2026.
 
 ---
 
