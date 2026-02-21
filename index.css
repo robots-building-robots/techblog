@@ -120,6 +120,7 @@ time, .meta, .dim, small {
 }
 
 small {
+  color: var(--dark);
   font-size: 0.8rem;
 }
 
