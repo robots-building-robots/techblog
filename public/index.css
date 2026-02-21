@@ -78,6 +78,7 @@ main {
   max-width: 65ch;
   width: 100%;
   margin: var(--v-spacing) auto;
+  padding: 0 1rem;
 }
 
 article header {
@@ -85,9 +86,6 @@ article header {
 }
 
 @media (max-width: 600px) {
-  main {
-    padding: 0 1rem;
-  }
 
   blockquote {
     margin: 0;
