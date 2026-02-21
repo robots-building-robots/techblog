@@ -90,7 +90,6 @@ article header {
 }
 
 @media (max-width: 600px) {
-
   blockquote {
     margin: 1em;
   }
@@ -143,6 +142,11 @@ hr {
 hr.spacer {
   background: none;
   margin: calc(var(--v-spacing) * 0.5) auto;
+}
+
+img {
+  width: 100%;
+  height: auto;
 }
 
 img.logo {

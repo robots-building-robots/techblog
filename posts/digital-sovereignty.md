@@ -183,10 +183,6 @@ I've started where impact is highest and personal friction is lowest, while weig
 
 ---
 
-> "Today's real world of technology is characterized by **the dominance of prescriptive technologies**. Prescriptive technologies are not restricted to materials production. They are used in administrative and economic activities and in many aspects of governance, and on them rests the real world of technology in which we live. While we should not forget that these prescriptive technologies are often exceedingly effective and efficient, they come with an enormous social mortgage. The mortgage means that we live in a **culture of compliance**, that we are ever more conditioned to **accept orthodoxy as normal**, and to accept that there is only one way of doing 'it'." — **Ursula Franklin**
-
----
-
 *"But I have nothing to hide!"*
 
 This argument hasn't aged well. It assumes the rules won't change, that platforms won't be sold, and the data won't be misused, especially against those less fortunate than us.

@@ -8,6 +8,23 @@
 <atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
 
 <item>
+     <title>Prescriptive Technologies</title>
+     <link>/posts/prescriptive-technologies.html</link>
+     <guid>/posts/prescriptive-technologies.html</guid>
+     <description><![CDATA[<hr>
+<blockquote>
+<p>&quot;Today&#39;s real world of technology is characterized by <strong>the dominance of prescriptive technologies</strong>. Prescriptive technologies are not restricted to materials production. They are used in administrative and economic activities and in many aspects of governance, and on them rests the real world of technology in which we live. While we should not forget that these prescriptive technologies are often exceedingly effective and efficient, they come with an enormous social mortgage. The mortgage means that we live in a <strong>culture of compliance</strong>, that we are ever more conditioned to <strong>accept orthodoxy as normal</strong>, and to accept that there is only one way of doing &#39;it&#39;.&quot; — <strong>Ursula Franklin</strong></p>
+</blockquote>
+<hr>
+<blockquote>
+<p>&quot;<strong>Prescriptive technologies eliminate</strong> the occasions for decision-making and judgement in general and especially for the making of <strong>principled decisions</strong>. Any goal of the technology is incorporated a priori in the design and is not negotiable […] As methods of materials production, prescriptive technologies have brought into the real world of technology a wealth of important products that have raised living standards and increased well-being. At the same time they have created a <strong>culture of compliance</strong>. The acculturation to compliance and conformity has, in turn, accelerated the use of prescriptive technologies in administration, government, and social services. The same development has diminished resistance to the programming of people.&quot; — <strong>Ursula Franklin</strong></p>
+</blockquote>
+<hr class="spacer">
+
+<p><img src="./../img/ursula-franklin-toronto-school-initiative.png" alt="Portrait of Ursula Franklin" /><br>
+<small>* photo of Ursula Franklin</small></p>]]></description>
+</item>
+<item>
      <title>Disconnecting From Big Tech</title>
      <link>/posts/digital-sovereignty.html</link>
      <guid>/posts/digital-sovereignty.html</guid>
@@ -178,10 +195,6 @@
   </small>
 </div>
 
-<hr>
-<blockquote>
-<p>&quot;Today&#39;s real world of technology is characterized by <strong>the dominance of prescriptive technologies</strong>. Prescriptive technologies are not restricted to materials production. They are used in administrative and economic activities and in many aspects of governance, and on them rests the real world of technology in which we live. While we should not forget that these prescriptive technologies are often exceedingly effective and efficient, they come with an enormous social mortgage. The mortgage means that we live in a <strong>culture of compliance</strong>, that we are ever more conditioned to <strong>accept orthodoxy as normal</strong>, and to accept that there is only one way of doing &#39;it&#39;.&quot; — <strong>Ursula Franklin</strong></p>
-</blockquote>
 <hr>
 <p><em>&quot;But I have nothing to hide!&quot;</em></p>
 <p>This argument hasn&#39;t aged well. It assumes the rules won&#39;t change, that platforms won&#39;t be sold, and the data won&#39;t be misused, especially against those less fortunate than us.</p>
