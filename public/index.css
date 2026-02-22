@@ -129,12 +129,27 @@ small {
 }
 
 footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   color: var(--dark);
   font-family: ui-monospace, "Cascadia Code", monospace;
   font-weight: 300;
   font-size: 0.85rem;
   text-transform: uppercase;
   padding: var(--v-spacing) 0;
+}
+
+.footer-icons {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+
+footer svg {
+  display: block;
+  width: 1.2em;
+  height: 1.2em;
 }
 
 hr {

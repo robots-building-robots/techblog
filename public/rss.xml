@@ -3,14 +3,15 @@
 <channel>
 
 <title>MODEL COLLAPSE</title>
-<link></link>
+<link>https://blog.modelcollapse.site</link>
 <description>model collapse</description>
-<atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
+<atom:link href="https://blog.modelcollapse.site/rss.xml" rel="self" type="application/rss+xml" />
 
 <item>
      <title>Prescriptive Technologies</title>
-     <link>/posts/prescriptive-technologies.html</link>
-     <guid>/posts/prescriptive-technologies.html</guid>
+     <link>https://blog.modelcollapse.site/posts/prescriptive-technologies.html</link>
+     <guid>https://blog.modelcollapse.site/posts/prescriptive-technologies.html</guid>
+     <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
      <description><![CDATA[<hr>
 <blockquote>
 <p>&quot;Today&#39;s real world of technology is characterized by <strong>the dominance of prescriptive technologies</strong>. Prescriptive technologies are not restricted to materials production. They are used in administrative and economic activities and in many aspects of governance, and on them rests the real world of technology in which we live. While we should not forget that these prescriptive technologies are often exceedingly effective and efficient, they come with an enormous social mortgage. The mortgage means that we live in a <strong>culture of compliance</strong>, that we are ever more conditioned to <strong>accept orthodoxy as normal</strong>, and to accept that there is only one way of doing &#39;it&#39;.&quot; — <strong>Ursula Franklin</strong></p>
@@ -26,8 +27,9 @@
 </item>
 <item>
      <title>Disconnecting From Big Tech</title>
-     <link>/posts/digital-sovereignty.html</link>
-     <guid>/posts/digital-sovereignty.html</guid>
+     <link>https://blog.modelcollapse.site/posts/digital-sovereignty.html</link>
+     <guid>https://blog.modelcollapse.site/posts/digital-sovereignty.html</guid>
+     <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
      <description><![CDATA[<p>In January 2026, I made the resolution to ditch US-based <strong>Big Tech</strong> as much as possible. We are living through a time of intensifying geopolitical tension and accelerating consolidation of digital infrastructure into a small number of empire-scale corporations who have captured the internet. They surveil our activity, manipulate our behaviour, extract our content, and sell it back to us like bottled water — or, should I say, high fructose slop.</p>
 <p>Most people don&#39;t care where their data lives. We just want what&#39;s cheap, familiar, and what works. The real costs of that convenience are never disclosed the moment we sign up. We have quietly normalized storing our digital fingerprints under legal systems we never agreed to, in jurisdictions where we have no standing. That normalization is worth resisting.</p>
 <hr>
@@ -209,8 +211,9 @@
 </item>
 <item>
      <title>About</title>
-     <link>/posts/about.html</link>
-     <guid>/posts/about.html</guid>
+     <link>https://blog.modelcollapse.site/posts/about.html</link>
+     <guid>https://blog.modelcollapse.site/posts/about.html</guid>
+     <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
      <description><![CDATA[<p>I&#39;m a <em><strong>Software Developer</strong></em> with over a decade experience in mobile and enterprise systems, from early discovery through production. I approach engineering as a <em><strong>craft</strong></em>, valuing human authorship, collaboration and responsible AI-assisted workflows over black-box automation, platform dependency, and proprietary lock-in. <em><strong>Open source</strong></em>, <em><strong>inclusive design</strong></em>, <em><strong>data privacy</strong></em>, <em><strong>digital sovereignty</strong></em>, and <em><strong>sustainable architecture</strong></em> are the principles that guide that practice.</p>
 <p>Informed by <em><strong>Critical Theory</strong></em> and <em><strong>Philosophy of Technology</strong></em>, my goal is to build digital experiences and tools grounded in constructive critical thinking. Healthy skepticism, resisting convenience as justification for ethical compromise, and insisting on solutions that respect the diverse communities and ecologies that sustain us.</p>
 <p><em><strong>Model collapse</strong></em> is what happens when AI systems train on AI-generated data: outputs converge, variance narrows, and the model consumes its own tail. Whether or not model collapse proves technically inevitable, as a metaphor for the social, algorithmic monocultures follow the same pattern, erasing the particularities, contradictions, and ambiguities that make lived existence meaningful. When systems exclude human authorship, they deny contingency, erase difference, and foreclose creativity — and with them, the possibility of technology that genuinely serves the many, not just the few. Keeping that authorship legible, accountable, and celebrated is not an empty romantic gesture; it is a technical and ethical necessity.</p>

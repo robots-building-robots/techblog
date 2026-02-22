@@ -3,15 +3,16 @@
 <channel>
 
 <title><%= data.title %></title>
-<link><%= data.link %></link>
+<link><%= data.url %></link>
 <description>model collapse</description>
-<atom:link href="<%= data.link %>/rss.xml" rel="self" type="application/rss+xml" />
+<atom:link href="<%= data.url %>/rss.xml" rel="self" type="application/rss+xml" />
 
-<% for (const name of Object.keys(posts).reverse()) { const {title, body} = posts[name]; -%>
+<% for (const name of Object.keys(posts).reverse()) { const {date, title, body} = posts[name]; -%>
 <item>
      <title><%= title %></title>
-     <link><%= data.link %>/posts/<%= name %>.html</link>
-     <guid><%= data.link %>/posts/<%= name %>.html</guid>
+     <link><%= data.url %>/posts/<%= name %>.html</link>
+     <guid><%= data.url %>/posts/<%= name %>.html</guid>
+     <pubDate><%= date.toUTCString() %></pubDate>
      <description><![CDATA[<%- body.trim() %>]]></description>
 </item>
 <% } -%>
