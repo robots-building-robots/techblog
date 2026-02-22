@@ -8,9 +8,9 @@
 <atom:link href="https://blog.modelcollapse.site/rss.xml" rel="self" type="application/rss+xml" />
 
 <item>
-     <title>Prescriptive Technologies</title>
-     <link>https://blog.modelcollapse.site/posts/prescriptive-technologies.html</link>
-     <guid>https://blog.modelcollapse.site/posts/prescriptive-technologies.html</guid>
+     <title>Earth-worm theory of social change</title>
+     <link>https://blog.modelcollapse.site/posts/ursula-franklin.html</link>
+     <guid>https://blog.modelcollapse.site/posts/ursula-franklin.html</guid>
      <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
      <description><![CDATA[<p><strong>Ursula Franklin&#39;s 1989 CBC Massey Lecture</strong>, <strong>&quot;The Real World of Technology&quot;</strong>, reads as a stark warning from the past that is going largely unheeded. Her analysis of how prescriptive technologies erode human agency and restructure social compliance has anticipated everything from algorithmic management to surveillance capitalism. Her thought proves only more prescient with the dawn of LLM automation.</p>
 <p>On <strong>Algorithmic addiction</strong> and <strong>Addictive Design</strong>:</p>
@@ -23,6 +23,10 @@
 </blockquote>
 <blockquote>
 <p>&quot;<strong>Prescriptive technologies eliminate</strong> the occasions for decision-making and judgement in general and especially for the making of <strong>principled decisions</strong>. Any goal of the technology is incorporated a priori in the design and is not negotiable […] As methods of materials production, prescriptive technologies have brought into the real world of technology a wealth of important products that have raised living standards and increased well-being. At the same time they have created a <strong>culture of compliance</strong>. The acculturation to compliance and conformity has, in turn, accelerated the use of prescriptive technologies in administration, government, and social services. The same development has diminished resistance to the programming of people.&quot; — <strong>Ursula Franklin</strong></p>
+</blockquote>
+<hr>
+<blockquote>
+<p>&quot;Social change will not come to us like an avalanche down the mountain. Social change will come through seeds growing in well prepared soil—and it is we, like the earthworms, who prepare the soil. We also seed thoughts and knowledge and concern. We realize there are no guarantees as to what will come up. Yet we do know that without the seeds and the prepared soil nothing will grow at all. I am convinced that we are indeed already in a period in which this movement from below is becoming more and more articulate, but what is needed is a lot more earthworming.&quot; — <strong>Ursula Franklin</strong></p>
 </blockquote>
 <hr class="spacer">
 
@@ -155,7 +159,7 @@
 </div>
 
 <div class="card">
-  <h3>LLM Chat / Deep Research </h3>
+  <h3>LLM Research</h3>
   <p><i>In progress…</i></p>
 </div>
 
@@ -218,8 +222,8 @@
      <link>https://blog.modelcollapse.site/posts/about.html</link>
      <guid>https://blog.modelcollapse.site/posts/about.html</guid>
      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
-     <description><![CDATA[<p>I&#39;m a <em><strong>Software Developer</strong></em> with over a decade experience in mobile and enterprise systems, from early discovery through production. I approach engineering as a <em><strong>craft</strong></em>, valuing human authorship, collaboration and responsible AI-assisted workflows over black-box automation, platform dependency, and proprietary lock-in. <em><strong>Open source</strong></em>, <em><strong>inclusive design</strong></em>, <em><strong>data privacy</strong></em>, <em><strong>digital sovereignty</strong></em>, and <em><strong>sustainable architecture</strong></em> are the principles that guide that practice.</p>
-<p>Informed by <em><strong>Critical Theory</strong></em> and <em><strong>Philosophy of Technology</strong></em>, my goal is to build digital experiences and tools grounded in constructive critical thinking. Healthy skepticism, resisting convenience as justification for ethical compromise, and insisting on solutions that respect the diverse communities and ecologies that sustain us.</p>
+     <description><![CDATA[<p>I&#39;m a <em><strong>Software Developer</strong></em> with over a decade experience in mobile and enterprise systems, from early discovery through production. I approach engineering as a <em><strong>craft</strong></em>, valuing human authorship, collaboration and responsible AI-assisted workflows over black-box automation and proprietary lock-in. <em><strong>Open source</strong></em>, <em><strong>inclusive design</strong></em>, <em><strong>data privacy</strong></em>, <em><strong>digital sovereignty</strong></em>, and <em><strong>sustainable architecture</strong></em> are the principles that guide that practice.</p>
+<p>Informed by <em><strong>Critical Theory</strong></em> and <em><strong>Philosophy of Technology</strong></em>, my goal is to build digital experiences and tools grounded in critical —and constructive— thinking. Healthy skepticism, resisting convenience as justification for ethical compromise, and insisting on solutions that respect the diverse communities and ecologies that sustain us.</p>
 <p><em><strong>Model collapse</strong></em> is what happens when AI systems train on AI-generated data: outputs converge, variance narrows, and the model consumes its own tail. Whether or not model collapse proves technically inevitable, as a metaphor for the social, algorithmic monocultures follow the same pattern, erasing the particularities, contradictions, and ambiguities that make lived existence meaningful. When systems exclude human authorship, they deny contingency, erase difference, and foreclose creativity — and with them, the possibility of technology that genuinely serves the many, not just the few. Keeping that authorship legible, accountable, and celebrated is not an empty romantic gesture; it is a technical and ethical necessity.</p>
 <p>Technology that augments rather than displaces human agency and creativity is worth building.</p>
 <p>Get in touch: <a href="mailto:hello&#64;modelcollapse&#46;site"><span>hello&#64;modelcollapse&#46;site</span></a></p>

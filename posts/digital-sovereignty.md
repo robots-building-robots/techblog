@@ -133,7 +133,7 @@ I've started where impact is highest and personal friction is lowest, while weig
 </div>
 
 <div class="card">
-  <h3>LLM Chat / Deep Research </h3>
+  <h3>LLM Research</h3>
   <p><i>In progress…</i></p>
 </div>
 

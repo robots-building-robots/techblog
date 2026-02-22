@@ -1,5 +1,5 @@
 ---
-title: "Prescriptive Technologies"
+title: "Earth-worm theory of social change"
 date: 2026-02-21
 ---
 
@@ -14,6 +14,10 @@ On **prescriptive technologies** and **compliance culture**:
 > "Today's real world of technology is characterized by **the dominance of prescriptive technologies**. Prescriptive technologies are not restricted to materials production. They are used in administrative and economic activities and in many aspects of governance, and on them rests the real world of technology in which we live. While we should not forget that these prescriptive technologies are often exceedingly effective and efficient, they come with an enormous social mortgage. The mortgage means that we live in a **culture of compliance**, that we are ever more conditioned to **accept orthodoxy as normal**, and to accept that there is only one way of doing 'it'." — **Ursula Franklin**
 
 > "**Prescriptive technologies eliminate** the occasions for decision-making and judgement in general and especially for the making of **principled decisions**. Any goal of the technology is incorporated a priori in the design and is not negotiable […] As methods of materials production, prescriptive technologies have brought into the real world of technology a wealth of important products that have raised living standards and increased well-being. At the same time they have created a **culture of compliance**. The acculturation to compliance and conformity has, in turn, accelerated the use of prescriptive technologies in administration, government, and social services. The same development has diminished resistance to the programming of people." — **Ursula Franklin**
+
+---
+
+> "Social change will not come to us like an avalanche down the mountain. Social change will come through seeds growing in well prepared soil—and it is we, like the earthworms, who prepare the soil. We also seed thoughts and knowledge and concern. We realize there are no guarantees as to what will come up. Yet we do know that without the seeds and the prepared soil nothing will grow at all. I am convinced that we are indeed already in a period in which this movement from below is becoming more and more articulate, but what is needed is a lot more earthworming." — **Ursula Franklin**
 
 <hr class="spacer">
 
