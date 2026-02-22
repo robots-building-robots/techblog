@@ -23,6 +23,10 @@ Get in touch: <a href="mailto:hello&#64;modelcollapse&#46;site"><span>hello&#64;
 
 ---
 
+> "Today's real world of technology is characterized by **the dominance of prescriptive technologies**. Prescriptive technologies are not restricted to materials production. They are used in administrative and economic activities and in many aspects of governance, and on them rests the real world of technology in which we live. While we should not forget that these prescriptive technologies are often exceedingly effective and efficient, they come with an enormous social mortgage. The mortgage means that we live in a **culture of compliance**, that we are ever more conditioned to **accept orthodoxy as normal**, and to accept that there is only one way of doing 'it'." — **Ursula Franklin**, 1989.
+
+---
+
 > "As first principle … the time saved by automatization must be invested in new capacities for dis-automatization, that is, for the production of negentropy … The time liberated by the end of work must be put at the service of an automated culture, but one capable of producing new value and of reinventing work." — ***Bernard Stiegler***, 2016.
 
 ---
