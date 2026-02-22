@@ -3,7 +3,7 @@ title: "Earth-worm theory of social change"
 date: 2026-02-21
 ---
 
-Ursula Franklin's, **"The Real World of Technology"** (CBC Massey Lectures, 1989), reads as a stark warning from the past that is going largely unheeded. Her analysis of how prescriptive technologies erode human agency and restructure social compliance has anticipated everything from algorithmic management to surveillance capitalism. Her thought proves only more prescient with the dawn of LLM automation.
+Ursula Franklin's **"The Real World of Technology"** (CBC Massey Lectures, 1989) could have been delivered today. It reads as a stark warning from the past, and one going largely unheeded. Her analysis of how prescriptive technologies erode human agency and restructure social relations around compliance anticipated everything from algorithmic management to surveillance capitalism. Her thought proves only more prescient with the dawn of LLM automation.
 
 On **Algorithmic addiction** and **Addictive Design**:
 
