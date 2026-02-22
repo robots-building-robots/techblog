@@ -15,7 +15,7 @@ On **prescriptive technologies** and **compliance culture**:
 
 > "**Prescriptive technologies eliminate** the occasions for decision-making and judgement in general and especially for the making of **principled decisions**. Any goal of the technology is incorporated a priori in the design and is not negotiable […] As methods of materials production, prescriptive technologies have brought into the real world of technology a wealth of important products that have raised living standards and increased well-being. At the same time they have created a **culture of compliance**. The acculturation to compliance and conformity has, in turn, accelerated the use of prescriptive technologies in administration, government, and social services. The same development has diminished resistance to the programming of people." — **Ursula Franklin**
 
----
+<hr class="spacer">
 
 <img class="portrait" src="./../img/ursula-franklin-real-world-of-technology.png" alt="Portrait of Ursula Franklin" class="portrait" /><br>
 
