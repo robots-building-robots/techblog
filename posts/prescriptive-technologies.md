@@ -13,5 +13,4 @@ date: 2026-02-21
 
 <hr class="spacer">
 
-<img src="./../img/ursula-franklin-toronto-school-initiative.png" alt="Portrait of Ursula Franklin" /><br>
-<small style="float: right;">* photo of Ursula Franklin</small>
+<img class="portrait" src="./../img/ursula-franklin-real-world-of-technology.png" alt="Portrait of Ursula Franklin" class="portrait" /><br>

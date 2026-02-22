@@ -97,6 +97,10 @@ article header {
   blockquote {
     margin: 1em;
   }
+
+  img.portrait {
+    width: 100%;
+  }
 }
 
 code {
@@ -172,6 +176,12 @@ img {
 img.logo {
   width: 70px;
   height: auto;
+}
+
+img.portrait {
+  display: block;
+  width: 65%;
+  margin: 0 auto;
 }
 
 .align-horizontal {
