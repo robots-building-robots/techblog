@@ -1,5 +1,5 @@
 ---
-title: "Earth-worm theory of social change"
+title: "Earthworming: A Franklin Guide to Responsible AI"
 date: 2026-02-21
 ---
 
@@ -25,7 +25,7 @@ Prescriptive systems assume people are the source of problems and machines the s
 
 If technology is not merely material production but social engineering, then decisions about its design and deployment are too consequential to be left to the market. They belong in public discourse, open to the kind of debate that facilitates genuine communication and reciprocity, not merely the appearance of consultation.
 
-> "**Prescriptive technologies eliminate** the occasions for decision-making and judgement in general and especially for the making of **principled decisions**. Any goal of the technology is incorporated a priori in the design and is not negotiable […] As methods of materials production, prescriptive technologies have brought into the real world of technology a wealth of important products that have raised living standards and increased well-being. At the same time they have created a **culture of compliance**. The acculturation to compliance and conformity has, in turn, accelerated the use of prescriptive technologies in administration, government, and social services. The same development has diminished resistance to the programming of people." — **Ursula Franklin**
+> "*Prescriptive technologies eliminate the occasions for decision-making and judgement in general and especially for the making of principled decisions*. Any goal of the technology is incorporated a priori in the design and is not negotiable […] As methods of materials production, prescriptive technologies have brought into the real world of technology a wealth of important products that have raised living standards and increased well-being. At the same time they have created a *culture of compliance*. The acculturation to compliance and conformity has, in turn, accelerated the use of prescriptive technologies in administration, government, and social services. The same development has diminished resistance to the programming of people." — **Ursula Franklin**
 
 ## Are LLMs Prescriptive Technology?
 
@@ -45,7 +45,7 @@ Franklin's concept of reciprocity could be interpreted as operating on distinct 
 
 The result is a compliance culture extended to human expression itself. The terms of thought dictated by the machine. Franklin's culture of compliance was about how prescriptive technologies reshape work and institutions. LLMs push that logic further: into language, reasoning, and creativity — the last domains we might have assumed were irreducibly human. Yet the question is not simply whether LLMs are prescriptive, but whether they could be designed and used differently.
 
-## The Earthworm Theory: A Framework for Just Technology
+## Earthworm Theory of Social Change
 
 Franklin's answer to the question of how we build technology justly is pragmatic. To counterbalance the logic of *maximum gain*, she proposes a simpler governing principle: *minimize disaster*. Maximum gain optimizes for the best possible outcome — or at least the drive to extract the greatest possible return. Minimize disaster designs against the worst. In principled public policy, when an action risks harm, the burden of proof falls on those taking the action, not those opposing it. We cannot optimize for the best outcome when we cannot fully anticipate the harmful consequences of a technology until it is embedded in the complexities of social life. We can, however, build in safeguards against the worst and preserve the capacity to course-correct. We do not know what we do not know until the damage is done. *Humility*, not arrogance or blind optimism, is the mindset worth fostering.
 
@@ -58,7 +58,7 @@ As a practical guide, Franklin offers a civic checklist against which any techno
 - Does it prioritize conservation over waste?
 - Does it favour reversibility over irreversibility?
 
-These are not abstract ideals. They are questions any team, organization, or institution can bring to the table before a technology is adopted, deployed, or built. Franklin called this approach her *earthworm theory of social change*: the patient, ground-level work of fostering a culture of communication and reciprocity, one that openly discusses and debates justice rather than deferring to the "move fast and break things" momentum of so-called progress. What she calls *redemptive technologies* account not only for financial cost but for social and ecological impact, and actively reintroduces the disenfranchised into the decisions that shape their lives.
+These are not abstract ideals. They are questions any team, organization, or institution can bring to the table before a technology is adopted, deployed, or built. Franklin called this approach he theory of social change*: the patient, ground-level work of fostering a culture of communication and reciprocity, one that openly discusses and debates justice rather than deferring to the "move fast and break things" momentum of so-called progress. What she calls *redemptive technologies* account not only for financial cost but for social and ecological impact, and actively reintroduces the disenfranchised into the decisions that shape their lives.
 
 > "Social change will not come to us like an avalanche down the mountain. Social change will come through seeds growing in well prepared soil — and it is we, like the earthworms, who prepare the soil. We also seed thoughts and knowledge and concern. We realize there are no guarantees as to what will come up. Yet we do know that without the seeds and the prepared soil nothing will grow at all. I am convinced that we are indeed already in a period in which this movement from below is becoming more and more articulate, but what is needed is a lot more earthworming." — Ursula Franklin
 
