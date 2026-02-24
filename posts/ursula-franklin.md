@@ -3,7 +3,7 @@ title: "Earthworming: A Franklin Guide to Responsible AI"
 date: 2026-02-21
 ---
 
-Ursula Franklin's 1989 Massey Lecture **"The Real World of Technology"** could have been delivered today. As a stark warning from the past, it has gone largely unheeded. Her analysis of how *prescriptive technologies* erode human agency and restructure social relations around compliance has anticipated everything from algorithmic management to surveillance infrastructure. Now, with the rapid deployment of large language models, her thought proves only more prescient. 
+*Ursula Franklin's* 1989 Massey Lecture **"The Real World of Technology"** could have been delivered today. Read as a stark warning from the past, it has gone largely unheeded. Her analysis of how *prescriptive technologies* erode human agency and restructure social relations around compliance has anticipated everything from algorithmic management to surveillance infrastructure. Now, with the rapid deployment of *large language models*, her thought proves only more prescient. 
 
 What would Franklin say about *Big Tech's* aggressive, largely unregulated roll-out of LLM technology into our workplaces and daily lives? What would she advise be a more *responsible approach to AI*?
 
@@ -65,12 +65,12 @@ Franklin's answer to the question of how we build technology justly is pragmatic
 
 As a practical guide, Franklin offers a civic checklist against which any technological decision can be measured:
 
-- Does it promote justice?
-- Does it operate with reciprocity?
-- Does it put people before machines?
-- Does it benefit the many, not just the few?
-- Does it prioritize conservation over waste?
-- Does it favour reversibility over irreversibility?
+- *Does it promote justice?*
+- *Does it operate with reciprocity?*
+- *Does it put people before machines?*
+- *Does it benefit the many, not just the few?*
+- *Does it prioritize conservation over waste?*
+- *Does it favour reversibility over irreversibility?*
 
 These are not abstract ideals. They are questions any team, organization, or institution can bring to the table before a technology is adopted, deployed, or built. Franklin called this approach her *earthworm theory of social change*: the patient, ground-level work of fostering a culture of communication and reciprocity, one that openly discusses and debates justice rather than deferring to the "move fast and break things" momentum of so-called progress. What she calls *redemptive technologies* account not only for financial cost but for social and ecological impact, and actively reintroduce the disenfranchised into the decisions that shape their lives.
 
