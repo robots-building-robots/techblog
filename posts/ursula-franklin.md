@@ -5,7 +5,7 @@ date: 2026-02-21
 
 Ursula Franklin's 1989 Massey Lecture **"The Real World of Technology"** could have been delivered today. As a stark warning from the past, it has gone largely unheeded. Her analysis of how *prescriptive technologies* erode human agency and restructure social relations around compliance has anticipated everything from algorithmic management to surveillance infrastructure. Now, with the rapid deployment of large language models, her thought proves only more prescient. 
 
-What would Franklin say about the aggressive, largely unregulated roll-out of LLM technology into our workplaces and daily lives? What would she advise be a more responsible approach to AI?
+What would Franklin say about *"Big Tech's"* aggressive, largely unregulated roll-out of LLM technology into our workplaces and daily lives? What would she advise be a more *responsible approach to AI*?
 
 ## Prescriptive Technologies
 
@@ -15,7 +15,7 @@ The maker no longer makes; they comply. The fragmentation of work into prescribe
 
 ---
 
-> Today’s real world of technology is characterized by the dominance of prescriptive technologies. Prescriptive technologies are not restricted to materials production. They are used in administrative and economic activities and in many aspects of governance, and on them rests the real world of technology in which we live. While we should not forget that these prescriptive technologies are often exceedingly effective and efficient, they come with an enormous social mortgage. The mortgage means that we live in a culture of compliance, that we are ever more conditioned to accept orthodoxy as normal, and to accept that there is only one way of doing 'it'. — Ursula Franklin[^Franklin]
+> Today’s real world of technology is characterized by *the dominance of prescriptive technologies*. Prescriptive technologies are not restricted to materials production. They are used in administrative and economic activities and in many aspects of governance, and on them rests the real world of technology in which we live. While we should not forget that these prescriptive technologies are often exceedingly effective and efficient, they come with an enormous *social mortgage*. The mortgage means that we live in a *culture of compliance*, that we are ever more *conditioned to accept orthodoxy as normal*, and to accept that there is only one way of doing 'it'. — Ursula Franklin[^Franklin]
 
 ---
 
@@ -27,7 +27,7 @@ Prescriptive technologies operate with feedback, not reciprocity. *Feedback* is 
 
 Franklin observes that political decisions — about class, race, access, and power — are frequently buried in technical designs, rolled out behind the scenes by private interests rather than debated publicly by elected representatives. The widespread adoption and deployment of technology as "progress" is treated as unquestionable and inevitable. The system appears objective but the politics are, often intentionally, made invisible.
 
-Prescriptive systems assume people are the source of problems and machines the source of solutions. This *anti-people mindset* produces a production model rather than a growth model — environments engineered for technological efficiency rather than people's actual needs. When the logic of production becomes totalizing, it displaces all other social logics — compassion, obligation, ecological responsibility — flattening social relations until only the transactional remains.
+Prescriptive systems assume people are the source of problems and machines the source of solutions. This *anti-people mindset* produces a *production model* rather than a *growth model* — environments engineered for technological efficiency rather than people's actual needs. When the logic of production becomes totalizing, it displaces all other social logics — compassion, obligation, ecological responsibility — flattening social relations until only the transactional remains.
 
 If technology is not merely material production but social engineering, then decisions about its design and deployment are too consequential to be left to the market. They belong in public discourse, open to the kind of debate that facilitates genuine communication and reciprocity, not merely the appearance of consultation.
 
@@ -80,7 +80,7 @@ These are not abstract ideals. They are questions any team, organization, or ins
 
 ---
 
-## Earthworming in Practice: Responsible AI in Software Development
+## Earthworming in Practice: Responsible AI
 
 Applying Franklin's framework to software development does not require abandoning modern tools. It requires bringing different questions to the table. Who benefits from what we are building, and who is excluded? Are we designing for reversibility — avoiding proprietary lock-in, favouring open and interoperable systems, building in the capacity to change course? Are we measuring the true cost of what we ship — not only in compute and capital, but in social and ecological impact? Are the people most affected by our decisions involved in making them?
 
