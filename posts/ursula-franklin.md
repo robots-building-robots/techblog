@@ -7,7 +7,7 @@ Ursula Franklin's 1989 Massey Lecture **"The Real World of Technology"** could h
 
 What would Franklin say about the aggressive, largely unregulated roll-out of LLM technology into our workplaces and daily lives? What would she advise be a more responsible approach to LLM technology?
 
-## Prescriptive Technology
+## Prescriptive Technologies
 
 Franklin understands technology not merely as tools and machines but as comprehensive social practice, one that dictates human relationships and structures power. She draws a fundamental distinction between two categories of technology: *holistic* and *prescriptive*. *Holistic technologies* are the tools of craft — the stonemason, the midwife, custom-built software — where a single maker oversees the entire process of production, exercising judgment at every stage. *Prescriptive technologies* fragment that process into discrete, managed steps —the assembly line, the fulfillment centre— displacing maker autonomy upward into management and oversight roles. The maker no longer makes; they comply. The fragmentation of work into prescribed steps produces dependency and standardization. It is built into the system's logic by design. Makers become dependent on process rather than their own judgment. Outputs converge toward what the system permits rather than what the maker envisioned. Variation is waste, deviation is error, regardless of any potential merit. When human judgment is prescribed out of the workflow, skill and creativity atrophy. Over time, *prescriptive technologies* do not merely change how work is done. They organize the institutions and social relations they produce in their own image, organized around efficiency, production, and top-down management rather than people's actual needs.
 
@@ -92,9 +92,14 @@ We are downstream of decisions made without our input. Pushing back against the 
 
 Positive change requires first preparing the social conditions for it: a culture of communication, reciprocity, and open debate. This is precisely what prescriptive technologies are, by design, making increasingly harder. Systems built around compliance, extraction, and the inevitability of technological progress leave little room for the seeds of genuine alternatives. That does not exempt us from the obligation to prepare the soil.
 
-[^Franklin]: Franklin, Ursula. "CBC Massey Lectures: The Real World of Technology". CBC Enterprises, 1990.
+---
 
-<hr class="spacer">
+> "We must protest until there is change in the structures and practices of the real world of technology, for only then can we hope to survive as a global community. If such basic changes cannot be accomplished, the house that technology built will be nothing more than an unlivable *techno-dump*." — Ursula Franklin[^Franklin]
+
+
+---
+
+[^Franklin]: Franklin, Ursula. "CBC Massey Lectures: The Real World of Technology". CBC Enterprises, 1990.
 
 <img class="portrait" src="./../img/ursula-franklin-real-world-of-technology.png" alt="Portrait of Ursula Franklin" class="portrait" /><br>
 

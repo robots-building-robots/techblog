@@ -42,6 +42,10 @@ article header h1 {
   text-transform: capitalize;
 }
 
+article h2 {
+  margin-top: var(--v-spacing);
+}
+
 h2 {
   font-size: 1.3em;
   /* text-transform: uppercase; */
