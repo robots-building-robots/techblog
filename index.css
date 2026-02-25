@@ -104,6 +104,10 @@ article header {
 }
 
 @media (max-width: 600px) {
+  html {
+    font-size: 100%; /* 16px on mobile */
+  }
+
   blockquote {
     margin: 1em;
   }
