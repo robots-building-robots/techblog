@@ -3,15 +3,15 @@ title: "Earthworming: A Franklin Guide to Responsible AI"
 date: 2026-02-21
 ---
 
-*Ursula Franklin's* 1989 Massey Lecture **"The Real World of Technology"** could have been delivered today. Read as a stark warning from the past, it has gone largely unheeded. Her analysis of how *prescriptive technologies* erode human agency and restructure social relations around compliance has anticipated everything from algorithmic management to surveillance infrastructure. Now, with the rapid deployment of *large language models*, her thought proves only more prescient. 
+*Ursula Franklin's* 1989 Massey Lecture **"The Real World of Technology"** could have been delivered today. Read as a stark warning from the past, it has gone largely unheeded. Her analysis of how *prescriptive technologies* erode human agency and restructure social relations around compliance has anticipated everything from algorithmic management to surveillance infrastructure. Now, with *Big Tech's* rapid deployment of *LLMs*, her thought proves only more prescient. 
 
-What would Franklin say about *Big Tech's* aggressive, largely unregulated roll-out of LLM technology into our workplaces and daily lives? What would she advise be a more *responsible approach to AI*?
+What would Franklin say about the aggressive, largely unregulated roll-out of AI technologies into our workplaces and daily lives? What would she advise be a more *responsible approach*?
 
 ## Prescriptive Technologies
 
-Franklin understands technology not merely as tools and machines but as comprehensive social practice, one that dictates human relationships and structures power. She draws a fundamental distinction between two categories of technology: *holistic* and *prescriptive*. *Holistic technologies* are the tools of craft —the stonemason, the weaver, the independent software engineer hand-coding software— where a single maker oversees the entire process of production, exercising judgment at every stage. *Prescriptive technologies* fragment that process into discrete, managed steps —the assembly line, the Amazon fulfillment centre— displacing maker autonomy upward into management and oversight roles. 
+Franklin understands technology not merely as tools and machines of material production but as comprehensive social practice, one that dictates human relationships and structures power. She draws a fundamental distinction between two categories of technology: holistic and prescriptive. Holistic technologies are the tools of craft — stonemasons, weavers, independent software engineers — where a single maker oversees the process of production from start to finish, exercising judgment at every stage. Prescriptive technologies fragment that process into discrete, managed steps — the assembly line, the Amazon fulfilment centre — displacing maker autonomy upward into management and oversight roles. The maker no longer makes; they comply.
 
-The maker no longer makes; they comply. The fragmentation of work into prescribed steps produces dependency and standardization. It is built into the system's logic by design. Makers become dependent on process rather than their own judgment. Outputs converge toward what the system permits rather than what the maker envisioned. Variation is waste, deviation is error, regardless of any potential merit. When human judgment is prescribed out of the workflow, skill and creativity atrophy. Over time, *prescriptive technologies* do not merely change how work is done. They organize the institutions and social relations they produce in their own image, *organized around efficiency, production, and top-down management rather than people's actual needs*.
+The fragmentation of work into prescribed steps produces dependency and standardization, built into the system's logic by design. Where holistic practice depends on communication, collaboration, and shared judgment, prescriptive workflows reduce the relationships that bind communities of practice together to mere process. Outputs converge toward what the system permits rather than what the makers envisioned. Variation is waste, deviation is error, regardless of any potential merit. When human judgment is prescribed out of the workflow, skill and creativity atrophy. Over time, prescriptive technologies do not merely change how work is done; they reshape institutions and social relations in their own image, organized around efficiency, production, and top-down management rather than people's actual needs.
 
 ---
 
@@ -21,19 +21,19 @@ The maker no longer makes; they comply. The fragmentation of work into prescribe
 
 ## Compliance Culture
 
-Prescriptive tech does not merely reorganize work; it reorganizes people. As institutions and social relations are rebuilt around top-down systems built around prescribed workflows, *compliance becomes the dominant culture*, the normalized condition of living and working within systems not designed around the communities within them.
+Prescriptive tech does not merely reorganize work; it reorganizes people. The condition of living and working within systems not designed primarily to support the communities within them becomes normalized. Compliance becomes the dominant culture.
 
-Prescriptive technologies operate with feedback, not reciprocity. *Feedback* is mechanical: a system registers a response and makes minor adjustments within its own predetermined logic. The design itself is never questioned. *Reciprocity* is genuine exchange: communication that fundamentally alters the system, redistributing power between its participants. A platform that updates its terms of service and offers users "accept or leave" is feedback. A platform restructured by genuine user governance is reciprocity.
+Prescriptive tech operates on feedback, not reciprocity. A system operating on *feedback* registers a response and makes minor adjustments within its own predetermined logic. The design itself is never questioned. *Reciprocity* is genuine communication that fundamentally alters the system, redistributing power between its participants. A platform that updates its terms of service and offers users "accept or leave" is feedback. A platform restructured by genuine user governance is reciprocity.
 
-Franklin observes that political decisions — about class, race, access, and power — are frequently buried in technical designs, rolled out behind the scenes by private interests rather than debated publicly by elected representatives. The widespread adoption and deployment of technology as "progress" is treated as unquestionable and inevitable. The system appears objective but the politics are, often intentionally, made invisible.
+Political decisions —about class, race, gender, access, and power— are frequently buried in technical designs, rolled out behind the scenes by private interests rather than debated publicly by the community or elected representatives. The widespread adoption and deployment of technology as "progress" is treated as unquestionable and inevitable. The system appears objective but the politics are, often intentionally, made invisible.
 
-Prescriptive systems assume people are the source of problems and machines the source of solutions. This *anti-people mindset* produces a *production model* rather than a *growth model* — environments engineered for technological efficiency rather than people's actual needs. When the logic of production becomes totalizing, it displaces all other social logics — compassion, obligation, ecological responsibility — flattening social relations until only the transactional remains.
+Cultures of compliance assume people are the source of problems and machines the source of solutions. This *"anti-people mindset"* favours a *production model* over a *growth model* — environments engineered for technological optimization and efficiency rather than people's actual needs. When the logic of production becomes totalizing, it flattens all other social relations —those based on compassion, obligation, ecological responsibility— until only the transactional remains.
 
-If technology is not merely material production but social engineering, then decisions about its design and deployment are too consequential to be left to the market. They belong in public discourse, open to the kind of debate that facilitates genuine communication and reciprocity, not merely the appearance of consultation.
+If technology is not merely material production but social infrastructure, then decisions about its design and deployment are too consequential to be left to markets alone. These decisions belong in public discourse, open to the kind of debate that facilitates genuine communication and reciprocity, not merely the appearance of consultation.
 
 ---
 
-> "*Prescriptive technologies eliminate the occasions for decision-making and judgement in general and especially for the making of principled decisions*. Any goal of the technology is incorporated a priori in the design and is not negotiable […] As methods of materials production, prescriptive technologies have brought into the real world of technology a wealth of important products that have raised living standards and increased well-being. At the same time they have created a *culture of compliance*. The acculturation to compliance and conformity has, in turn, accelerated the use of prescriptive technologies in administration, government, and social services. The same development has diminished resistance to the programming of people." — Ursula Franklin[^Franklin]
+> "*Prescriptive technologies eliminate the occasions for decision-making and judgement in general and especially for the making of principled decisions*. Any goal of the technology is incorporated a priori in the design and is not negotiable […] As methods of materials production, prescriptive technologies have brought into the real world of technology a wealth of important products that have raised living standards and increased well-being. At the same time they have created a *culture of compliance*. The acculturation to compliance and conformity has, in turn, accelerated the use of prescriptive technologies in administration, government, and social services. The same development has *diminished resistance to the programming of people.*" — Ursula Franklin[^Franklin]
 
 ---
 
@@ -82,7 +82,7 @@ These are not abstract ideals. They are questions any team, organization, or ins
 
 ## Earthworming in Practice: Responsible AI
 
-Applying Franklin's framework to software development does not require abandoning modern tools. It requires bringing different questions to the table. Who benefits from what we are building, and who is excluded? Are we designing for reversibility — avoiding proprietary lock-in, favouring open and interoperable systems, building in the capacity to change course? Are we measuring the true cost of what we ship — not only in compute and capital, but in social and ecological impact? Are the people most affected by our decisions involved in making them?
+Applying Franklin's framework to software development does not require abandoning modern tools. It requires bringing different questions to the table. How do we, as a team, define the line between authorship and automation? Who benefits from what we are building, and who is excluded? Are we designing for reversibility — avoiding proprietary lock-in, favouring open and interoperable systems, building in the capacity to change course? Are we measuring the true cost of what we ship — not only in compute and capital, but in social and ecological impact? Are the people most affected by our decisions involved in making them?
 
 These are not questions the industry habitually asks, or asks as anything more than superficial marketing speak.
 
@@ -98,10 +98,11 @@ Positive change requires first preparing the social conditions for it: a culture
 
 > "We must protest until there is change in the structures and practices of the real world of technology, for only then can we hope to survive as a global community. If such basic changes cannot be accomplished, the house that technology built will be nothing more than an unlivable *techno-dump*." — Ursula Franklin[^Franklin]
 
-
 ---
 
 [^Franklin]: Franklin, Ursula. "CBC Massey Lectures: The Real World of Technology". CBC Enterprises, 1990.
+
+<hr class="spacer">
 
 <img class="portrait" src="./../img/ursula-franklin-real-world-of-technology.png" alt="Portrait of Ursula Franklin" class="portrait" /><br>
 
