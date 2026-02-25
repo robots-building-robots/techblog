@@ -94,6 +94,8 @@ We are downstream of decisions made without our input. Pushing back against the 
 
 Positive change requires first preparing the social conditions for it: a culture of communication, reciprocity, and open debate. This is precisely what prescriptive technologies are, by design, making increasingly harder. Systems built around compliance, extraction, and the inevitability of technological progress leave little room for the seeds of genuine alternatives. That does not exempt us from the obligation to prepare the soil.
 
+The industry now speaks of 'growing' AI agents — agents trained on our content, our language, our thought. The earthworm's work is to cultivate the culture they grow from, so what emerges is reciprocal rather than prescribed.
+
 ---
 
 > "We must protest until there is change in the structures and practices of the real world of technology, for only then can we hope to survive as a global community. If such basic changes cannot be accomplished, the house that technology built will be nothing more than an unlivable *techno-dump*." — Ursula Franklin[^Franklin]
