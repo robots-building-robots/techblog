@@ -49,7 +49,7 @@ The advent of LLMs has been no exception. Framed as tools that extend rather tha
 
 But as we see how LLMs are actually being aggressively deployed, without meaningful reciprocity, the question of how prescriptive they are by design becomes harder to avoid. Students are automating homework rather than developing the capacity to think critically. In the workplace, craft is being quietly fragmented, not yet replacing workers wholesale, but systematically hollowing out the skills and judgment that make work meaningful.
 
-Perhaps most troubling, increasingly isolated and dependent on prescriptive technologies, many are turning to LLMs for emotional support and companionship, substituting the mimicry of communication for the real thing. Social media platforms were built on the same logic: algorithmic engagement, rage-bait, the manufacture of connection. Isolation and dependency are not side effects of these systems; they are features. Fragmentation leads to isolation, isolation forms dependency, dependency demands more of the technology that produced it. Loneliness, it turns out, is enormously profitable.
+Perhaps most troubling, in a society increasingly isolated and dependent on prescriptive technologies, many are turning to LLMs for emotional support and companionship, substituting the mimicry of communication for the real thing. Social media platforms were built on the same logic: algorithmic engagement, rage-bait, the manufacture of connection. Isolation and dependency are not side effects of these systems; they are features. Fragmentation leads to isolation, isolation forms dependency, dependency demands more of the technology that produced it. Loneliness, it turns out, is enormously profitable.
 
 ---
 
