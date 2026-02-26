@@ -9,11 +9,12 @@ What would Franklin say about the aggressive, largely unregulated roll-out of AI
 
 ## Prescriptive Technologies
 
-Franklin understands technology not merely as tools and machines of material production but as comprehensive social practice, one that dictates human relationships and structures power. She draws a fundamental distinction between two categories of technology: *holistic* and *prescriptive*. *Holistic technologies* are the tools of craft — stonemasons, weavers, independent software engineers — where a single maker oversees the process of production from start to finish, exercising judgment at every stage. *Prescriptive technologies* fragment that process into discrete, managed steps — the assembly line, the Amazon fulfillment centre — displacing maker autonomy upward into management and monitoring roles. The maker no longer makes; they comply.
+Franklin understands technology not merely as tools and machines of material production but as comprehensive social practice, one that dictates human relationships and structures power. She draws a fundamental distinction between two categories of technology: *holistic* and *prescriptive*. *Holistic technologies* are the tools of craft —stonemasons, weavers, independent software engineers— where a single maker oversees the process of production from start to finish, exercising judgment at every stage. *Prescriptive technologies* fragment that process into discrete, managed steps —the assembly line, the Amazon fulfillment centre— displacing maker autonomy upward into management and monitoring roles. The maker no longer makes; they comply.
 
 The fragmentation of work into prescribed steps produces dependency and standardization, built into the system's logic by design. Where holistic practice depends on communication, collaboration, and shared judgment, prescriptive workflows reduce to mere process the relationships that bind communities of practice together. Outputs converge toward what the system permits rather than what the makers envisioned. Variation is waste, deviation is error, regardless of any potential merit. When human judgment is prescribed out of the workflow, skill and creativity atrophy. Automation bias sets in and the machine's answer becomes the default. Over time, prescriptive technologies do not merely change how work is done; they reshape institutions and social relations in their own image, organized around efficiency, production, and top-down management rather the communities they serve.
 
-Of course, compliance, standardization, and efficiency are not inherently malign. Prescriptive technologies underpin much of what keeps us safe, healthy, and productive. The problem is not prescription itself but its dominance as the organizing logic of social life.
+Of course, compliance, standardization, and efficiency are not inherently malign. Prescriptive technologies underpin much of what keeps us safe, healthy, and productive. *The problem is not prescription itself but its dominance as the organizing logic of social life*.
+
 ---
 
 > Today’s real world of technology is characterized by *the dominance of prescriptive technologies*. Prescriptive technologies are not restricted to materials production. They are used in administrative and economic activities and in many aspects of governance, and on them rests the real world of technology in which we live. While we should not forget that these prescriptive technologies are often exceedingly effective and efficient, they come with an enormous *social mortgage*. The mortgage means that we live in a *culture of compliance*, that we are ever more *conditioned to accept orthodoxy as normal*, and to accept that there is only one way of doing 'it'. — Ursula Franklin[^Franklin]
@@ -40,7 +41,9 @@ If technology is not merely material production but social infrastructure, then 
 
 ## Are LLMs Prescriptive Technology?
 
-*Every new technology is marketed as liberating*. Franklin was no Luddite — she acknowledged, in her time, the genuine gains the personal computer was introducing: word processing, instant communication, access to information. But she also noted how it was systematically displacing essential human skills: spelling, arithmetic, handwriting. In the *technology hype cycle*, there is a steep drop from the peak of "youthful exuberance" into disillusionment. Today, social media has largely followed the same arc.  Marketed as connection and community, it has mostly delivered misinformation, addiction, the erosion of sustained attention, and surveillance. What begins as voluntary adoption of new technologies becomes dependency on frictionless conveniences. By the time a technology is normalized through growing adoption and institutionalization, opting out becomes too professionally and socially costly to be a real choice.
+*Every new technology is marketed as liberating*. Franklin was no Luddite — she acknowledged, in her time, the genuine gains the personal computer was introducing: word processing, instant communication, access to information. But she also noted how it was systematically displacing essential human skills: spelling, arithmetic, handwriting. In the *technology hype cycle*, there is a steep drop from the peak of "youthful exuberance" into disillusionment. 
+
+Today, social media has largely followed the same arc.  Marketed as connection and community, it has mostly delivered misinformation, addiction, the erosion of sustained attention, and surveillance. What begins as voluntary adoption of new technologies becomes dependency on frictionless conveniences. By the time a technology is normalized through growing adoption and institutionalization, opting out becomes too professionally and socially costly to be a real choice.
 
 The advent of LLMs has been no exception. Framed as tools that extend rather than displace human authorship, they have arrived wrapped in the language of holistic technology: *"supercharge your productivity", "your AI assistant", "copilot"*. Used with intention, LLMs can be genuinely assistive tools. Consider the researcher who retains authorship and judgment, the developer using code completion as suggestion rather than instruction, a person with disability navigating a world not designed for them — these are uses where the technology extends human capacity rather than displacing it.
 
@@ -93,11 +96,13 @@ We are downstream of decisions made without our input. Pushing back against the 
 
 Positive change requires first preparing the social conditions for it: a culture of communication, reciprocity, and open debate. This is precisely what prescriptive technologies are, by design, making increasingly harder. Systems built around compliance, extraction, and the inevitability of technological progress leave little room for the seeds of genuine alternatives. That does not exempt us from the obligation to prepare the soil.
 
-The industry now speaks of 'growing' AI agents — agents trained on our content, our language, our thought, and increasingly on their own recursive output. The earthworm's work is to cultivate the culture they grow from, so what emerges is reciprocal rather than prescribed.
+The industry now speaks of "growing" AI agents — agents trained on our content, our language, our thought, and increasingly on their own recursive output. The earthworm's work is to cultivate the culture they grow from, so what emerges is reciprocal rather than prescribed.
+
+We have built machines of artificial intelligence. But what's been scarce isn't intelligence, it's wisdom.
 
 ---
 
-> "We must protest until there is change in the structures and practices of the real world of technology, for only then can we hope to survive as a global community. If such basic changes cannot be accomplished, the house that technology built will be nothing more than an unlivable *techno-dump*." — Ursula Franklin[^Franklin]
+> "We must protest until there is change in the structures and practices of the real world of technology, for only then can we hope to survive as a global community. If such basic changes cannot be accomplished, the house that technology built will be nothing more than an *unlivable techno-dump*." — Ursula Franklin[^Franklin]
 
 ---
 
