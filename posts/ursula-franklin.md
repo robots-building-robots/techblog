@@ -3,9 +3,9 @@ title: "Earthworming: A Franklin Guide to Responsible AI"
 date: 2026-02-21
 ---
 
-*Ursula Franklin's 1989 Massey Lecture "The Real World of Technology"* could have been delivered today. Read as a stark warning from the past, it has gone largely unheeded. Her analysis of how *prescriptive technologies* erode human agency and restructure social relations around compliance has anticipated everything from algorithmic management to surveillance infrastructure. Now, with *Big Tech's* rapid deployment of *LLMs* and agential AI, her thought proves only more prescient. 
+*Ursula Franklin's 1989 Massey Lecture "The Real World of Technology"* could have been delivered today. Read as a stark warning from the past, it has gone largely unheeded. Her analysis of how *prescriptive technologies* erode human agency and restructure social relations around compliance has anticipated everything from algorithmic management to surveillance infrastructure. Now, with *Big Tech's* rapid deployment of *LLMs* and *agentic AI*, her thought proves only more prescient. 
 
-What would Franklin say about the aggressive, largely unregulated roll-out of AI technologies into our workplaces and daily lives? And what might a more responsible approach look like?
+What would Franklin say about the aggressive, largely unregulated roll-out of AI technologies into our workplaces and daily lives? And what might a more *responsible* approach look like?
 
 ## Prescriptive Technologies
 
