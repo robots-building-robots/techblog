@@ -63,7 +63,7 @@ The result is a compliance culture extended to human expression itself, to how w
 
 ## Earthworm Theory of Social Change
 
-Franklin's answer to the question of how we should build technology is pragmatic: she puts *the common good above profit motive*. To counterbalance the logic of *maximum gain*, she proposes a simpler governing principle: *minimize disaster*. *Maximum gain* optimizes for the largest possible return on investment. *Minimize disaster* designs against the worst possible outcomes, placing the burden of proof on those introducing the risk, not those opposing it. The consequences of a technology are often only apparent once in complex social life, but by then, the damage is already done. We can, however, build in safeguards against the worst and preserve the capacity to course-correct. *Humility*, not arrogance or naive techno-solutionism, is the mindset worth fostering.
+Franklin's answer to the question of how we should build technology is pragmatic: she puts *the common good above profit motive*. To counterbalance the logic of *maximum gain*, she proposes a simpler governing principle: *minimize disaster*. *Maximum gain* optimizes for the largest possible return on investment. *Minimize disaster* designs against the worst possible outcomes, placing the burden of proof on those introducing the risk, not those opposing it. The consequences of a technology are often only apparent once in complex social life, but by then, the damage is already done. We can, however, build in safeguards against the worst and preserve the capacity to course-correct. *Humility*, not arrogance or naive *techno-solutionism*, is the mindset worth fostering.
 
 As a practical guide, Franklin offers a civic checklist against which any technological decision can be measured:
 
@@ -96,7 +96,7 @@ Positive change requires first preparing the social conditions in which reciproc
 
 The AI industry now speaks of "growing" agents — agents trained on our content, our language, our thought. The earthworm's work is to cultivate the culture they grow from, so what emerges is reciprocal rather than prescribed.
 
-We have built machines of artificial intelligence. But intelligence was never the scarce resource. Wisdom, unfortunately, might be.
+We have built machines of artificial intelligence. But intelligence was never scarce. Wisdom, however, might be.
 
 ---
 
