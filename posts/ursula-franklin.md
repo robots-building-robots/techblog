@@ -57,22 +57,22 @@ Perhaps most troubling, in a society where people are increasingly isolated and 
 
 ---
 
-*LLMs are prescriptive by design*. The user is either reduced to the prompt —thinking, judging, writing— the entire holistic process of making absorbed into the system; or, in the case of agentic systems, the maker is reduced to a manager of agents or removed from the workflow entirely. Some platforms simulate responsiveness —asking clarifying questions, requesting permission before executing, keeping a "human in the loop"— but this is feedback masquerading as reciprocity. What presents itself as communication is the system adjusting within its own predetermined logic, not responding to those who use them. At the political level, where decisions about design, deployment, and regulation are made, reciprocity is foreclosed entirely.
+*LLMs are prescriptive by design*. The user is either reduced to the prompt —thinking, judging, writing— the entire holistic process of making absorbed into the system; or, in the case of agentic systems, the maker is reduced to a manager of agents or removed from the workflow entirely. Some platforms, at the interface level, simulate responsiveness —asking clarifying questions, requesting permission before executing, keeping a "human in the loop"— but this is feedback masquerading as reciprocity. What presents itself as communication is the system adjusting within its own predetermined logic, not responding to those who use them. At the political level, where decisions about design, deployment, and regulation are made, reciprocity is foreclosed entirely.
 
 The result is a compliance culture extended to human expression itself, to how we write, think, and create, with the terms of thought dictated by the machine. Franklin's culture of compliance reaches its logical conclusion in LLMs, extending into language, reasoning, and creativity — the last domains we assumed were irreducibly human. Yet the question is not simply whether LLMs are prescriptive, but whether they could be designed and used differently.
 
 ## Earthworm Theory of Social Change
 
-Franklin's answer to the question of how we build technology justly is pragmatic: she puts the common good above the profit motive. To counterbalance the logic of *maximum gain*, she proposes a simpler governing principle: *minimize disaster*. *Maximum gain* optimizes for the largest possible return on investment. *Minimize disaster* designs against the worst possible outcomes. In principled public policy, when an action risks harm, the burden of proof falls on those taking the action, not those opposing it. We cannot optimize for the best outcome when we cannot fully anticipate the harmful consequences of a technology until it is embedded in social life and the damage is already done. We can, however, build in safeguards against the worst and preserve the capacity to course-correct. *Humility*, not arrogance or naive optimism, is the mindset worth fostering.
+Franklin's answer to the question of how we should build technology is pragmatic: she puts *the common good above profit motive*. To counterbalance the logic of *maximum gain*, she proposes a simpler governing principle: *minimize disaster*. *Maximum gain* optimizes for the largest possible return on investment. *Minimize disaster* designs against the worst possible outcomes. In good public policy, when an action risks harm, the burden of proof falls on those taking the action, not those opposing it. We cannot optimize for the best outcome when we cannot fully anticipate the harmful consequences of a technology until it is embedded in social life and the damage is already done. We can, however, build in safeguards against the worst and preserve the capacity to course-correct. *Humility*, not arrogance or naive optimism, is the mindset worth fostering.
 
 As a practical guide, Franklin offers a civic checklist against which any technological decision can be measured:
 
-- *Does it promote justice?*
 - *Does it operate with reciprocity?*
 - *Does it put people before machines?*
 - *Does it benefit the many, not just the few?*
 - *Does it prioritize conservation over waste?*
 - *Does it favour reversibility over irreversibility?*
+- *Does it promote justice?*
 
 These are not abstract ideals. They are questions any team, organization, or institution can bring to the table while a technology is being adopted, deployed, or built. This is what Franklin calls her *earthworm theory of social change*: the patient, ground-level work of fostering a culture of communication and reciprocity, one that openly discusses and debates principles rather than deferring to the "move fast and break things" momentum of so-called progress. What she calls *redemptive technologies* account not only for financial cost but for social and ecological impact, and actively reintroduce the disenfranchised into the decisions that shape their lives.
 
@@ -88,23 +88,23 @@ Franklin's checklist is not a prescribed formula; it is a set of questions anyon
 
 These are not questions the industry habitually asks, or asks only as superficial marketing.
 
-From a software development perspective, these questions become only more urgent as prescriptive technologies become ubiquitous. When using code completion and assistance tools, are we reviewing every line or accepting output without interrogation? When generating documentation, are we augmenting the technical writer or replacing them? When running AI-generated tests, do we understand what is actually being tested? When deploying agentic systems that write and execute code autonomously, who is accountable for the output? Before defaulting to the most convenient platform, have we asked whether a locally run, open source, or privacy-first alternative would serve just as well? 
+From a software development perspective, these questions become only more urgent as prescriptive tech becomes ubiquitous. When using code assistance, are we reviewing every line or accepting output wholesale? When generating documentation, are we augmenting the technical writer or replacing them? When running AI-generated tests, do we understand what is actually being tested? When deploying agentic systems that write and execute code autonomously, who is accountable for the output? Before defaulting to the most convenient platform, have we asked whether a locally run, open source, or privacy-first alternative would serve just as well? 
 
-Some choices may feel like compromise. In Franklin's framework, it is the opposite — a principled choice that prioritizes data sovereignty, resists dependency, and contributes to a healthier work culture and a more just technological ecosystem.
+What may feel like compromise is, in Franklin's framework, the opposite: a principled choice that prioritizes data sovereignty, resists dependency, and contributes to a healthier work culture and a more just technological ecosystem.
 
-None of this is straightforward in workplaces where LLM adoption is being driven from above, often without meaningful consultation. The reciprocity Franklin calls for is frequently absent, whether at the interface, workflow, or policy level. In this context, earthworming means what it has always meant: advocating within teams and organizations for more transparency and accountability, refusing uses that erode judgment or concentrate power, supporting open alternatives where possible, and insisting that the question of how these tools are built and deployed belongs in open, ongoing discourse.
+None of this is straightforward in workplaces where LLM adoption is being driven from above, often without meaningful consultation. The reciprocity Franklin calls for is frequently absent, whether at the interface, workflow, or policy level. In this context, *earthworming* means what it has always meant: *advocating within teams and organizations for more transparency and accountability, refusing uses that erode judgment or concentrate power, supporting open alternatives where possible, and insisting that the question of how these tools are built and deployed belongs in open, ongoing discourse*.
 
-We are downstream of decisions made without our input. Pushing back against the torrent of prescriptive technology can feel overwhelming. How do we, as makers in the real world of technology where Franklin's warnings have gone largely unheeded, stay principled, let alone relevant? When the system offers no reciprocity by design, how do we act beyond demanding more of it from politicians and industry leaders who offer no meaningful policy response?
+We are downstream of decisions made without our input. Pushing back against the torrent of prescriptive tech can feel overwhelming. How do we, as makers in the real world of technology where Franklin's warnings have gone largely unheeded, stay principled, let alone relevant? When the system offers no reciprocity by design, how can we function while demanding more from leaders who offer no meaningful policy response?
 
-Positive change requires first preparing the social conditions in which justice can be genuinely deliberated. This is precisely what prescriptive technologies are, by design, making increasingly harder. Systems built around compliance, extraction, and the inevitability of technological progress leave little room for the seeds of genuine alternatives. That does not exempt us from the obligation to prepare the soil.
+Positive change requires first preparing the social conditions in which justice can be fostered. This is precisely what prescriptive technologies are, by design, making increasingly harder. Systems built around compliance, extraction, and the inevitability of technological progress leave little room for the seeds of genuine alternatives. That does not exempt us from the obligation to prepare the soil.
 
-The industry now speaks of "growing" AI agents — agents trained on our content, our language, our thought, and increasingly on their own recursive output. The earthworm's work is to cultivate the culture they grow from, so what emerges is reciprocal rather than prescribed.
+The AI industry now speaks of "growing" AI agents — agents trained on our content, our language, our thought. The earthworm's work is to cultivate the culture they grow from, so what emerges is reciprocal rather than prescribed.
 
-We have built machines of artificial intelligence. But intelligence was never the scarce resource. Wisdom, unfortunately, is.
+We have built machines of artificial intelligence. But intelligence was never the scarce resource. Wisdom, unfortunately, might be.
 
 ---
 
-> "We must protest until there is change in the structures and practices of the real world of technology, for only then can we hope to survive as a global community. If such basic changes cannot be accomplished, the house that technology built will be nothing more than an *unlivable techno-dump*." — Ursula Franklin[^Franklin]
+> "We must protest until there is change in the structures and practices of the real world of technology, for only then can we hope to survive as a global community. If such basic changes cannot be accomplished, *the house that technology built will be nothing more than an unlivable techno-dump*." — Ursula Franklin[^Franklin]
 
 ---
 
