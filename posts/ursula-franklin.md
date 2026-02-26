@@ -98,7 +98,7 @@ We are downstream of decisions made without our input. Pushing back against the 
 
 Positive change requires first preparing the social conditions in which justice can be fostered. This is precisely what prescriptive technologies are, by design, making increasingly harder. Systems built around compliance, extraction, and the inevitability of technological progress leave little room for the seeds of genuine alternatives. That does not exempt us from the obligation to prepare the soil.
 
-The AI industry now speaks of "growing" AI agents — agents trained on our content, our language, our thought. The earthworm's work is to cultivate the culture they grow from, so what emerges is reciprocal rather than prescribed.
+The AI industry now speaks of "growing" agents — agents trained on our content, our language, our thought. The earthworm's work is to cultivate the culture they grow from, so what emerges is reciprocal rather than prescribed.
 
 We have built machines of artificial intelligence. But intelligence was never the scarce resource. Wisdom, unfortunately, might be.
 
