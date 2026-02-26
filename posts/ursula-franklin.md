@@ -100,7 +100,7 @@ Positive change requires first preparing the social conditions in which justice 
 
 The industry now speaks of "growing" AI agents — agents trained on our content, our language, our thought, and increasingly on their own recursive output. The earthworm's work is to cultivate the culture they grow from, so what emerges is reciprocal rather than prescribed.
 
-We have built machines of artificial intelligence. But intelligence was never the scarce resource. Wisdom is.
+We have built machines of artificial intelligence. But intelligence was never the scarce resource. Wisdom, unfortunately, is.
 
 ---
 
