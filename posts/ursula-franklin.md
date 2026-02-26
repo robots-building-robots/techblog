@@ -49,7 +49,7 @@ The advent of LLMs has been no exception. Framed as tools that extend rather tha
 
 But as we see how LLMs are actually being aggressively deployed, without meaningful reciprocity, the question of how prescriptive they are by design becomes harder to avoid. Students are automating homework rather than developing the capacity to think critically. In the workplace, craft is being quietly fragmented, not yet replacing workers wholesale, but systematically hollowing out the skills and judgment that make work meaningful.
 
-Perhaps most troubling, in a society increasingly isolated and dependent on prescriptive technologies, many are turning to LLMs for emotional support and companionship, substituting the mimicry of communication for the real thing. Social media platforms were built on the same logic: algorithmic engagement, rage-bait, the manufacture of connection. Isolation and dependency are not side effects of these systems; they are features. Fragmentation leads to isolation, isolation forms dependency, dependency demands more of the technology that produced it. Loneliness, it turns out, is enormously profitable.
+Perhaps most troubling, in a society where people are increasingly isolated and dependent on prescriptive technologies, many are turning to LLMs for emotional support and companionship, substituting the mimicry of communication for the real thing. Social media platforms were built on the same logic: algorithmic engagement, rage-bait, the manufacture of connection. Isolation and dependency are not side effects of these systems; they are features. Fragmentation leads to isolation, isolation forms dependency, dependency demands more of the technology that produced it. Loneliness, it turns out, is enormously profitable.
 
 ---
 
@@ -59,7 +59,7 @@ Perhaps most troubling, in a society increasingly isolated and dependent on pres
 
 *LLMs are prescriptive by design*. The user is either reduced to the prompt —thinking, structuring, judging, writing— the entire holistic process of making absorbed into the system; or, in the case of agentic systems, the maker removed from the workflow entirely, or reduced to a manager of agents. Some platforms simulate responsiveness —asking clarifying questions, requesting permission before executing, keeping a "human in the loop"— but this is feedback masquerading as reciprocity. What presents itself as communication is the system adjusting within its own predetermined logic, not responding to those who use them. At the political level, where decisions about design, deployment, and regulation are made, reciprocity is foreclosed entirely.
 
-The result is a compliance culture extended to human expression itself, to how we write, think, and create, with the terms of thought dictated by the machine. Franklin's culture of compliance reaches its logical conclusion in LLMs: into language, reasoning, and creativity — the last domains we assumed were irreducibly human. Yet the question is not simply whether LLMs are prescriptive, but whether they could be designed and used differently.
+The result is a compliance culture extended to human expression itself, to how we write, think, and create, with the terms of thought dictated by the machine. Franklin's culture of compliance reaches its logical conclusion in LLMs, extending into language, reasoning, and creativity — the last domains we assumed were irreducibly human. Yet the question is not simply whether LLMs are prescriptive, but whether they could be designed and used differently.
 
 ## Earthworm Theory of Social Change
 
