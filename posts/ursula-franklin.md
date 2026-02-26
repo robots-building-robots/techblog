@@ -13,7 +13,7 @@ Franklin understands technology not merely as tools and machines of material pro
 
 The fragmentation of work into prescribed steps produces dependency and standardization, built into the system's logic by design. Where holistic practice depends on communication, collaboration, and shared judgment, prescriptive workflows reduce to mere process the relationships that bind communities of practice together. Outputs converge toward what the system permits rather than what the makers envisioned. Variation is waste, deviation is error, regardless of any potential merit. When human judgment is prescribed out of the workflow, skill and creativity atrophy. Automation bias sets in and the machine's answer becomes the default. Over time, prescriptive technologies do not merely change how work is done; they reshape institutions and social relations in their own image, organized around efficiency, production, and top-down management rather than the communities they serve.
 
-Of course, compliance, standardization, and efficiency are not inherently malign. Prescriptive technologies underpin much of what keeps us safe, healthy, and productive. *The problem is not prescription itself but its dominance as the organizing logic of social life*.
+Franklin's holistic/prescriptive distinction is a useful diagnostic lens, not a rigid taxonomy. Most technologies combine elements of both. Granted, compliance, standardization, and efficiency are not inherently malign. Prescriptive tech underpins much of what keeps us safe, healthy, and productive. *The problem is not prescription itself but its dominance as the organizing logic of social life*.
 
 ---
 
@@ -37,7 +37,7 @@ The answer is not more regulation for its own sake. Poorly designed policy can s
 
 ---
 
-> "*Prescriptive technologies eliminate the occasions for decision-making and judgement in general and especially for the making of principled decisions*. Any goal of the technology is incorporated a priori in the design and is not negotiable […] As methods of materials production, prescriptive technologies have brought into the real world of technology a wealth of important products that have raised living standards and increased well-being. At the same time they have created a *culture of compliance*. The acculturation to compliance and conformity has, in turn, accelerated the use of prescriptive technologies in administration, government, and social services. The same development has *diminished resistance to the programming of people.*" — Ursula Franklin[^Franklin]
+> "As methods of materials production, prescriptive technologies have brought into the real world of technology a wealth of important products that have raised living standards and increased well-being. At the same time they have created a *culture of compliance*. The acculturation to compliance and conformity has, in turn, accelerated the use of prescriptive technologies in administration, government, and social services. The same development has *diminished resistance to the programming of people.*" — Ursula Franklin[^Franklin]
 
 ---
 
@@ -65,7 +65,7 @@ The result is a compliance culture extended to human expression itself, to how w
 
 ## Earthworm Theory of Social Change
 
-Franklin's answer to the question of how we should build technology is pragmatic: she puts *the common good above profit motive*. To counterbalance the logic of *maximum gain*, she proposes a simpler governing principle: *minimize disaster*. *Maximum gain* optimizes for the largest possible return on investment. *Minimize disaster* designs against the worst possible outcomes – placing the burden of proof falls on those introducing the risk, not those opposing it. We cannot optimize for the best outcome when we cannot fully anticipate the harmful consequences of a technology until it is embedded in social life and the damage is already done. We can, however, build in safeguards against the worst and preserve the capacity to course-correct. *Humility*, not arrogance or naive optimism, is the mindset worth fostering.
+Franklin's answer to the question of how we should build technology is pragmatic: she puts *the common good above profit motive*. To counterbalance the logic of *maximum gain*, she proposes a simpler governing principle: *minimize disaster*. *Maximum gain* optimizes for the largest possible return on investment. *Minimize disaster* designs against the worst possible outcomes – placing the burden of proof falls on those introducing the risk, not those opposing it. We cannot optimize for the best outcome when we cannot fully anticipate the harmful consequences of a technology until it is embedded in social life and the damage is already done. We can, however, build in safeguards against the worst and preserve the capacity to course-correct. *Humility*, not arrogance or naive techno-solutionism, is the mindset worth fostering.
 
 As a practical guide, Franklin offers a civic checklist against which any technological decision can be measured:
 
@@ -76,7 +76,7 @@ As a practical guide, Franklin offers a civic checklist against which any techno
 - *Does it favour reversibility over irreversibility?*
 - *Does it promote justice?*
 
-These are not abstract ideals. They are questions any team, organization, or institution can bring to the table while a technology is being adopted, deployed, or built. This is what Franklin calls her *earthworm theory of social change*: the patient, ground-level work of fostering a culture of communication and reciprocity, one that openly discusses and debates principles rather than deferring to the "move fast and break things" momentum of so-called progress. What she calls *redemptive technologies* account not only for financial cost but for social and ecological impact, and actively reintroduce the disenfranchised into the decisions that shape their lives.
+These are not abstract ideals. They are questions any team, organization, or institution can bring to the table while a technology is being adopted or built. This is what Franklin calls her *earthworm theory of social change*: the patient, ground-level work of fostering a culture of communication and reciprocity, one that openly discusses and debates principles rather than deferring to the "move fast and break things" momentum of so-called progress. What she calls *redemptive technologies* account not only for financial cost but for social and ecological impact, and actively reintroduce marginalized communities into the decisions that disproportionately shape their lives.
 
 ---
 
