@@ -71,9 +71,7 @@ The result is a compliance culture extended to human expression itself — to ho
 
 ## Earthworm Theory of Social Change
 
-Franklin's answer to the question of how we should build technology is pragmatic: she puts *the common good above profit motive*. To counterbalance the logic of *maximum gain*, she proposes a governing principle of *minimizing disaster*. While *maximum gain* optimizes for the largest possible return, *minimizing disaster* designs against the worst possible outcomes — placing the burden of proof on those introducing the risk, not those opposing it. 
-
-The consequences of a technology often only become apparent within the complexity social life, but by then, the damage is already done. We can, however, build in safeguards against the worst outcomes and preserve the capacity to course-correct. *Humility*, rather than arrogance or naive *techno-solutionism*, is the mindset Franklin advocates.
+Franklin's answer to the question of how we should build technology is pragmatic: she puts *the common good above profit motive*. To counterbalance the logic of *maximum gain*, she proposes a governing principle of *minimizing disaster*. While *maximum gain* optimizes for the largest possible return, *minimizing disaster* designs against the worst possible outcomes — placing the burden of proof on those introducing the risk, not those opposing it. The consequences of a technology often only become apparent within the complexity social life, but by then, the damage is already done. We can, however, build in safeguards against the worst outcomes and preserve the capacity to course-correct. *Humility*, rather than arrogance or naive *techno-solutionism*, is the mindset Franklin advocates.
 
 As a practical guide, Franklin offers a civic checklist against which any technological decision can be measured:
 
@@ -86,7 +84,7 @@ As a practical guide, Franklin offers a civic checklist against which any techno
 
 These are not abstract ideals. They are the baseline for any team, organization, or institution building or adopting new tools. This is what Franklin calls her *earthworm theory of social change*: the patient, ground-level work of fostering a culture of communication and reciprocity. It is a commitment to open debate over principles rather than deferring to the "move fast and break things" momentum of so-called progress. What she calls *redemptive technologies* account for more than just financial return; they are measured by their social and ecological impact, and by how effectively they reintroduce marginalized communities into the decisions that disproportionately shape their lives.
 
-Franklin's checklist serves as a blueprint for what we might call Reciprocal Tech. While prescriptive models risk 'model collapse'—becoming stale and unreflective of the real world they seek to mediate—reciprocal systems thrive on data sovereignty and active governance. Choosing reciprocity over compliance is a competitive advantage: it builds high-trust, interoperable ecosystems that are sustainable in the long term, rather than extractive tools that deplete the social capital they rely on.
+While prescriptive models risk 'model collapse'—becoming reductionist and unreflective of the real world they seek to mediate—reciprocal systems thrive on data sovereignty and active governance. Choosing reciprocity over compliance is a competitive advantage: it builds trustworthy, interoperable, and sustainable ecosystems rather than extractive tools that deplete the social capital they rely on.
 
 ---
 
@@ -104,11 +102,11 @@ These are not questions the industry habitually asks, or asks only as superficia
 
 None of this is straightforward in workplaces where LLM adoption is being driven from above, often without meaningful consultation. The reciprocity Franklin calls for is frequently absent, whether at the interface, workflow, or policy level. In this context, "earthworming" means what it has always meant: advocating within teams for transparency and accountability, refusing use cases that erode judgment or concentrate power, supporting open alternatives where possible, and insisting that the question of how these tools are built and deployed belongs in open, ongoing discourse.
 
-These principles provide the high-level framework—the necessary 'soil preparation'—for a different kind of technical practice. While the specific mechanics of implementation vary across workflows, the goal remains the same: to move from a technology of foreclosure to one of possibility.
+These principles provide the high-level framework for a different kind of technical practice. While the specific mechanics of implementation vary by context, the goal remains the same: to move from a technology of foreclosure to one of possibility.
 
 We are downstream of decisions made without our input. Pushing back against the torrent of prescriptive tech can feel overwhelming. How do we, as makers in the real world of technology where Franklin's warnings have gone largely unheeded, stay principled — let alone relevant? When the system offers no reciprocity, how can we function while demanding more from leaders who offer no meaningful policy response?
 
-Positive change requires first preparing the social conditions in which reciprocity can be fostered. This is precisely what prescriptive technologies are, by design, making increasingly harder. Systems built around compliance, extraction, and the inevitability of technological progress leave little room for the seeds of worthy alternatives. That does not exempt us from *the obligation to prepare the soil*. Before navigating the specific mechanics of redemptive design we must first commit to the principles. We cannot build alternatives if we have already accepted the logic of our own displacement.
+Positive change requires first preparing the social conditions in which reciprocity can be fostered. This is precisely what prescriptive technologies are, by design, making increasingly harder. Systems built around compliance, extraction, and the inevitability of technological progress leave little room for the seeds of worthy alternatives. That does not exempt us from *the obligation to prepare the soil*. Before navigating the specific mechanics of redemptive design we must first commit to shared principles. We cannot build alternatives if we have already accepted the logic of our own displacement.
 
 The AI industry now speaks of "growing" agents — agents trained on our content, our language, our thought. The earthworm's work is to cultivate the culture they grow from, so that what emerges is reciprocal rather than prescribed.
 
