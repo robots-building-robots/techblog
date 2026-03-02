@@ -85,8 +85,6 @@ Franklin offers a "civic checklist" which technological decisions should be able
 
 These are not abstract ideals. They are the baseline for any team, organization, or institution building or adopting new tools. This is what Franklin calls her earthworm theory of social change: the patient, ground-level work of building a culture of communication and reciprocity — a commitment to open debate over principles rather than deferring to the "move fast and break things" momentum of progress. What she calls redemptive technologies account for more than financial return; they are measured by their social and ecological impact, and by how effectively they bring marginalized communities into the decisions that disproportionately shape their lives. 
 
-*Humility*, rather than arrogance or *techno-solutionism*, is the mindset Franklin advocates cultivating.
-
 ---
 
 > "Social change will not come to us like an avalanche down the mountain. Social change will come through seeds growing in well prepared soil — and it is we, like the earthworms, who prepare the soil. We also seed thoughts and knowledge and concern. We realize there are no guarantees as to what will come up. Yet we do know that without the seeds and the prepared soil nothing will grow at all. I am convinced that we are indeed already in a period in which this movement from below is becoming more and more articulate, but what is needed is a lot more earthworming." — Ursula Franklin[^Franklin]
@@ -107,7 +105,7 @@ These principles point toward a different kind of technical practice, one that m
 
 We are downstream of decisions made without our input. Franklin's warnings have gone largely unheeded. How do we, as makers in the real world of technology, stay principled, let alone relevant? When these systems offer no reciprocity by design, what room do we have to act?
 
-Before navigating the specifics of redemptive design, we must first commit to shared principles. We cannot build alternatives if we have already accepted the logic of our own displacement. Reciprocity does not emerge from compliant systems — it must be cultivated. This is precisely what prescriptive technologies are, by design, making increasingly difficult. Systems built around compliance, extraction, and the ideology of "technological progress" leave little room for alternatives to take root. That does not exempt us from *the obligation to prepare the soil*.
+Before navigating the specifics of redemptive design, we must first commit to shared principles. We cannot build alternatives if we have already accepted the logic of our own displacement. Reciprocity does not emerge from compliant systems — it must be cultivated. This is precisely what prescriptive technologies are, by design, making increasingly difficult. Systems built around compliance, extraction, and the ideology of *"techno-solutionism"* leave little room for alternatives to take root. That does not exempt us from *the obligation to prepare the soil*.
 
 The AI industry now speaks of "growing" agents — agents trained on our content, our language, our thought. The earthworm's work is to cultivate the culture they grow from, so that what emerges is reciprocal rather than prescribed.
 
