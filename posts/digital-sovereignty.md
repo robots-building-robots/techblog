@@ -42,7 +42,12 @@ I've started where impact is highest and personal friction is lowest, while weig
     Long-term goal: <strong>Linux</strong> <span class="flag">🇺🇸</span> is probably the principled choice but macOS is often required for professional dev and some client tooling.<br>
     <br>
     <em>Mobile:</em><br>
-    <strong>GrapheneOS</strong> <span class="flag">🇨🇦</span> is privacy-hardened Android fork and a Canadian-led open source project<br>
+    <strong>GrapheneOS</strong> <span class="flag">🇨🇦</span>
+    <small> 
+      - privacy-hardened Android fork<br>
+      - easy install on Pixel 6<br>
+      - you can create separate user profiles with Google apps sandboxed.<br>
+    </small>
   </small>
 </div>
 
