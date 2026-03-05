@@ -112,6 +112,7 @@
 <p>For inspiration, I looked to Paris Marx&#39;s <a href="https://disconnect.blog/getting-off-us-tech-a-guide/" target="_blank" rel="noopener noreferrer">Getting Off US Tech</a>, Scott Galloway&#39;s <a href="https://www.resistandunsubscribe.com/" target="_blank" rel="noopener noreferrer">Resist and Unsubscribe</a>, and <a href="https://quitgpt.org/" target="_blank" rel="noopener noreferrer">QuitGPT</a>, but with a few different needs as a software developer focused open source tooling and the responsible use of AI, which, for better or worse, is now considered a professional baseline.</p>
 <p>This is not just about consumer boycott. Choosing one <em>Big Tech</em> brand over another because it&#39;s today&#39;s so-called ethical choice will hardly make a difference. But advocating for public policy and investing our time and energy in exploring and sharing real working alternatives will. </p>
 <p>I&#39;m honest about US-based tech I still use — either due to professional lock-in (which I try to offset as much as possible with privacy-focused alternatives), or because, although US-based, is genuinely one of the best alternatives to Big Tech.</p>
+<p>Note: <em>Proton</em> suite offers an easy all-in-one alternative to Google. &quot;Proton was born in Switzerland in 2014 when a team of scientists who met at CERN (the European Organization for Nuclear Research) decided to build a better internet where privacy is the default.&quot;</p>
 <!-- card template
 <div class="card">
   <h3>SERVICE</h3>
@@ -165,9 +166,9 @@
 <h2 id="identity">Identity</h2>
 <h3>OS:</h3>
 <div class="card">
-  <p><i>In progress…</i></p>
   <small>
     <em>Desktop:</em><br>
+    <p><i>In progress…</i></p>
     Long-term goal: <strong>Linux</strong> <span class="flag">🇺🇸</span> is probably the principled choice but macOS is often required for professional dev and some client tooling.<br>
     <br>
     <em>Mobile:</em><br>
@@ -264,15 +265,7 @@
   <small>
     - End-to-end encrypted<br>
     - Still maturing as a product but functional for personal storage<br>
-    - Bundled with Proton suite<br>
-  </small>
-</div>
-
-<h3>Documents & Note Taking:</h3>
-<div class="card">
-  <p>Cdox.ca <span class="pipe">|</span> <span class="flag">🇨🇦</span> <span class="pipe">|</span> <span class="label">$: </span><small>min</small></p>
-  <small>
-    - Canadian-hosted, privacy-first<br>
+    - Bundled with Proton Docs & Sheets<br>
   </small>
 </div>
 

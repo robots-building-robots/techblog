@@ -21,6 +21,8 @@ This is not just about consumer boycott. Choosing one *Big Tech* brand over anot
 
 I'm honest about US-based tech I still use — either due to professional lock-in (which I try to offset as much as possible with privacy-focused alternatives), or because, although US-based, is genuinely one of the best alternatives to Big Tech.
 
+Note: *Proton* suite offers an easy all-in-one alternative to Google. "Proton was born in Switzerland in 2014 when a team of scientists who met at CERN (the European Organization for Nuclear Research) decided to build a better internet where privacy is the default."
+
 <!-- card template
 <div class="card">
   <h3>SERVICE</h3>
@@ -77,9 +79,9 @@ Let's start with the elephant in the room — intelligence tools.
 
 <h3>OS:</h3>
 <div class="card">
-  <p><i>In progress…</i></p>
   <small>
     <em>Desktop:</em><br>
+    <p><i>In progress…</i></p>
     Long-term goal: <strong>Linux</strong> <span class="flag">🇺🇸</span> is probably the principled choice but macOS is often required for professional dev and some client tooling.<br>
     <br>
     <em>Mobile:</em><br>
@@ -178,15 +180,7 @@ Let's start with the elephant in the room — intelligence tools.
   <small>
     - End-to-end encrypted<br>
     - Still maturing as a product but functional for personal storage<br>
-    - Bundled with Proton suite<br>
-  </small>
-</div>
-
-<h3>Documents & Note Taking:</h3>
-<div class="card">
-  <p>Cdox.ca <span class="pipe">|</span> <span class="flag">🇨🇦</span> <span class="pipe">|</span> <span class="label">$: </span><small>min</small></p>
-  <small>
-    - Canadian-hosted, privacy-first<br>
+    - Bundled with Proton Docs & Sheets<br>
   </small>
 </div>
 
