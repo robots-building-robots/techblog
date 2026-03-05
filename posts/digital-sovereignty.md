@@ -1,5 +1,5 @@
 ---
-title: "Disconnecting From Big Tech"
+title: "Disconnecting Big Tech"
 date: 2026-02-01
 ---
 
