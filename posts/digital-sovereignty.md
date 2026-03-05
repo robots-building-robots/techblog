@@ -15,13 +15,13 @@ Most people don't care where their data lives. We just want what's cheap, famili
 
 **Infrastructure isn't neutral**. The same data pipelines and AI systems powering our productivity tools are procured for **surveillance, unlawful policing, and warfare**. The small print doesn't mention that. And none of it is more ethical for being algorithmic. **Small Tech**, not anti-technology, is the framing here. Smaller, local alternatives that can actually be held accountable; not platforms that answer to no one.
 
-For inspiration, I looked to Paris Marx's <a href="https://disconnect.blog/getting-off-us-tech-a-guide/" target="_blank" rel="noopener noreferrer">Getting Off US Tech</a>, Scott Galloway's <a href="https://www.resistandunsubscribe.com/" target="_blank" rel="noopener noreferrer">Resist and Unsubscribe</a>, and <a href="https://quitgpt.org/" target="_blank" rel="noopener noreferrer">QuitGPT</a>, but with a few different needs as a software developer focused open source tooling and the responsible use of AI, which, for better or worse, is now considered a professional baseline.
+For inspiration, I looked to Paris Marx's <a href="https://disconnect.blog/getting-off-us-tech-a-guide/" target="_blank" rel="noopener noreferrer external">Getting Off US Tech</a>, Scott Galloway's <a href="https://www.resistandunsubscribe.com/" target="_blank" rel="noopener noreferrer external">Resist and Unsubscribe</a>, and <a href="https://quitgpt.org/" target="_blank" rel="noopener noreferrer external">QuitGPT</a>, but with a few different needs as a software developer focused open source tooling and the responsible use of AI, which, for better or worse, is now considered a professional baseline.
 
 This is not just about consumer boycott. Choosing one *Big Tech* brand over another because it's today's so-called ethical choice will hardly make a difference. But advocating for public policy and investing our time and energy in exploring and sharing real working alternatives will. 
 
 I'm honest about US-based tech I still use — either due to professional lock-in (which I try to offset as much as possible with privacy-focused alternatives), or because, although US-based, is genuinely one of the best alternatives to Big Tech.
 
-Note: *Proton* suite offers an easy all-in-one alternative to Google. "Proton was born in Switzerland in 2014 when a team of scientists who met at CERN (the European Organization for Nuclear Research) decided to build a better internet where privacy is the default."
+Note: <a href="https://proton.me/about" target="_blank" rel="noopener noreferrer external">Proton</a> suite offers an easy all-in-one alternative to Google. "Proton was born in Switzerland in 2014 when a team of scientists who met at CERN (the European Organization for Nuclear Research) decided to build a better internet where privacy is the default."
 
 <!-- card template
 <div class="card">

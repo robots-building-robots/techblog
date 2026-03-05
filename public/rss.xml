@@ -8,7 +8,7 @@
 <atom:link href="https://blog.modelcollapse.site/rss.xml" rel="self" type="application/rss+xml" />
 
 <item>
-     <title>Earthworming: A Franklin Guide to Responsible AI</title>
+     <title>Earthworming: A Franklin Guide to Responsible Tech</title>
      <link>https://blog.modelcollapse.site/posts/ursula-franklin.html</link>
      <guid>https://blog.modelcollapse.site/posts/ursula-franklin.html</guid>
      <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
@@ -74,7 +74,7 @@
 <sup id="fnref-Franklin-6"><a href="#fn-Franklin">[1]</a></sup></p>
 </blockquote>
 <hr>
-<h2 id="earthworming-in-practice-responsible-ai">Earthworming in Practice: Responsible AI</h2>
+<h2 id="earthworming-in-practice-responsible-tech">Earthworming in Practice: Responsible Tech</h2>
 <p>Franklin&#39;s checklist is not a rigid formula; it is a set of questions anyone building or deploying technology should return to at every stage. These questions grow only more urgent as prescriptive tech becomes ubiquitous. In practice, we should be asking: Who benefits from what we are building, and who is excluded? Are the people most affected by our decisions involved in making them? Are we measuring the true cost of what we ship — not only in compute and capital, but in social and ecological impact? Are we designing for reversibility and avoiding lock-in?</p>
 <p>When using intelligent tools, are we reviewing their output critically or accepting it wholesale? When deploying agentic systems that act autonomously, who is accountable for the outcome? Before defaulting to the most convenient platform, have we asked whether a locally run, open-source, or privacy-first alternative would serve just as well?</p>
 <p>These are not questions the industry habitually asks, or asks only as superficial optics and marketing. What may feel like compromise or sacrifice is, in Franklin&#39;s framework, the opposite: a principled choice that prioritizes data sovereignty, resists dependency, and contributes to a healthier work culture and a more sustainable technological ecosystem.</p>
@@ -109,10 +109,10 @@
 </blockquote>
 <hr>
 <p><strong>Infrastructure isn&#39;t neutral</strong>. The same data pipelines and AI systems powering our productivity tools are procured for <strong>surveillance, unlawful policing, and warfare</strong>. The small print doesn&#39;t mention that. And none of it is more ethical for being algorithmic. <strong>Small Tech</strong>, not anti-technology, is the framing here. Smaller, local alternatives that can actually be held accountable; not platforms that answer to no one.</p>
-<p>For inspiration, I looked to Paris Marx&#39;s <a href="https://disconnect.blog/getting-off-us-tech-a-guide/" target="_blank" rel="noopener noreferrer">Getting Off US Tech</a>, Scott Galloway&#39;s <a href="https://www.resistandunsubscribe.com/" target="_blank" rel="noopener noreferrer">Resist and Unsubscribe</a>, and <a href="https://quitgpt.org/" target="_blank" rel="noopener noreferrer">QuitGPT</a>, but with a few different needs as a software developer focused open source tooling and the responsible use of AI, which, for better or worse, is now considered a professional baseline.</p>
+<p>For inspiration, I looked to Paris Marx&#39;s <a href="https://disconnect.blog/getting-off-us-tech-a-guide/" target="_blank" rel="noopener noreferrer external">Getting Off US Tech</a>, Scott Galloway&#39;s <a href="https://www.resistandunsubscribe.com/" target="_blank" rel="noopener noreferrer external">Resist and Unsubscribe</a>, and <a href="https://quitgpt.org/" target="_blank" rel="noopener noreferrer external">QuitGPT</a>, but with a few different needs as a software developer focused open source tooling and the responsible use of AI, which, for better or worse, is now considered a professional baseline.</p>
 <p>This is not just about consumer boycott. Choosing one <em>Big Tech</em> brand over another because it&#39;s today&#39;s so-called ethical choice will hardly make a difference. But advocating for public policy and investing our time and energy in exploring and sharing real working alternatives will. </p>
 <p>I&#39;m honest about US-based tech I still use — either due to professional lock-in (which I try to offset as much as possible with privacy-focused alternatives), or because, although US-based, is genuinely one of the best alternatives to Big Tech.</p>
-<p>Note: <em>Proton</em> suite offers an easy all-in-one alternative to Google. &quot;Proton was born in Switzerland in 2014 when a team of scientists who met at CERN (the European Organization for Nuclear Research) decided to build a better internet where privacy is the default.&quot;</p>
+<p>Note: <a href="https://proton.me/about" target="_blank" rel="noopener noreferrer external">Proton</a> suite offers an easy all-in-one alternative to Google. &quot;Proton was born in Switzerland in 2014 when a team of scientists who met at CERN (the European Organization for Nuclear Research) decided to build a better internet where privacy is the default.&quot;</p>
 <!-- card template
 <div class="card">
   <h3>SERVICE</h3>

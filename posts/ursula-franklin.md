@@ -1,5 +1,5 @@
 ---
-title: "Earthworming: A Franklin Guide to Responsible AI"
+title: "Earthworming: A Franklin Guide to Responsible Tech"
 date: 2026-02-21
 ---
 
@@ -91,7 +91,7 @@ These are not abstract ideals. They are the baseline for any team, organization,
 
 ---
 
-## Earthworming in Practice: Responsible AI
+## Earthworming in Practice: Responsible Tech
 
 Franklin's checklist is not a rigid formula; it is a set of questions anyone building or deploying technology should return to at every stage. These questions grow only more urgent as prescriptive tech becomes ubiquitous. In practice, we should be asking: Who benefits from what we are building, and who is excluded? Are the people most affected by our decisions involved in making them? Are we measuring the true cost of what we ship — not only in compute and capital, but in social and ecological impact? Are we designing for reversibility and avoiding lock-in?
 
