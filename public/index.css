@@ -58,6 +58,7 @@ h2 {
 }
 
 h3, h4 {
+  font-size: 1em;
   line-height: 1em;
   font-weight: 400;
 }
@@ -226,7 +227,9 @@ img.portrait {
   border: 1px solid var(--border);
   border-radius: 4px;
   padding: 1rem 1.25rem 2rem 1.25rem;
-  margin: 1rem 0;
+  margin: 1rem 0 4rem 0;
+  font-family: courier;
+  font-size: 0.8em;
 }
 
 .card p {
