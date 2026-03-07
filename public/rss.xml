@@ -136,7 +136,7 @@
 
 <h3>IDE Code Completion:</h3>
 <div class="card">
-  <strong>Ollama <span class="flag">🇺🇸</span> + qwen2.5-coder:32b (or similar)</strong>
+  <strong>Ollama <span class="flag">🇺🇸</span> + qwen2.5-coder:7b (or similar)</strong>
   <small>
     - local, private, offline, no profiling, cloud telemetry, or data harvesting.<br>
     - avoids Google entirely while matching its coding performance.<br>
@@ -149,6 +149,15 @@
   <p><i>In progress…</i></p>
   <small>
   - this is the hardest to give up at the moment because of its document context awareness, but working on alternatives.
+  </small>
+</div>
+
+<!-- creative, academic, professional writing -->
+<h3>Writing:</h3>
+<div class="card">
+  <strong>Ollama + Llama3:8b <span class="flag">🇺🇸</span></strong>
+  <small>
+  - Open source, private by design, runs locally, no telemetry by default.
   </small>
 </div>
 
