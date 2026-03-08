@@ -240,6 +240,10 @@ img.portrait {
   display: inline-block;
 }
 
+.card strong {
+  font-size: 1.1em;
+}
+
 .card .pipe {
   color: var(--border);
   padding: 0 0.4em;
