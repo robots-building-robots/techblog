@@ -132,30 +132,30 @@
   <strong>IDE Inline Assistance &amp; Chat:</strong><br>
   <p>
     - <b>VSCode + Ollama + qwen2.5-coder:7b</b> (or similar)<br>
-    - Local, private, offline<br>
-    - no profiling, no cloud telemetry, MIT license<br>
+    - Local, open source LLM tooling or privacy and speed rather than cloud-only access.<br>
+    - No profiling, no cloud telemetry, MIT license.<br>
     <br>
   </p>
   <strong>Agentic Coding:</strong><br>
   <p>
-    - <b>Claude Code</b> <span class="flag">🇺🇸</span> for heavy lifting; leads benchmarks in 2026.<br>
+    - <strong>Claude Code</strong> <span class="flag">🇺🇸</span> for heavy lifting; leads current benchmarks.<br>
   </p>
 </div>
 
 <h3>Writing &amp; Research:</h3>
 <div class="card">
   <strong>Ollama <span class="flag">🇺🇸</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
-  <strong>Ollama + Llama3:8b or phi3:medium:</strong><br>
+  <strong>Ollama + Llama3:8b or phi3:</strong><br>
   <p>
-    - Open source, private by design, runs locally, no telemetry by default.<br>
+    - Local, open source LLM tooling or privacy and speed rather than cloud-only access.<br>
     - Understands full document context when prompted well.<br>
-    -  <b>NotebookLM</b> hard to give up with its context awareness and other tools.<br>
+    -  <strong>NotebookLM</strong> hard to give up with its context awareness and other tools.<br>
     <br>
   </p>
-  <strong><b>Obsidian + Copilot</b> (Community plugin):</strong><br>
+  <strong>Obsidian + Copilot (Community plugin):</strong><br>
   <p>
-    - Local storage, private vault<br>
-    - <b>Ollama</b> model chat-based, context-aware vault search<br>
+    - Local storage and private vault for personal docs.<br>
+    - <strong>Ollama</strong> model chat-based, context-aware vault search.<br>
   </p>
 </div>
 
@@ -163,9 +163,9 @@
 <div class="card">
   <strong>Ollama <span class="flag">🇺🇸</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
   <p>
-    - Offline: local <b>Ollama</b> model for lightweight, private queries<br>
-    - Online: <b>Perplexity</b> for research<br>
-    - Heavy-lifting: <b>Claude Pro</b><br>
+    - Offline: local <strong>Ollama</strong> model for lightweight, private queries.<br>
+    - Online: <strong>Perplexity</strong> for online research.<br>
+    - Heavy-lifting: <strong>Claude Pro.</strong><br>
   </p>
 </div>
 
@@ -174,16 +174,16 @@
   <strong>Desktop:</strong><br>
   <p>
     <i>In progress…</i><br>
-    - Long-term goal: <b>Linux</b> <span class="flag">🇺🇸</span><br> 
-    - principled choice but macOS often required for professional dev<br>
+    - Long-term goal: <strong>Linux</strong> <span class="flag">🇺🇸</span><br> 
+    - principled choice but macOS often required for professional reasons.<br>
     <br>
   </p>
   <strong>Mobile:</strong><br>
   <p>
-    - <b>GrapheneOS</b> <span class="flag">🇨🇦</span><br>
-    - privacy-hardened Android fork<br>
-    - Easy install on Pixel 6<br>
-    - Separate user profiles with Google services sandboxed<br>
+    - <strong>GrapheneOS</strong> <span class="flag">🇨🇦</span><br>
+    - privacy-hardened Android fork.<br>
+    - No-hitch install on Pixel 6.<br>
+    - Separate user profiles with Google services sandboxed.<br>
   </p>
 </div>
 
@@ -192,20 +192,15 @@
   <strong>Proton <span class="flag">🇨🇭</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>freemium</small><br>
   <strong>VPN:</strong><br>
   <p>
-    - No-logs policy, open source, independently audited<br>
-    - TunnelBear was acquired by McAfee (US) in 2018<br>
-    <br>
+    - No-logs policy, open source, independently audited.<br>
   </p>
   <strong>Password Manager:</strong><br>
   <p>
     - Open source, end-to-end encrypted<br>
-    - Cross-platform including Linux<br>
-    <br>
   </p>
  <strong>Mail:</strong><br>
   <p>
     - End-to-end encrypted by default<br>
-    <br>
   </p>
   <strong>Drive:</strong><br>
   <p>
@@ -221,18 +216,17 @@
     - Independent, advocates for net neutrality<br>
     - Default ISP resolvers log every domain you visit regardless<br>
     - Encrypted DNS (DoH/DoT) prevents ISP-level surveillance<br>
-    <br>
   </p>
   <strong>DNS:</strong><br>
   <p>
-    - <b>NextDNS</b> <span class="flag">🇫🇷</span><br>
+    - <strong>NextDNS</strong> <span class="flag">🇫🇷</span><br>
     - Cloud-based firewall; blocks trackers and malware; supports encrypted protocols (DoH/DoT)<br>
   </p>
 </div>
 
 <h3>Hosting:</h3>
 <div class="card">
-  <strong>Websavers.ca <span class="flag">🇨🇦</span></strong> <span class="pipe">|</span> <span class="label">$: </span><p>min</p><br>
+  <strong>Websavers.ca <span class="flag">🇨🇦</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>min</small><br>
   <p>
     - Canadian-owned and operated, servers in Canada<br>
     - PIPEDA compliant<br>
@@ -244,16 +238,16 @@
   <strong>Brave <span class="flag">🇺🇸</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
   <strong>Browsers:</strong><br>
   <p>
-    - <b>Mullvad</b> <span class="flag">🇸🇪</span> for personal browsing (anti-fingerprinting, no telemetry)<br>
-    - <b>Brave</b> <span class="flag">🇺🇸</span> for dev and testing (Chromium-based, Google-free)<br>
-    - <b>Chrome</b> kept for dev and QA only<br>
+    - <strong>Mullvad</strong> <span class="flag">🇸🇪</span> for personal browsing (anti-fingerprinting, no telemetry)<br>
+    - <strong>Brave</strong> <span class="flag">🇺🇸</span> for dev and testing (Chromium-based, Google-free)<br>
+    - <strong>Chrome</strong> kept for dev and QA only<br>
     - A browser with tiny market share (Firefox) isn't viable as a primary browser for web dev<br>
     <br>
   </p>
   <strong>Search:</strong><br>
   <p>
-    - <b>Startpage</b> <span class="flag">🇳🇱</span> (privacy-first, GDPR)<br>
-    -  <b>SearXNG</b><br>
+    - <strong>Startpage</strong> <span class="flag">🇳🇱</span> (privacy-first, GDPR)<br>
+    - <strong>SearXNG</strong><br>
   </p>
 </div>
 
@@ -276,7 +270,7 @@
 <div class="card">
   <strong><i>In progress…</i></strong><br>
   <p>
-    - <b>TeamSpeak</b>? <a href="https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/" target="_blank" rel="noopener noreferrer">Exodus from Discord...</a><br>
+    - <strong>TeamSpeak</strong>? <a href="https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/" target="_blank" rel="noopener noreferrer">Exodus from Discord...</a><br>
   </p>
 </div>
 
