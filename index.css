@@ -234,7 +234,10 @@ img.portrait {
 
 .card p {
   margin: 0.25rem 0;
-  color: var(--accent);
+}
+
+.card small {
+  display: inline-block;
 }
 
 .card .pipe {
@@ -251,10 +254,6 @@ img.portrait {
   font-family: ui-monospace, "Cascadia Code", monospace;
   font-size: 0.8rem;
   color: var(--text-secondary);
-}
-
-.card small {
-  display: inline-block;
 }
 
 .bg-dark {
