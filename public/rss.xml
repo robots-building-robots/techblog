@@ -168,6 +168,7 @@
     <small>
       - VSCode + Continue.dev + Claude Code<br>
       - for heavy lifting; leads current benchmarks
+      - Anthropic does no training on API data by default
     </small>
   </div>
 </div>
@@ -228,7 +229,7 @@
   <div class="card-entry">
     <strong>Perplexica</strong><br>
     <div class="card-attrs">
-      <span class="flag">🇺🇸</span>
+      <span class="flag">🌐</span>
       <span class="pipe">|</span>
       <span class="attr attr-yes">✓ private</span>
       <span class="attr attr-yes">✓ local</span>
@@ -335,9 +336,6 @@
     <div class="card-attrs">
       <span class="flag">🇨🇦</span>
       <span class="pipe">|</span>
-      <span class="attr attr-yes">✓ private</span>
-      <span class="attr attr-yes">✓ local</span>
-      <span class="pipe">|</span>
       <span class="attr">$$</span>
     </div>
     <small>
@@ -379,7 +377,7 @@
       <span class="attr attr-yes">✓ private</span>
       <span class="attr attr-yes">✓ local</span>
       <span class="pipe">|</span>
-      <span class="attr">freemium</span>
+      <span class="attr">$</span>
     </div>
     <small>
       - Canadian-owned<br>
@@ -406,11 +404,11 @@
     </small>
   </div>
   <div class="card-entry">
-    <strong>Brave / Chrome</strong><br>
+    <strong>Brave</strong><br>
     <div class="card-attrs">
       <span class="flag">🇺🇸</span>
       <span class="pipe">|</span>
-      <span class="attr attr-no">✗ private</span>
+      <span class="attr attr-yes">✓ private</span>
       <span class="attr attr-yes">✓ oss</span>
       <span class="pipe">|</span>
       <span class="attr">free</span>
