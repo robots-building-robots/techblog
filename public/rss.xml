@@ -128,60 +128,73 @@
 
 <h3>AI Assisted Coding:</h3>
 <div class="card">
-  <strong>Ollama <span class="flag">🇺🇸</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
-  <strong>IDE Inline Assistance &amp; Chat:</strong><br>
+  <strong>VSCode + Ollama + qwen2.5-coder:7b</strong> <span class="flag">🇺🇸</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
   <p>
-    - <b>VSCode + Ollama + qwen2.5-coder:7b</b> (or similar)<br>
-    - Local, open source LLM tooling for privacy and speed rather than cloud-only access.<br>
+    - IDE inline code completion and rubber ducking
+    - Local, open source LLM tooling for privacy and speed.<br>
     - No profiling, no cloud telemetry, MIT license.<br>
     <br>
   </p>
   <strong>Agentic Coding:</strong><br>
   <p>
-    - <strong>Vscode + Continue.dev + Claude Code</strong> <span class="flag">🇺🇸</span> for heavy lifting; leads current benchmarks.<br>
+    - <strong>Claude Code + Continue.dev + VSCode </strong> <span class="flag">🇺🇸</span> <span class="pipe">|</span> <span class="label">$$$</span><br>
+    <p>
+    - for heavy lifting; leads current benchmarks.<br>
+    </p>
   </p>
 </div>
 
 <h3>Writing &amp; Research:</h3>
 <div class="card">
-  <strong>Ollama <span class="flag">🇺🇸</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
-  <strong>Ollama + Llama3:8b or phi3:</strong><br>
-  <p>
-    - Understands full document context when prompted well.<br>
-    -  <strong>NotebookLM</strong> hard to give up with its context awareness and other tools.<br>
+  <strong>Ollama + Llama3 or phi3</strong> <span class="flag">🇺🇸</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
+    - <strong>NotebookLM</strong> hard to give up with its context awareness and other tools.<br>
     <br>
   </p>
-  <strong>Obsidian + Copilot (Community plugin):</strong><br>
+  <strong>Obsidian + Copilot (Community plugin):</strong> <span class="flag">🇺🇸</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
   <p>
     - Local storage and private vault for personal docs.<br>
     - <strong>Ollama</strong> model chat-based, context-aware vault search.<br>
   </p>
 </div>
 
-<h3>LLM Chat:</h3>
+<h3>LLM Chat & Search:</h3>
 <div class="card">
-  <strong>Ollama <span class="flag">🇺🇸</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
   <p>
-    - Offline: local <strong>Ollama</strong> model for lightweight, private queries.<br>
-    - Heavy-lifting: <strong>Claude Pro.</strong><br>
+      Offline: <strong>Ollama + Llama3 or phi3</strong> <span class="flag">🇺🇸</span> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
+      <small>- Local model for lightweight, private queries.</small><br>
+    <br>
+      Online:  <strong>Perplexica.io</strong> <span class="flag">🇺🇸</span> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
+      <small>
+        - Private, local AI answering engine, combines internet knowledge, supports local models and cloud providers, accurate answers with cited sources, keeps searches private.
+      </small><br>
+    <br>
+    Heavy-lifting: <strong>Claude Pro</strong> <span class="flag">🇺🇸</span> <span class="pipe">|</span> <span class="label">$$$</span><br>
   </p>
 </div>
 
 <h3>OS:</h3>
 <div class="card">
   <strong>Desktop:</strong><br>
+  <i>In progress…</i><br>
   <p>
-    <i>In progress…</i><br>
-    - Long-term goal: <strong>Linux</strong> <span class="flag">🇺🇸</span><br> 
-    - principled choice but macOS often required for professional reasons.<br>
+    - Long-term goal: <strong>Linux</strong> <span class="flag">🇺🇸</span><br>
     <br>
   </p>
   <strong>Mobile:</strong><br>
+  <strong>GrapheneOS</strong> <span class="flag">🇨🇦</span> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
   <p>
-    - <strong>GrapheneOS</strong> <span class="flag">🇨🇦</span><br>
     - privacy-hardened Android fork.<br>
-    - No-hitch install on Pixel 6.<br>
     - Separate user profiles with Google services sandboxed.<br>
+    - No-hitch install on Pixel 6.<br>
+  </p>
+</div>
+
+<h3>Code Repository:</h3>
+<div class="card">
+  <strong>Codeberg</strong> <span class="flag">🇩🇪</span> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
+  <p>
+      - Non-profit, German, Forgejo-based.<br>
+      - Strong community and solid GitHub alternative.<br>
   </p>
 </div>
 
@@ -194,85 +207,62 @@
   </p>
   <strong>Password Manager:</strong><br>
   <p>
-    - Open source, end-to-end encrypted<br>
+    - Open source, end-to-end encrypted.<br>
   </p>
  <strong>Mail:</strong><br>
   <p>
-    - End-to-end encrypted by default<br>
+    - End-to-end encrypted by default.<br>
   </p>
   <strong>Drive:</strong><br>
   <p>
-    - End-to-end encrypted<br>
-    - Still maturing as a product; bundled with Proton Docs & Sheets<br>
+    - End-to-end encrypted.<br>
+    - Still maturing as a product; bundled with Proton Docs &amp; Sheets.<br>
   </p>
 </div>
 
 <h3>ISP:</h3>
 <div class="card">
-  <strong>TekSavvy <span class="flag">🇨🇦</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>freemium</small><br>
+  <strong>TekSavvy <span class="flag">🇨🇦</span></strong> <span class="pipe">|</span> <span class="label">$$</span><br>
   <p>
-    - Independent, advocates for net neutrality<br>
-    - Default ISP resolvers log every domain you visit regardless<br>
-    - Encrypted DNS prevents ISP surveillance<br>
+    - Independent, advocates for net neutrality.<br>
+    - Default ISP resolvers log every domain you visit regardless.<br>
+    - Encrypted DNS prevents ISP surveillance.<br>
   </p>
-  <strong>DNS:</strong><br>
+</div>
+
+<h3>DNS:</h3>
+<div class="card">
+  <strong>NextDNS</strong> <span class="flag">🇫🇷</span><br>
   <p>
-    - <strong>NextDNS</strong> <span class="flag">🇫🇷</span><br>
-    - Cloud-based firewall; blocks trackers and malware; supports encrypted protocols (DoH/DoT)<br>
+    - Cloud-based firewall; blocks trackers and malware; supports encrypted protocols.<br>
   </p>
 </div>
 
 <h3>Hosting:</h3>
 <div class="card">
-  <strong>Websavers.ca <span class="flag">🇨🇦</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>min</small><br>
+  <strong>Websavers.ca <span class="flag">🇨🇦</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>freemium</small><br>
   <p>
-    - Canadian-owned and operated, servers in Canada<br>
-    - PIPEDA compliant<br>
+    - Canadian-owned and operated, servers in Canada.<br>
+    - PIPEDA compliant.<br>
   </p>
 </div>
 
-<h3>Browser &amp; Search:</h3>
+<h3>Browser:</h3>
 <div class="card">
-  <strong>Mullvad <span class="flag">🇸🇪</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
-  <strong>Browsers:</strong><br>
   <p>
-    - <strong>Mullvad</strong> <span class="flag">🇸🇪</span>: for personal browsing (anti-fingerprinting, no telemetry).<br>
-    - <strong>Brave</strong> <span class="flag">🇺🇸</span>: for dev and testing (Chromium-based, Google-free).<br>
-    - <strong>Chrome</strong>: kept for dev and QA only.<br>
-    - Note: a browser with tiny market share (Firefox) isn't viable as a primary browser for web dev.<br>
+    <strong>Mullvad</strong> <span class="flag">🇸🇪</span>: for personal browsing (anti-fingerprinting, no telemetry).<br>
+    <strong>Brave or Chrome</strong> <span class="flag">🇺🇸</span>: for dev and QA only.<br>
     <br>
-  </p>
-  <strong>Search:</strong><br>
-  <p>
-    <strong>Perplexica.io</strong><br>
-    <small>
-        - "**privacy-focused AI answering engine** that runs entirely on your own hardware. It combines knowledge from the vast internet with support for **local LLMs** (Ollama) and cloud providers (OpenAI, Claude, Groq), delivering accurate answers with **cited sources** while keeping your searches completely private."
-    </small>
-    - <strong>Startpage</strong> <span class="flag">🇳🇱</span>: privacy-first, GDPR, for basic search.<br>
-  </p>
-</div>
-
-<h3>Code Repository:</h3>
-<div class="card">
-  <strong><i>In progress…</i></strong><br>
-</div>
-
-<h3>Messaging:</h3>
-<div class="card">
-  <strong>Signal <span class="flag">🇺🇸</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
-  <p>
-    - Open source, end-to-end encrypted<br>
-    - Non-profit, no data monetization<br>
-    - US-based but best available option in this category<br>
+    Note: a browser with tiny market share (Firefox) isn't viable as a primary browser for web dev.<br>
   </p>
 </div>
 
 <h3>Collaboration:</h3>
 <div class="card">
-  <strong><i>In progress…</i></strong><br>
-  <p>
-    - <strong>TeamSpeak</strong>? <a href="https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/" target="_blank" rel="noopener noreferrer">Exodus from Discord...</a><br>
-  </p>
+    <strong><i>In progress…</i></strong><br>
+    <small>
+    - <strong>TeamSpeak?</strong> <a href="https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/" target="_blank" rel="noopener noreferrer">Exodus from Discord...</a><br>
+    </small>
 </div>
 
 <hr>
