@@ -302,7 +302,7 @@
     </div>
     <small>
       - non-profit, strong community<br>
-      - based on Forgejo self-hosting forge
+      - based on Forgejo self-hosting
     </small>
   </div>
 </div>
@@ -377,12 +377,13 @@
       <span class="flag">🇨🇦</span>
       <span class="pipe">|</span>
       <span class="attr attr-yes">✓ private</span>
+      <span class="attr attr-yes">✓ local</span>
       <span class="pipe">|</span>
       <span class="attr">freemium</span>
     </div>
     <small>
       - Canadian-owned<br>
-      - servers in Canada<br>
+      - physical servers in Canada<br>
       - PIPEDA compliant
     </small>
   </div>
@@ -416,7 +417,7 @@
     </div>
     <small>
       - for dev and QA only<br>
-      - note: a browser market share (Firefox) is too tiny for reliable cross-browser dev testing
+      - note: a browser market share (Firefox) is too tiny for reliable x-browser dev testing
     </small>
   </div>
 </div>
