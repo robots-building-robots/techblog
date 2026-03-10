@@ -233,7 +233,7 @@ img.portrait {
 }
 
 .card p {
-  margin: 0.25rem 0;
+  margin: 0.5rem 0;
 }
 
 .card small {
@@ -262,4 +262,30 @@ img.portrait {
 
 .bg-dark {
   background: var(--bg-dark);
+}
+
+.card-entry + .card-entry {
+  margin-top: 2rem;
+}
+
+.card-attrs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25em 0.5em;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.attr {
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+}
+
+.attr-yes {
+  color: #5a9472;
+}
+
+.attr-no {
+  color: #8a5555;
 }

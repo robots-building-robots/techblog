@@ -12,7 +12,7 @@
      <link>https://blog.modelcollapse.site/posts/ursula-franklin.html</link>
      <guid>https://blog.modelcollapse.site/posts/ursula-franklin.html</guid>
      <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
-     <description><![CDATA[<p><em>Ursula Franklin</em>&#39;s 1989 Massey Lecture <em>&quot;The Real World of Technology&quot;</em> reads as a contemporary critique. Delivered at the dawn of the internet and personal computing, the technocratic conditions she described have only intensified. Her analysis of how <em>prescriptive technologies</em> erode human agency and restructure social relations around compliance anticipated everything from algorithmic management to surveillance infrastructure. Today, with <em>Big Tech&#39;s</em> rapid deployment of <em>LLMs</em> and <em>agentic AI</em>, her framework proves only more prescient. </p>
+     <description><![CDATA[<p><em>Ursula Franklin</em>&#39;s 1989 Massey Lecture <em>&quot;The Real World of Technology&quot;</em> reads as  contemporary critique. Delivered at the dawn of the internet and personal computing, the technocratic conditions she described have only intensified. Her analysis of how <em>prescriptive technologies</em> erode human agency and restructure social relations around compliance has anticipated everything from algorithmic management to surveillance infrastructure. Today, with <em>Big Tech&#39;s</em> rapid deployment of <em>LLMs</em> and <em>agentic AI</em>, her thought is proving only more prescient. </p>
 <p>What would Franklin say about the largely unregulated roll-out of &quot;<em>intelligence tools</em>&quot; into our homes and workplaces? What might a more <em>responsible</em> approach look like?</p>
 <h2 id="prescriptive-technologies">Prescriptive Technologies</h2>
 <p>Franklin defines technology not as simply a collection of tools, but as a <em>comprehensive social practice</em> that dictates human relationships and structures power. She distinguishes between two fundamental categories: holistic and prescriptive. <em>Holistic technologies</em> are the tools of the craftsperson —the stonemason, the weaver, the independent developer who custom codes software— where a single maker oversees production from inception to completion, exercising judgment at every stage. <em>Prescriptive technologies</em> fragment production into discrete, managed steps —the assembly line, the fulfillment centre— displacing autonomy into layers of management and monitoring. The maker no longer makes; they <em>comply</em>.</p>
@@ -103,176 +103,340 @@
      <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
      <description><![CDATA[<p>️️In January 2026, I made the resolution to ditch US-based <strong>Big Tech</strong> as much as possible. We are living through a time of intensifying geopolitical tension and accelerating consolidation of digital infrastructure into a small number of empire-scale corporations who have captured the internet. They surveil our activity, manipulate our behaviour, extract our content, and sell it back to us like bottled water — or, should I say, high fructose slop.</p>
 <p>️️Most people don&#39;t care where their data lives. We just want what&#39;s cheap, familiar, and what works. The real costs of that convenience are never disclosed the moment we sign up. We have quietly normalized storing our digital fingerprints under legal systems we never agreed to, in jurisdictions where we have no standing. That normalization is worth resisting.</p>
-<p><strong>Infrastructure isn&#39;t neutral</strong>. The same data pipelines and AI systems powering our productivity tools are procured for <strong>surveillance, unlawful policing, and warfare</strong>. The small print doesn&#39;t mention that. And none of it is more ethical for being algorithmic. <strong>Small Tech</strong>, not anti-technology, is the framing here. Smaller, local alternatives that can actually be held accountable; not platforms that answer to no one.</p>
+<p><strong>Infrastructure isn&#39;t neutral</strong>. Especially, as &quot;smart&quot; technology become more autonomous and tuned to particular value sets or ideologies.  The same data pipelines and AI systems powering our productivity tools are procured for <strong>surveillance, unlawful policing, and warfare</strong>. The small print doesn&#39;t mention that. And none of it is more ethical for being algorithmic. <strong>Small Tech</strong>, not anti-technology, is the framing here. Smaller, local alternatives that can actually be held accountable; not platforms that answer to no one.</p>
 <hr>
 <blockquote>
 <p>&quot;Every program in your computer that is adverse to your interest can be neutralized with a program that is beneficial to your interests. And that means, that when you create a program that is deliberately bad, you invite new market entrance to make one that&#39;s good.&quot; — <strong>Cory Doctorow</strong></p>
 </blockquote>
 <hr>
 <p>For inspiration, I looked to Paris Marx&#39;s <a href="https://disconnect.blog/getting-off-us-tech-a-guide/" target="_blank" rel="noopener noreferrer external">Getting Off US Tech</a>, Scott Galloway&#39;s <a href="https://www.resistandunsubscribe.com/" target="_blank" rel="noopener noreferrer external">Resist and Unsubscribe</a>, and <a href="https://quitgpt.org/" target="_blank" rel="noopener noreferrer external">QuitGPT</a>, but with a few different needs as a software developer focused open source tooling and the responsible use of AI, which, for better or worse, is now considered a professional baseline.</p>
-<p>This is not just about consumer boycott. Choosing one <em>Big Tech</em> brand over another because it&#39;s today&#39;s so-called ethical choice will hardly make a difference. But advocating for public policy and investing our time and energy in exploring and sharing real working alternatives will. </p>
+<p>This is not just about consumer boycott. Choosing one <em>Big Tech</em> brand over another because it&#39;s today&#39;s so-called ethical choice will hardly make a difference. But advocating for public policy and investing our time and energy in exploring and sharing real working alternatives will.</p>
 <p>I&#39;m honest about US-based tech I still use — either due to professional lock-in (which I try to offset as much as possible with other alternatives), or because, despite being US-based, is still one of the better alternatives to Big Tech.</p>
 <hr class="spacer">
 
 <!-- card template
 <h3>SERVICE:</h3>
 <div class="card">
-  <strong>CURRENT SERVICE <span class="flag">🇨🇭</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>free / freemium / min / mid / max</small><br>
-  <strong>Sub-label:</strong><br>
-  <small>
-    - Note<br>
-    - Note<br>
-  </small>
+  <div class="card-entry">
+    <strong>TOOL NAME</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇨🇦</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-yes">✓ local</span>
+      <span class="attr attr-yes">✓ oss</span>
+      <span class="attr attr-yes">✓ private</span>
+      <span class="pipe">|</span>
+      <span class="attr">free</span>
+    </div>
+    <small>
+      - Detail<br>
+      - Detail
+    </small>
+  </div>
 </div>
 -->
 
 <h3>AI Assisted Coding:</h3>
 <div class="card">
-  <strong>Ollama</strong> <span class="flag">🇺🇸</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
-  <p>
-    - Ollama + VSCode + qwen2.5<br>
-    - IDE inline code completion and rubber ducking.<br>
-    - Local, open source LLM tooling for privacy and speed.<br>
-    - No profiling, no cloud telemetry, MIT license.<br>
-    <br>
-  </p>
-  <strong>Agentic Coding:</strong><br>
-  <p>
-    - <strong>Claude Code</strong> <span class="flag">🇺🇸</span> <span class="pipe">|</span> <span class="label">$$$</span><br>
-    <p>
-    - VSCode + Continue.dev + Claude Code.<br>
-    - for heavy lifting; leads current benchmarks.<br>
-    </p>
-  </p>
+  <div class="card-entry">
+    <strong>Ollama</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇺🇸</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-yes">✓ local</span>
+      <span class="attr attr-yes">✓ oss</span>
+      <span class="attr attr-yes">✓ private</span>
+      <span class="pipe">|</span>
+      <span class="attr">free</span>
+    </div>
+    <small>
+      - VSCode + Continue.dev + qwen2.5<br>
+      - inline code completion and chat
+    </small>
+  </div>
+  <div class="card-entry">
+    <strong>Claude Code</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇺🇸</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-no">✗ local</span>
+      <span class="attr attr-no">✗ oss</span>
+      <span class="pipe">|</span>
+      <span class="attr">$$$</span>
+    </div>
+    <small>
+      - VSCode + Continue.dev + Claude Code<br>
+      - for heavy lifting; leads current benchmarks
+    </small>
+  </div>
 </div>
 
 <h3>Writing &amp; Research:</h3>
 <div class="card">
-  <strong>Ollama</strong> <span class="flag">🇺🇸</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
-    - Ollama + Llama3 or phi3<br>
-    - <strong>NotebookLM</strong> hard to give up with its context awareness and other tools.<br>
-    <br>
-  </p>
-  <strong>Obsidian + Copilot:</strong> <span class="flag">🇺🇸</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
-  <p>
-    - Local storage and private vault for personal docs.<br>
-    - <strong>Ollama</strong> model chat-based, context-aware vault search.<br>
-  </p>
+  <div class="card-entry">
+    <strong>Ollama</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇺🇸</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-yes">✓ local</span>
+      <span class="attr attr-yes">✓ oss</span>
+      <span class="attr attr-yes">✓ private</span>
+      <span class="pipe">|</span>
+      <span class="attr">free</span>
+    </div>
+    <small>
+      - Llama3 or phi3<br>
+      - replacing NotebookLM for most tasks
+    </small>
+  </div>
+  <div class="card-entry">
+    <strong>Obsidian + Copilot</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇺🇸</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-yes">✓ local</span>
+      <span class="attr attr-no">✗ oss</span>
+      <span class="attr attr-yes">✓ private</span>
+      <span class="pipe">|</span>
+      <span class="attr">free</span>
+    </div>
+    <small>
+      - local vault with Ollama-powered, context-aware search
+    </small>
+  </div>
 </div>
 
-<h3>Chat & Search:</h3>
+<h3>Chat &amp; Search:</h3>
 <div class="card">
-  <p>
-      Offline: <strong>Ollama</strong> <span class="flag">🇺🇸</span> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
-      <small>
-    - models: Llama3 or phi3<br>
-    - Local model for lightweight, private queries.<br>
-    </small><br>
-    <br>
-      Online:  <strong>Perplexica.io</strong> <span class="flag">🇺🇸</span> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
-      <small>
-        - Private, local AI answering engine, combines internet knowledge, supports local models and cloud providers, accurate answers with cited sources, keeps searches private.
-      </small><br>
-    <br>
-    Heavy-lifting: <strong>Claude Pro</strong> <span class="flag">🇺🇸</span> <span class="pipe">|</span> <span class="label">$$$</span><br>
-  </p>
+  <div class="card-entry">
+    <strong>Ollama</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇺🇸</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-yes">✓ local</span>
+      <span class="attr attr-yes">✓ oss</span>
+      <span class="attr attr-yes">✓ private</span>
+      <span class="pipe">|</span>
+      <span class="attr">free</span>
+    </div>
+    <small>
+      - models: Llama3 or phi3<br>
+      - lightweight, offline queries
+    </small>
+  </div>
+  <div class="card-entry">
+    <strong>Perplexica</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇺🇸</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-yes">✓ local</span>
+      <span class="attr attr-yes">✓ oss</span>
+      <span class="attr attr-yes">✓ private</span>
+      <span class="pipe">|</span>
+      <span class="attr">free</span>
+    </div>
+    <small>
+      - self-hosted AI search<br>
+      - cited answers
+      - supports local and cloud models
+    </small>
+  </div>
+  <div class="card-entry">
+    <strong>Claude Pro</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇺🇸</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-no">✗ local</span>
+      <span class="attr attr-no">✗ oss</span>
+      <span class="pipe">|</span>
+      <span class="attr">$$$</span>
+    </div>
+    <small>
+      - for heavy lifting
+    </small>
+  </div>
 </div>
 
 <h3>OS:</h3>
 <div class="card">
-  <strong>Desktop:</strong><br>
-  <i>In progress…</i><br>
-  <p>
-    - Long-term goal: <strong>Linux</strong> <span class="flag">🇺🇸</span><br>
-    <br>
-  </p>
-  <strong>Mobile:</strong><br>
-  <strong>GrapheneOS</strong> <span class="flag">🇨🇦</span> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
-  <p>
-    - privacy-hardened Android fork.<br>
-    - Separate user profiles with Google services sandboxed.<br>
-    - No-hitch install on Pixel 6.<br>
-  </p>
+  <div class="card-entry">
+    <strong>Desktop</strong> — <i>In progress…</i><br>
+    <div class="card-attrs">
+      <span class="flag">🇺🇸</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-yes">✓ local</span>
+      <span class="attr attr-yes">✓ oss</span>
+      <span class="attr attr-yes">✓ private</span>
+    </div>
+    <small>
+      - <strong>Linux</strong> is the long-term goal
+    </small>
+  </div>
+  <div class="card-entry">
+    <strong>GrapheneOS</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇨🇦</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-yes">✓ local</span>
+      <span class="attr attr-yes">✓ oss</span>
+      <span class="attr attr-yes">✓ private</span>
+      <span class="pipe">|</span>
+      <span class="attr">free</span>
+    </div>
+    <small>
+      - privacy-hardened Android fork<br>
+      - create separate user profiles<br>
+      - Google services sandboxed<br>
+      - easy, frictionless install on Pixel 6<br>
+    </small>
+  </div>
 </div>
 
 <h3>Code Repository:</h3>
 <div class="card">
-  <strong>Codeberg</strong> <span class="flag">🇩🇪</span> <span class="pipe">|</span> <span class="label">$: </span><small>free</small><br>
-  <p>
-      - Non-profit, German, Forgejo-based.<br>
-      - Strong community and solid GitHub alternative.<br>
-  </p>
+  <div class="card-entry">
+    <strong>Codeberg</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇩🇪</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-yes">✓ oss</span>
+      <span class="attr attr-yes">✓ private</span>
+      <span class="attr attr-yes">✓ non-profit</span>
+      <span class="pipe">|</span>
+      <span class="attr">free</span>
+    </div>
+    <small>
+      - non-profit, strong community<br>
+      - based on Forgejo self-hosting forge
+    </small>
+  </div>
 </div>
 
 <h3>Proton Suite:</h3>
 <div class="card">
-  <strong>Proton <span class="flag">🇨🇭</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>freemium</small><br>
-  <strong>VPN:</strong><br>
-  <p>
-    - No-logs policy, open source, independently audited.<br>
-  </p>
-  <strong>Password Manager:</strong><br>
-  <p>
-    - Open source, end-to-end encrypted.<br>
-  </p>
- <strong>Mail:</strong><br>
-  <p>
-    - End-to-end encrypted by default.<br>
-  </p>
-  <strong>Drive:</strong><br>
-  <p>
-    - End-to-end encrypted.<br>
-    - Still maturing as a product; bundled with Proton Docs &amp; Sheets.<br>
-  </p>
+  <div class="card-entry">
+    <strong>Proton</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇨🇭</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-yes">✓ oss</span>
+      <span class="attr attr-yes">✓ encrypted</span>
+      <span class="attr attr-yes">✓ audited</span>
+      <span class="attr attr-yes">✓ private</span>
+      <span class="pipe">|</span>
+      <span class="attr">freemium</span>
+    </div>
+    <small>
+      - VPN · Password Manager · Mail · Drive<br>
+      - end-to-end encrypted across all products<br>
+      - bundled with Drive, Docs + Sheets which are still maturing.
+    </small>
+  </div>
 </div>
 
 <h3>ISP:</h3>
 <div class="card">
-  <strong>TekSavvy <span class="flag">🇨🇦</span></strong> <span class="pipe">|</span> <span class="label">$$</span><br>
-  <p>
-    - Independent, advocates for net neutrality.<br>
-    - Default ISP resolvers log every domain you visit regardless.<br>
-    - Encrypted DNS prevents ISP surveillance.<br>
-  </p>
+  <div class="card-entry">
+    <strong>TekSavvy</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇨🇦</span>
+      <span class="pipe">|</span>
+      <span class="attr">$$</span>
+    </div>
+    <small>
+      - independent Canadian ISP<br>
+      - advocates for net neutrality<br>
+      - default resolvers still log DNS<br>
+      — offset with encrypted DNS
+    </small>
+  </div>
 </div>
 
 <h3>DNS:</h3>
 <div class="card">
-  <strong>NextDNS</strong> <span class="flag">🇫🇷</span><br>
-  <p>
-    - Cloud-based firewall; blocks trackers; supports encrypted protocols.<br>
-  </p>
+  <div class="card-entry">
+    <strong>NextDNS</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇫🇷</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-no">✗ local</span>
+      <span class="attr attr-yes">✓ encrypted</span>
+      <span class="attr attr-yes">✓ private</span>
+      <span class="pipe">|</span>
+      <span class="attr">freemium</span>
+    </div>
+    <small>
+      - cloud-based firewall<br>
+      - blocks trackers and malware<br>
+      - supports encrypted DNS protocols (DoH, DoT)
+    </small>
+  </div>
 </div>
 
 <h3>Hosting:</h3>
 <div class="card">
-  <strong>Websavers.ca <span class="flag">🇨🇦</span></strong> <span class="pipe">|</span> <span class="label">$: </span><small>freemium</small><br>
-  <p>
-    - Canadian-owned and operated, servers in Canada.<br>
-    - PIPEDA compliant.<br>
-  </p>
+  <div class="card-entry">
+    <strong>Websavers.ca</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇨🇦</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-yes">✓ private</span>
+      <span class="pipe">|</span>
+      <span class="attr">freemium</span>
+    </div>
+    <small>
+      - Canadian-owned<br>
+      - servers in Canada<br>
+      - PIPEDA compliant
+    </small>
+  </div>
 </div>
 
 <h3>Browser:</h3>
 <div class="card">
-  <p>
-    <strong>Mullvad</strong> <span class="flag">🇸🇪</span>: for personal browsing (anti-fingerprinting, no telemetry).<br>
-    <strong>Brave or Chrome</strong> <span class="flag">🇺🇸</span>: for dev and QA only.<br>
-    <br>
-    Note: a browser with tiny market share (Firefox) isn't viable as a primary browser for web dev.<br>
-  </p>
+  <div class="card-entry">
+    <strong>Mullvad</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇸🇪</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-yes">✓ oss</span>
+      <span class="attr attr-yes">✓ private</span>
+      <span class="pipe">|</span>
+      <span class="attr">free</span>
+    </div>
+    <small>
+      — anti-fingerprinting, no telemetry
+    </small>
+  </div>
+  <div class="card-entry">
+    <strong>Brave / Chrome</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇺🇸</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-yes">✓ oss</span>
+      <span class="attr attr-no">✗ private</span>
+      <span class="pipe">|</span>
+      <span class="attr">free</span>
+    </div>
+    <small>
+      - for dev and QA only<br>
+      - note: a browser market share (Firefox) is too tiny for reliable cross-browser dev testing
+    </small>
+  </div>
 </div>
 
 <h3>Collaboration:</h3>
 <div class="card">
+  <div class="card-entry">
     <strong><i>In progress…</i></strong><br>
     <small>
-    - <strong>TeamSpeak?</strong> <a href="https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/" target="_blank" rel="noopener noreferrer">Exodus from Discord...</a><br>
+      - TeamSpeak? <a href="https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/" target="_blank" rel="noopener noreferrer">Current exodus from Discord...</a>
     </small>
+  </div>
 </div>
 
 <hr>
-<p><em>&quot;But I have nothing to hide!&quot;</em> This argument hasn&#39;t aged well. It assumes the rules won&#39;t change, that platforms won&#39;t be sold, and the data won&#39;t be misused, especially against those less fortunate than us. <strong>Data Privacy</strong> isn&#39;t about secrecy; it&#39;s about who holds power over your information and what they can do with it. <strong>Digital Sovereignty</strong> extends that question to jurisdiction: not just who holds the power, but under what law, with what accountability, and at what cost to community and the environment. </p>
+<p><em>&quot;But I have nothing to hide!&quot;</em> This argument hasn&#39;t aged well. It assumes the rules won&#39;t change, that platforms won&#39;t be sold, and the data won&#39;t be misused, especially against those less fortunate than us. <strong>Data Privacy</strong> isn&#39;t about secrecy; it&#39;s about who holds power over your information and what they can do with it. <strong>Digital Sovereignty</strong> extends that question to jurisdiction: not just who holds the power, but under what law, with what accountability, and at what cost to community and the environment.</p>
 <p>For Canadians, there is a persistent gap between the privacy protections we assume we have and what is actually enforceable when a service runs on US infrastructure, regardless of where the physical servers actually sit. This isn&#39;t about national borders. It&#39;s about <strong>legibility and accountability</strong>.</p>
 <p>Every time we sign up or sign in we should be asking ourselves: <strong>who unfairly profits from our convenience, and at whose expense?</strong></p>
 <hr>
@@ -290,7 +454,7 @@
 <p>Informed by <em>Critical Theory</em> and <em>Philosophy of Technology</em>, my goal is to build digital experiences and tools grounded in critical —and constructive— thinking. Healthy skepticism, resisting convenience as justification for ethical compromise, and insisting on solutions that respect the diverse communities and ecologies that sustain us.</p>
 <p><em>Model collapse</em> is what happens when AI systems train on AI-generated data: outputs converge, variance narrows, and the model consumes its own tail. Whether or not model collapse proves technically inevitable as a metaphor for the social, algorithmic monocultures follow the same pattern, erasing the particularities, contradictions, and ambiguities that make lived existence meaningful. When systems exclude human authorship, they deny contingency, erase difference, and foreclose creativity — and with them, the possibility of technology that genuinely serves the many, not just the few. Keeping that authorship legible, accountable, and celebrated is not an empty romantic gesture; it is a technical and ethical necessity.</p>
 <p>Technology that augments rather than displaces human agency and creativity is worth building.</p>
-<p>Get in touch: <a href="mailto:hello&#64;modelcollapse&#46;site"><span>hello&#64;modelcollapse&#46;site</span></a></p>
+<p>Get in touch: <a href="mailto:collapse&#46;model&#64;pm&#46;me"><span>collapse&#46;model&#64;pm&#46;me</span></a></p>
 <p>&nbsp;</p>
 <h4 id="some-inspiration">Some Inspiration:</h4>
 <ul>
