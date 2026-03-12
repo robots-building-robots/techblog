@@ -136,12 +136,18 @@
 </div>
 -->
 
-<h3>AI Assisted Coding:</h3>
+<h3>OS:</h3>
 <div class="card">
   <div class="card-entry">
-    <strong>Ollama</strong><br>
+    <strong>Desktop:</strong> <i>In progress…</i><br>
+    <small>
+      - <strong>Linux</strong> is the long-term goal
+    </small>
+  </div>
+  <div class="card-entry">
+    <strong>GrapheneOS</strong><br>
     <div class="card-attrs">
-      <span class="flag">🇺🇸</span>
+      <span class="flag">🇨🇦</span>
       <span class="pipe">|</span>
       <span class="attr attr-yes">✓ private</span>
       <span class="attr attr-yes">✓ local</span>
@@ -150,60 +156,122 @@
       <span class="attr">free</span>
     </div>
     <small>
-      - VSCode + Continue.dev + qwen2.5<br>
-      - inline code completion and chat
-    </small>
-  </div>
-  <div class="card-entry">
-    <strong>Claude Code</strong><br>
-    <div class="card-attrs">
-      <span class="flag">🇺🇸</span>
-      <span class="pipe">|</span>
-      <span class="attr attr-no">✗ private</span>
-      <span class="attr attr-no">✗ local</span>
-      <span class="attr attr-no">✗ oss</span>
-      <span class="pipe">|</span>
-      <span class="attr">$$$</span>
-    </div>
-    <small>
-      - VSCode + Continue.dev + Claude Code<br>
-      - for heavy lifting; leads current benchmarks
-      - Anthropic does no training on API data by default
+      - privacy-hardened Android fork<br>
+      - create separate user profiles<br>
+      - Google services sandboxed<br>
+      - easy, frictionless install on Pixel 6<br>
     </small>
   </div>
 </div>
 
-<h3>Writing &amp; Research:</h3>
+<h3>ISP:</h3>
 <div class="card">
   <div class="card-entry">
-    <strong>Ollama</strong><br>
+    <strong>TekSavvy</strong><br>
     <div class="card-attrs">
-      <span class="flag">🇺🇸</span>
+      <span class="flag">🇨🇦</span>
+      <span class="pipe">|</span>
+      <span class="attr">$$</span>
+    </div>
+    <small>
+      - independent Canadian ISP<br>
+      - advocates for net neutrality<br>
+      - default resolvers still log DNS<br>
+      — offset with encrypted DNS
+    </small>
+  </div>
+</div>
+
+<h3>DNS:</h3>
+<div class="card">
+  <div class="card-entry">
+    <strong>NextDNS</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇫🇷</span>
       <span class="pipe">|</span>
       <span class="attr attr-yes">✓ private</span>
-      <span class="attr attr-yes">✓ local</span>
+      <span class="attr attr-yes">✓ encrypted</span>
+      <span class="pipe">|</span>
+      <span class="attr">freemium</span>
+    </div>
+    <small>
+      - cloud-based firewall<br>
+      - blocks trackers and malware<br>
+      - supports encrypted DNS protocols (DoH, DoT)
+    </small>
+  </div>
+</div>
+
+<h3>Browser:</h3>
+<div class="card">
+  <div class="card-entry">
+    <strong>Mullvad</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇸🇪</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-yes">✓ private</span>
       <span class="attr attr-yes">✓ oss</span>
       <span class="pipe">|</span>
       <span class="attr">free</span>
     </div>
     <small>
-      - Llama3 or phi3<br>
-      - replacing NotebookLM for most tasks
+      — anti-fingerprinting, no telemetry
     </small>
   </div>
   <div class="card-entry">
-    <strong>Obsidian + Copilot</strong><br>
+    <strong>Brave</strong><br>
     <div class="card-attrs">
       <span class="flag">🇺🇸</span>
       <span class="pipe">|</span>
       <span class="attr attr-yes">✓ private</span>
-      <span class="attr attr-yes">✓ local</span>
-      <span class="attr attr-no">✗ oss</span>
+      <span class="attr attr-yes">✓ oss</span>
       <span class="pipe">|</span>
       <span class="attr">free</span>
     </div>
     <small>
-      - local vault with Ollama-powered, context-aware search
+      - for dev and QA only<br>
+      - note: a browser market share (Firefox) is too tiny for reliable x-browser dev testing
+    </small>
+  </div>
+</div>
+
+<h3>Proton Suite:</h3>
+<div class="card">
+  <div class="card-entry">
+    <strong>Proton</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇨🇭</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-yes">✓ private</span>
+      <span class="attr attr-yes">✓ encrypted</span>
+      <span class="attr attr-yes">✓ oss</span>
+      <span class="pipe">|</span>
+      <span class="attr">freemium</span>
+    </div>
+    <small>
+      - VPN · Password Manager · Mail · Drive<br>
+      - end-to-end encrypted across all products<br>
+      - bundled with Drive, Docs + Sheets which are still maturing.
+    </small>
+  </div>
+</div>
+
+<h3>Hosting:</h3>
+<div class="card">
+  <div class="card-entry">
+    <strong>Websavers.ca</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇨🇦</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-yes">✓ private</span>
+      <span class="attr attr-yes">✓ local</span>
+      <span class="pipe">|</span>
+      <span class="attr">$</span>
+    </div>
+    <small>
+      - Canadian-owned<br>
+      - physical servers in Canada<br>
+      - PIPEDA compliant
     </small>
   </div>
 </div>
@@ -260,30 +328,12 @@
   </div>
 </div>
 
-<h3>OS:</h3>
+<h3>Collaboration:</h3>
 <div class="card">
   <div class="card-entry">
-    <strong>Desktop:</strong> <i>In progress…</i><br>
+    <strong><i>In progress…</i></strong><br>
     <small>
-      - <strong>Linux</strong> is the long-term goal
-    </small>
-  </div>
-  <div class="card-entry">
-    <strong>GrapheneOS</strong><br>
-    <div class="card-attrs">
-      <span class="flag">🇨🇦</span>
-      <span class="pipe">|</span>
-      <span class="attr attr-yes">✓ private</span>
-      <span class="attr attr-yes">✓ local</span>
-      <span class="attr attr-yes">✓ oss</span>
-      <span class="pipe">|</span>
-      <span class="attr">free</span>
-    </div>
-    <small>
-      - privacy-hardened Android fork<br>
-      - create separate user profiles<br>
-      - Google services sandboxed<br>
-      - easy, frictionless install on Pixel 6<br>
+      - TeamSpeak? <a href="https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/" target="_blank" rel="noopener noreferrer">Current exodus from Discord...</a>
     </small>
   </div>
 </div>
@@ -308,124 +358,74 @@
   </div>
 </div>
 
-<h3>Proton Suite:</h3>
+<h3>Writing &amp; Research:</h3>
 <div class="card">
   <div class="card-entry">
-    <strong>Proton</strong><br>
-    <div class="card-attrs">
-      <span class="flag">🇨🇭</span>
-      <span class="pipe">|</span>
-      <span class="attr attr-yes">✓ private</span>
-      <span class="attr attr-yes">✓ encrypted</span>
-      <span class="attr attr-yes">✓ oss</span>
-      <span class="pipe">|</span>
-      <span class="attr">freemium</span>
-    </div>
-    <small>
-      - VPN · Password Manager · Mail · Drive<br>
-      - end-to-end encrypted across all products<br>
-      - bundled with Drive, Docs + Sheets which are still maturing.
-    </small>
-  </div>
-</div>
-
-<h3>ISP:</h3>
-<div class="card">
-  <div class="card-entry">
-    <strong>TekSavvy</strong><br>
-    <div class="card-attrs">
-      <span class="flag">🇨🇦</span>
-      <span class="pipe">|</span>
-      <span class="attr">$$</span>
-    </div>
-    <small>
-      - independent Canadian ISP<br>
-      - advocates for net neutrality<br>
-      - default resolvers still log DNS<br>
-      — offset with encrypted DNS
-    </small>
-  </div>
-</div>
-
-<h3>DNS:</h3>
-<div class="card">
-  <div class="card-entry">
-    <strong>NextDNS</strong><br>
-    <div class="card-attrs">
-      <span class="flag">🇫🇷</span>
-      <span class="pipe">|</span>
-      <span class="attr attr-yes">✓ private</span>
-      <span class="attr attr-yes">✓ encrypted</span>
-      <span class="pipe">|</span>
-      <span class="attr">freemium</span>
-    </div>
-    <small>
-      - cloud-based firewall<br>
-      - blocks trackers and malware<br>
-      - supports encrypted DNS protocols (DoH, DoT)
-    </small>
-  </div>
-</div>
-
-<h3>Hosting:</h3>
-<div class="card">
-  <div class="card-entry">
-    <strong>Websavers.ca</strong><br>
-    <div class="card-attrs">
-      <span class="flag">🇨🇦</span>
-      <span class="pipe">|</span>
-      <span class="attr attr-yes">✓ private</span>
-      <span class="attr attr-yes">✓ local</span>
-      <span class="pipe">|</span>
-      <span class="attr">$</span>
-    </div>
-    <small>
-      - Canadian-owned<br>
-      - physical servers in Canada<br>
-      - PIPEDA compliant
-    </small>
-  </div>
-</div>
-
-<h3>Browser:</h3>
-<div class="card">
-  <div class="card-entry">
-    <strong>Mullvad</strong><br>
-    <div class="card-attrs">
-      <span class="flag">🇸🇪</span>
-      <span class="pipe">|</span>
-      <span class="attr attr-yes">✓ private</span>
-      <span class="attr attr-yes">✓ oss</span>
-      <span class="pipe">|</span>
-      <span class="attr">free</span>
-    </div>
-    <small>
-      — anti-fingerprinting, no telemetry
-    </small>
-  </div>
-  <div class="card-entry">
-    <strong>Brave</strong><br>
+    <strong>Ollama</strong><br>
     <div class="card-attrs">
       <span class="flag">🇺🇸</span>
       <span class="pipe">|</span>
       <span class="attr attr-yes">✓ private</span>
+      <span class="attr attr-yes">✓ local</span>
       <span class="attr attr-yes">✓ oss</span>
       <span class="pipe">|</span>
       <span class="attr">free</span>
     </div>
     <small>
-      - for dev and QA only<br>
-      - note: a browser market share (Firefox) is too tiny for reliable x-browser dev testing
+      - Llama3 or phi3<br>
+      - replacing NotebookLM for most tasks
+    </small>
+  </div>
+  <div class="card-entry">
+    <strong>Obsidian + Copilot</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇺🇸</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-yes">✓ private</span>
+      <span class="attr attr-yes">✓ local</span>
+      <span class="attr attr-no">✗ oss</span>
+      <span class="pipe">|</span>
+      <span class="attr">free</span>
+    </div>
+    <small>
+      - local vault with Ollama-powered, context-aware search
     </small>
   </div>
 </div>
 
-<h3>Collaboration:</h3>
+<h3>AI Assisted Coding:</h3>
 <div class="card">
   <div class="card-entry">
-    <strong><i>In progress…</i></strong><br>
+    <strong>Ollama</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇺🇸</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-yes">✓ private</span>
+      <span class="attr attr-yes">✓ local</span>
+      <span class="attr attr-yes">✓ oss</span>
+      <span class="pipe">|</span>
+      <span class="attr">free</span>
+    </div>
     <small>
-      - TeamSpeak? <a href="https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/" target="_blank" rel="noopener noreferrer">Current exodus from Discord...</a>
+      - VSCode + Continue.dev + qwen2.5<br>
+      - inline code completion and chat
+    </small>
+  </div>
+  <div class="card-entry">
+    <strong>Claude Code</strong><br>
+    <div class="card-attrs">
+      <span class="flag">🇺🇸</span>
+      <span class="pipe">|</span>
+      <span class="attr attr-no">✗ private</span>
+      <span class="attr attr-no">✗ local</span>
+      <span class="attr attr-no">✗ oss</span>
+      <span class="pipe">|</span>
+      <span class="attr">$$$</span>
+    </div>
+    <small>
+      - VSCode + Continue.dev + Claude Code<br>
+      - for heavy lifting; leads current benchmarks
+      - Anthropic does no training on API data by default
     </small>
   </div>
 </div>
