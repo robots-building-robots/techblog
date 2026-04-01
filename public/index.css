@@ -7,7 +7,7 @@ html {
 }
 
 :root {
-  --bg: #0d0d0d;
+  --bg: #161616;
   --highlight: #ffffff;
   --accent: #eeeeee;
   --text-primary: #bbbbbb;
@@ -17,6 +17,59 @@ html {
   --bg-dark: #000;
   --v-spacing: clamp(3rem, 6vw, 6rem);
 }
+
+[data-theme="light"] {
+  --bg: #f8f7f4;
+  --highlight: #111111;
+  --accent: #222222;
+  --text-primary: #444444;
+  --text-secondary: #666666;
+  --dark: #888888;
+  --border: #dddddd;
+  --bg-dark: #eeebe4;
+}
+
+[data-theme="light"] body {
+  font-weight: 400;
+}
+
+[data-theme="light"] time,
+[data-theme="light"] .meta,
+[data-theme="light"] .dim,
+[data-theme="light"] small,
+[data-theme="light"] footer {
+  font-weight: 400;
+}
+
+.theme-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  width: 2.25rem;
+  height: 2.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: var(--text-secondary);
+  transition: color 0.3s ease, border-color 0.3s ease;
+  z-index: 100;
+  padding: 0;
+}
+
+.theme-toggle:hover {
+  color: var(--highlight);
+  border-color: var(--text-secondary);
+}
+
+.theme-toggle .icon-moon { display: none; }
+.theme-toggle .icon-sun  { display: block; }
+
+[data-theme="light"] .theme-toggle .icon-moon { display: block; }
+[data-theme="light"] .theme-toggle .icon-sun  { display: none; }
 
 body {
   background-color: var(--bg);
@@ -38,7 +91,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 1.5em;
+  font-size: 1.3em;
   line-height: 1.4em;
   text-transform: uppercase;
 }
@@ -82,6 +135,10 @@ a {
 a:hover {
   text-decoration-color: var(--text-secondary);
   color: var(--highlight);
+}
+
+nav a {
+  font-weight: 800;
 }
 
 .v-align-middle > * {

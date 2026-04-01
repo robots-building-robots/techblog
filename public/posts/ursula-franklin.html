@@ -1,28 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Earthworming: A Franklin Guide to Responsible Tech | MODEL COLLAPSE</title>
+<title>Earthworming: Responsible AI | CONCEPT DRIFT</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="author" content="Model Collapse">
+<meta name="author" content="Concept Drift">
 <meta name="description" content="Ursula Franklin&amp;#39;s 1989 Massey Lecture &amp;quot;The Real World of Technology&amp;quot; offers a sharp framework for thinking critically about &amp;quot;artificial intelligence&amp;quot; today.">
 <link rel="stylesheet" href="../index.css">
-<link rel="alternate" type="application/rss+xml" href="rss.xml" title="MODEL COLLAPSE RSS">
+<link rel="alternate" type="application/rss+xml" href="rss.xml" title="CONCEPT DRIFT RSS">
 <link rel="icon" type="image/png" href="../img/favicon.png" sizes="32x32">
+<script>if(localStorage.getItem('theme')==='light')document.documentElement.setAttribute('data-theme','light');</script>
 </head>
 <body>
 <div class="jwalker" data-color="#555" data-color-end="#000" data-size="8" data-count="3" data-speed="12" data-length="600" style="position:fixed; inset:0; overflow:auto;">
+<button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">
+  <svg class="icon-moon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+  </svg>
+  <svg class="icon-sun" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="5"/>
+    <line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/>
+    <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+    <line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/>
+    <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+  </svg>
+</button>
 <main>
 
 <nav class="align-horizontal" role="navigation">
     <span class="dim">&#x25C0;</span>
-    <a href="../index.html"> MODEL COLLAPSE</a>
+    <a href="../index.html"> CONCEPT DRIFT</a>
 </nav>
 
 <article>
     <header>
         <time datetime="2026-02-21">Fri Feb 20 2026</time>
-        <h1>Earthworming: A Franklin Guide to Responsible Tech</h1>
+        <h1>Earthworming: Responsible AI</h1>
     </header>
     <p><em>Ursula Franklin</em>&#39;s 1989 Massey Lecture <em>&quot;The Real World of Technology&quot;</em> offers a sharp framework for thinking critically about &quot;artificial intelligence&quot; today. Delivered at the dawn of the internet and personal computing, the technocratic conditions she described have only intensified. Her analysis of how <em>prescriptive technologies</em> erode human agency and restructure social relations around compliance has anticipated algorithmic surveillance, predictive policing, and mechanized warfare. Today, with <em>Big Tech&#39;s</em> rapid deployment of <em>LLMs</em> and <em>agentic AI</em>, her thought proves only more prescient. </p>
 <p>What would Franklin say about the largely unregulated roll-out of &quot;<em>intelligence tools</em>&quot; into our homes and workplaces? What might a more <em>responsible</em> approach look like?</p>
@@ -122,10 +135,47 @@
             </a>
         </span>
     </span>
-    <span>&copy; 2026 Model Collapse</span>
+    <span>&copy; 2026 Concept Drift</span>
 </footer>
 </main>
 </div>
 </body>
+<script>
+  var JWALKER_DARK  = { color: '#555',    colorEnd: '#000' };
+  var JWALKER_LIGHT = { color: '#aaaaaa', colorEnd: '#dddddd' };
+
+  function jwalkerColors() {
+    return document.documentElement.getAttribute('data-theme') === 'light'
+      ? JWALKER_LIGHT : JWALKER_DARK;
+  }
+
+  // Apply correct colors to the element before jwalker initialises.
+  (function() {
+    var jw = document.querySelector('.jwalker');
+    var c  = jwalkerColors();
+    if (jw) { jw.dataset.color = c.color; jw.dataset.colorEnd = c.colorEnd; }
+  })();
+</script>
 <script src="../jwalker.min.js"></script>
+<script>
+  function reinitJwalker() {
+    var jw = document.querySelector('.jwalker');
+    if (!jw) return;
+    var canvas = jw.querySelector('canvas');
+    if (canvas) canvas.remove();
+    var c = jwalkerColors();
+    jw.dataset.color    = c.color;
+    jw.dataset.colorEnd = c.colorEnd;
+    var s = document.createElement('script');
+    s.src = '../jwalker.min.js?' + Date.now();
+    document.body.appendChild(s);
+  }
+
+  document.getElementById('theme-toggle').addEventListener('click', function() {
+    var isLight = document.documentElement.getAttribute('data-theme') === 'light';
+    document.documentElement.setAttribute('data-theme', isLight ? '' : 'light');
+    localStorage.setItem('theme', isLight ? '' : 'light');
+    reinitJwalker();
+  });
+</script>
 </html>
